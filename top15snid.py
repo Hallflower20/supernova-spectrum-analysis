@@ -36,9 +36,9 @@ def get_spectra(sourcename,username,password,path):
 		specurl = mainurl+specname[-1]
 		specfile = os.path.basename(specname[-1])
 		prefix = os.path.dirname(specname[-1])
-		print "All spectrum files are - "
+		print("All spectrum files are - ")
 		for spec in specname:
-			print os.path.basename(spec)
+			print(os.path.basename(spec))
 		proceed = raw_input("Selected file is "+specfile+" .Press enter if this file is ok or enter the name of new file. ")
 		if(proceed != ''):
 			specfile = proceed
@@ -47,7 +47,7 @@ def get_spectra(sourcename,username,password,path):
 	except:
 		specurl,specdate='',''
 		specfile = ''
-		print "ERROR : No spectra found for this source"
+		print("ERROR : No spectra found for this source")
 	return specfile
 
 # f = open('t1.html','r').read()
@@ -66,7 +66,7 @@ username = ''
 password = ''
 
 for s,source in enumerate(ztfnames):
-	print source
+	print(source)
 	# if(glob2.glob(source)!=[]):
 	# 	continue
 	subprocess.call('mkdir '+source, shell=True)
@@ -114,8 +114,8 @@ for s,source in enumerate(ztfnames):
 		z_std.append(0)
 		z_err_avg.append(0)
 		continue
-print z_std
-print z_err_avg
+print(z_std)
+print(z_err_avg)
 
 
 
