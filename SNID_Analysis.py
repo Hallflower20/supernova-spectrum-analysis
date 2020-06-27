@@ -19,9 +19,11 @@ from matplotlib.backends.backend_pdf import PdfPages
 # In[2]:
 
 
-sample_location = "/home/xjh0560/SNID/sample/spectra/"
-source = "/home/xjh0560/SNID/snid_outputs/"
-image_output = "/home/xjh0560/SNID/snid_outputs/SNIDimages/"
+sample_location = "/home/hallflower/sample/"
+source = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid_outputs/"
+image_output = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid_outputs/SNIDimages/"
+param = "/mnt/c/users/20xha/Documents/GitHub/supernova-spectrum-analysis/snid.param"
+snid = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid-5.0/snid"
 
 
 # In[3]:
@@ -31,7 +33,7 @@ def run_files(fname, fnamelist, source):
     new_source = source + fname.split("/")[-1].split(".")[0]
     if(not(os.path.exists(new_source))):
         os.mkdir(new_source)
-    bashCommand = "/home/xjh0560/SNID/snid-5.0/snid verbose=0 plot=0 fluxout=15 " + fnamelist
+    bashCommand = snid + " zmax=.2 rlapmin=3 verbose=0 plot=0 fluxout=15 " + fnamelist
     process = subprocess.Popen(shlex.split(bashCommand), stdout = subprocess.PIPE, stderr = subprocess.PIPE , cwd=new_source)
     output, error = process.communicate()
     return output, error
@@ -45,11 +47,11 @@ def specplot(x,y,xi,yi,plotfile,title):
     plt.plot(xi,yi,color='gray',label='Input Spectrum')
     plt.plot(x,y,color='red',label='SNID fit')
     plt.title(title)
-    plt.xlabel('Redshifted Wavelength (A)')
+    plt.xlabel('Restframe Wavelength (A)')
     plt.ylabel('Flux (a.u.)')
     plt.legend()
     plotfile.savefig()
-    plt.close()
+    plt.close(fig)
 
 
 # In[5]:
@@ -72,17 +74,23 @@ def plot_best_15(specfile, flist, overall_source, output):
         temp = line.split()
         xi.append(float(temp[0]))
         yi.append(float(temp[1]))
+    
+    xi = np.asarray(xi)
+    yi = np.asarray(yi)
 
     for i, spec in enumerate(snid_specs):
         snidspec_data = open(spec,'r').readlines()
         x,y = [],[]
         header = snidspec_data[0].split()
+        redshift = float(header[-3].split("=")[-1])
         title = " ".join(header)
         for line in snidspec_data[2:]:
             temp = line.split()
             x.append(float(temp[0]))
             y.append(float(temp[1]))
-        specplot(x,y,xi,yi,plotfile,title)
+        x = np.asarray(x)
+        y = np.asarray(y)
+        specplot(x / (redshift + 1),y,xi / (redshift + 1),yi,plotfile,title)
     plotfile.close()
 
 

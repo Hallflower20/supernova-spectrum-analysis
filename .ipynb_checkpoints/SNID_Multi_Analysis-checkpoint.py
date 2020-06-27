@@ -16,7 +16,6 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 import SNID_Analysis
 import numpy as np
-import gc
 
 
 # In[2]:
@@ -35,13 +34,18 @@ param = "/mnt/c/users/20xha/Documents/GitHub/supernova-spectrum-analysis/snid.pa
 snid = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid-5.0/snid"
 
 
-# In[ ]:
+# In[4]:
+
+
+#sample[np.where(sample["col1"] == "ZTF17aaaukqn")]
+
+
+# In[5]:
 
 
 error_array = []
 counter = 0
-for i in np.unique(sample["col1"]):
-    gc.collect()
+for i in np.unique(sample["col1"])[300::]:
     try:
         fnamelist = ""
         #for j in (sample[np.where(i == sample["col1"])]["col8"]):
@@ -53,19 +57,18 @@ for i in np.unique(sample["col1"]):
 
         if(not("No template meets" in str(output))):
             SNID_Analysis.plot_best_15(sample_location_temp, fnamelist, source, image_output)
-            gc.collect()
             SNID_Analysis.parse_output(sample_location_temp, fnamelist, source)
         else:
             print(i)
-
-        if(counter % 100 == 0):
-            print(counter)
-        counter+=1
     except:
         print("Not Normal Error")
         print(output)
         print(error)
         print(i)
+    
+    if(counter % 100 == 0):
+        print(counter)
+    counter+=1
 
 
 # In[ ]:
