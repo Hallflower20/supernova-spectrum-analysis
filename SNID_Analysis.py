@@ -22,6 +22,8 @@ from matplotlib.backends.backend_pdf import PdfPages
 sample_location = "/home/xjh0560/SNID/sample/spectra/"
 source = "/home/xjh0560/SNID/snid_outputs/"
 image_output = "/home/xjh0560/SNID/snid_outputs/SNIDimages/"
+param = "/mnt/c/users/20xha/Documents/GitHub/supernova-spectrum-analysis/snid.param"
+snid = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid-5.0/snid"
 
 
 # In[3]:
@@ -31,7 +33,7 @@ def run_files(fname, fnamelist, source):
     new_source = source + fname.split("/")[-1].split(".")[0]
     if(not(os.path.exists(new_source))):
         os.mkdir(new_source)
-    bashCommand = "/home/xjh0560/SNID/snid-5.0/snid verbose=0 plot=0 fluxout=15 " + fnamelist
+    bashCommand = snid + " " + param + " " + fnamelist
     process = subprocess.Popen(shlex.split(bashCommand), stdout = subprocess.PIPE, stderr = subprocess.PIPE , cwd=new_source)
     output, error = process.communicate()
     return output, error
