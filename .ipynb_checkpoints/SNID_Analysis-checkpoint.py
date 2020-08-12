@@ -14,15 +14,11 @@ import os
 import glob2
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
-import gc
 
 
 # In[2]:
 
-
-sample_location = "/home/hallflower/sample/"
-source = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid_outputs/"
-image_output = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid_outputs/SNIDimages/"
+source = "/mnt/c/users/20xha/Documents/Caltech/Research/NewZTF/SNIDoutput/"
 param = "/mnt/c/users/20xha/Documents/GitHub/supernova-spectrum-analysis/snid.param"
 snid = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid-5.0/snid"
 
@@ -30,20 +26,20 @@ snid = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid-5.0/snid"
 # In[3]:
 
 
-def run_files(fname, fnamelist, source):
-    new_source = source + fname.split("/")[-1].split(".")[0]
+def run_files(fname, fnamelist, source, item_name):
+    new_source = source + item_name
     if(not(os.path.exists(new_source))):
         os.mkdir(new_source)
-    bashCommand = snid + " zmax=.2 rlapmin=3 verbose=0 plot=0 fluxout=15 " + fnamelist
+    bashCommand = snid + " zmax=.2 rlapmin=0 verbose=0 plot=0 fluxout=5 " + fnamelist
     process = subprocess.Popen(shlex.split(bashCommand), stdout = subprocess.PIPE, stderr = subprocess.PIPE , cwd=new_source)
     output, error = process.communicate()
-    return output, error
+    return output, error, bashCommand
 
 
 # In[4]:
 
 
-def specplot(x,y,xi,yi,plotfile,title):
+def specplot(x,y,xi,yi,title,fname,output,best_num):
     fig = plt.figure()
     plt.plot(xi,yi,color='gray',label='Input Spectrum')
     plt.plot(x,y,color='red',label='SNID fit')
@@ -51,7 +47,7 @@ def specplot(x,y,xi,yi,plotfile,title):
     plt.xlabel('Restframe Wavelength (A)')
     plt.ylabel('Flux (a.u.)')
     plt.legend()
-    plotfile.savefig()
+    plt.savefig(output + 'snidfits_emclip_' + fname + str(best_num) + '.png', dpi = 600)
     plt.close(fig)
 
 
@@ -65,10 +61,11 @@ def plot_best_15(specfile, flist, overall_source, output):
     if(specfile==''):
         return(0, 0)
     z,z_err = [],[]
-    input_spec = source+'/'+flist.split("/")[-1].split(".")[0]+'_snidflux.dat'
+    input_spec = source+'/'+flist+'_snidflux.dat'
+    #print(input_spec)
     #input_spec = source+'/'+source+'_snidflux.dat'
     snid_specs = sorted(glob2.glob(source+'/*comp*'))
-    plotfile = PdfPages(output + '/snidfits_emclip_'+fname+'.pdf')
+    #plotfile = PdfPages(output + 'snidfits_emclip_'+fname+'.pdf')
     input_data = open(input_spec,'r').readlines()
     xi,yi=[],[]
     for line in input_data[1:]:
@@ -78,7 +75,8 @@ def plot_best_15(specfile, flist, overall_source, output):
     
     xi = np.asarray(xi)
     yi = np.asarray(yi)
-
+    
+    best_num = 0
     for i, spec in enumerate(snid_specs):
         snidspec_data = open(spec,'r').readlines()
         x,y = [],[]
@@ -91,16 +89,16 @@ def plot_best_15(specfile, flist, overall_source, output):
             y.append(float(temp[1]))
         x = np.asarray(x)
         y = np.asarray(y)
-        specplot(x / (redshift + 1),y,xi / (redshift + 1),yi,plotfile,title)
-    plotfile.close()
+        specplot(x / (redshift + 1),y,xi / (redshift + 1),yi,title,fname,output,best_num)
+        best_num += 1
 
 
 # In[6]:
 
 
-def parse_output(specfile, flist, overall_source, returnoutput = False):
-    fname = specfile.split("/")[-1].split(".")[0]
-    flist_versionname = flist.split("/")[-1].split(".")[0]
+def parse_output(specfile, overall_source, flist_versionname, fname, returnoutput = False):
+    #fname = specfile.split("/")[-1].split(".")[0]
+    #flist_versionname = flist.split("/")[-1].split(".")[0]
     source = overall_source + fname
     
     f = open(source + "/" + flist_versionname + "_snid.output", "r")
