@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+import astropy
 import subprocess
 import shlex
 import pandas as pd
@@ -24,13 +24,19 @@ import glob
 
 
 sample = Table.read("/home/xhall/Documents/NewZTF/ML_sample.ascii", format = "ascii")
+sample.rename_column('col1', 'ZTF_Name')
+sample.rename_column('col2', "Class")
+sample.rename_column('col8', "Version")
 
+sample_2018 = Table.from_pandas(pd.read_hdf("/home/xhall/Documents/NewZTF/final_rcf_table.h5"))
+
+joined_sample = astropy.table.join(sample_2018,sample)
 
 # In[3]:
 
 
-sample_location = "/home/xhall/Documents/NewZTF/spectra/"
-source = "/home/xhall/Documents/NewZTF/SNIDoutput/"
+sample_location = "/home/xhall/Documents/NewZTF/spectra_nonan/"
+source = "/home/xhall/Documents/NewZTF/sample_2018/SNIDoutput/"
 image_output = "/home/xhall/Documents/NewZTF/Images/"
 snid = "/home/xhall/Documents/SNID/snid-5.0/snid"
 
@@ -38,7 +44,6 @@ snid = "/home/xhall/Documents/SNID/snid-5.0/snid"
 # In[4]:
 
 
-np.size(np.unique(sample["col8"]))
 
 
 # In[ ]:
@@ -48,9 +53,11 @@ error_array = []
 counter = 0
 dont_work = 0
 dont_work_array = []
-for i in np.unique(sample["col8"]):
+for i in joined_sample["Version"]:
     gc.collect()
     try:
+        counter += 1
+
         filenoascii = i.split(".")[0]
 
         fnamelist = sample_location + str(i)
@@ -60,20 +67,13 @@ for i in np.unique(sample["col8"]):
         sample_location_temp = sample_location + str(filenoascii)
 
         output, error, bashCommand = SNID_Analysis.run_files(sample_location_temp, fnamelist, source, filenoascii)
-
-        if(not("No template meets" in str(output)) and not("Correlation function is all zero!" in str(output))):
-            SNID_Analysis.plot_best_15(sample_location_temp, outputname, source, image_output)
-            gc.collect()
-            #SNID_Analysis.parse_output(sample_location_temp, source, outputname, filenoascii)
-            counter+=1
-        else:
-            print(i, bashCommand)
     except:
-        print(i, output, bashCommand)
+        print(i)
+    if(counter % 50 == 0 and counter != 0):
+        print(counter)
 
     if(counter % 200 == 0 and counter != 0):
         print(counter)
-        break
 
 
 
