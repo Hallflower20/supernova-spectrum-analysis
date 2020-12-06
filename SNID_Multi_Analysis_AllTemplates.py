@@ -36,8 +36,8 @@ joined_sample = astropy.table.join(sample_2018,sample)
 
 
 sample_location = "/home/xhall/Documents/NewZTF/spectra_nonan/"
-source = "/home/xhall/Documents/NewZTF/sample_2018/SNIDoutput/"
-image_output = "/home/xhall/Documents/NewZTF/Images/"
+source = "/home/xhall/Documents/NewZTF/sample_2020/SNIDoutput/"
+image_output = "//home/xhall/Documents/NewZTF/sample_2020/ImageOutput/"
 snid = "/home/xhall/Documents/SNID/snid-5.0/snid"
 
 
@@ -53,7 +53,7 @@ error_array = []
 counter = 0
 dont_work = 0
 dont_work_array = []
-for i in joined_sample["Version"]:
+for i in sample["Version"]:
     gc.collect()
     try:
         counter += 1
@@ -70,9 +70,6 @@ for i in joined_sample["Version"]:
     except:
         print(i)
     if(counter % 50 == 0 and counter != 0):
-        print(counter)
-
-    if(counter % 200 == 0 and counter != 0):
         print(counter)
 
 
