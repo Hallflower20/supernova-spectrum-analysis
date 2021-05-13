@@ -18,9 +18,8 @@ from matplotlib.backends.backend_pdf import PdfPages
 
 # In[2]:
 
-source = "/mnt/c/users/20xha/Documents/Caltech/Research/NewZTF/SNIDoutput/"
-param = "/mnt/c/users/20xha/Documents/GitHub/supernova-spectrum-analysis/snid.param"
-snid = "/mnt/c/users/20xha/Documents/Caltech/Research/SNID/snid-5.0/snid"
+source = "/home/xhall/Documents/NewZTF/SNIDoutput/"
+snid = "/home/xhall/Documents/SNID/snid-5.0/snid"
 
 
 # In[3]:
@@ -30,7 +29,7 @@ def run_files(fname, fnamelist, source, item_name):
     new_source = source + item_name
     if(not(os.path.exists(new_source))):
         os.mkdir(new_source)
-    bashCommand = snid + " zmax=.2 rlapmin=0 verbose=0 plot=0 fluxout=5 " + fnamelist
+    bashCommand = snid + " rlapmin=0 verbose=0 plot=0 fluxout=50 " + fnamelist
     process = subprocess.Popen(shlex.split(bashCommand), stdout = subprocess.PIPE, stderr = subprocess.PIPE , cwd=new_source)
     output, error = process.communicate()
     return output, error, bashCommand
@@ -47,7 +46,7 @@ def specplot(x,y,xi,yi,title,fname,output,best_num):
     plt.xlabel('Restframe Wavelength (A)')
     plt.ylabel('Flux (a.u.)')
     plt.legend()
-    plt.savefig(output + 'snidfits_emclip_' + fname + str(best_num) + '.png', dpi = 600)
+    plt.savefig(output + 'snidfits_emclip_' + fname + "_" + str(best_num) + '.png', dpi = 600)
     plt.close(fig)
 
 
@@ -57,7 +56,7 @@ def specplot(x,y,xi,yi,title,fname,output,best_num):
 def plot_best_15(specfile, flist, overall_source, output):
     fname = specfile.split("/")[-1].split(".")[0]
     source = overall_source + fname
-    
+
     if(specfile==''):
         return(0, 0)
     z,z_err = [],[]
@@ -72,10 +71,10 @@ def plot_best_15(specfile, flist, overall_source, output):
         temp = line.split()
         xi.append(float(temp[0]))
         yi.append(float(temp[1]))
-    
+
     xi = np.asarray(xi)
     yi = np.asarray(yi)
-    
+
     best_num = 0
     for i, spec in enumerate(snid_specs):
         snidspec_data = open(spec,'r').readlines()
@@ -100,20 +99,20 @@ def parse_output(specfile, overall_source, flist_versionname, fname, returnoutpu
     #fname = specfile.split("/")[-1].split(".")[0]
     #flist_versionname = flist.split("/")[-1].split(".")[0]
     source = overall_source + fname
-    
+
     f = open(source + "/" + flist_versionname + "_snid.output", "r")
-    
+
     lines = f.readlines()
-    Types_summary = lines[38:67]
-    
+    Types_summary = lines[38:75]
+
     Types_summary_file = open(source + "/" + flist_versionname + "_snid_types.readableoutput", "w")
     for i in Types_summary:
         Types_summary_file.write(i)
     Types_summary_file.close()
     if(returnoutput):
         Types_Summary_Table = Table.read(source + "/" + flist_versionname + "_snid_types.readableoutput", format = "ascii")
-    
-    Template_Listings = lines[69:-1]
+
+    Template_Listings = lines[76:-5]
     Template_Listings_file = open(source + "/" + flist_versionname + "_snid_templates.readableoutput", "w")
     for i in Template_Listings:
         Template_Listings_file.write(i)
