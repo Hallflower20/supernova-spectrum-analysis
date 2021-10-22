@@ -1,0 +1,809 @@
+Version,Resolution,Superfit_c,Superfit_z,Match,Gal,Frac(SN),Frac(gal),Phase,Av
+ZTF18aaaibml_20200212_LT_v1.ascii,binnings/ZTF18aaaibml_20200212_LT_v1,IIb-flash,0.03567,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8425915,0.15740845,-7.0,-2.0
+ZTF18aaaibml_20200212_LT_v2.ascii,binnings/ZTF18aaaibml_20200212_LT_v2,IIb-flash,0.03567,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8445257,0.15547429,-7.0,-2.0
+ZTF18aaaibml_20200214_P200_v1.ascii,binnings/ZTF18aaaibml_20200214_P200_v1,II-flash,0.0348,II-flash/iPTF15crj_early/ALFOSC phase-band : u-,SB3,0.4378655,0.5621345,u,-0.2
+ZTF18aabilqu_20180522_P200_v1.ascii,binnings/ZTF18aabilqu_20180522_P200_v1,TDE H+He,0.02331,TDE H+He/2018dyb/EFOSC2-NTT phase-band : 53.99B,SB2,0.9306061,0.06939386,53.99,-0.4
+ZTF18aabxlsv_20180510_P60_v1.ascii,binnings/ZTF18aabxlsv_20180510_P60_v1,Ibn,0.0504,Ibn/2015G/KAST phase-band : 2.46B,Sc,0.551332,0.44866797,2.46,2.0
+ZTF18aabxlsv_20180517_P200_v1.ascii,binnings/ZTF18aabxlsv_20180517_P200_v1,Ibn,0.048,Ibn/2011hw/DOLORES phase-band : 39.58B,SB6,0.21988413,0.78011584,39.58,2.0
+ZTF18aabybkt_20180309_P60_v1.ascii,binnings/ZTF18aabybkt_20180309_P60_v1,II-flash,0.007619,II-flash/iPTF15crj_early/GMOS phase-band : u-,SB1,0.8830676,0.11693242,u,1.6
+ZTF18aaexyql_20200124_Keck1_v1.ascii,binnings/ZTF18aaexyql_20200124_Keck1_v1,II,0.03,II/iPTF15crj/DBSP phase-band : u-,Sc,0.23081067,0.7691893,u,1.4
+ZTF18aagtcxj_20180410_P200_v1.ascii,binnings/ZTF18aagtcxj_20180410_P200_v1,Ia 91bg-like,0.0304,Ia 91bg-like/2005bl/CAFOS phase-band : -5.91B,Sa,0.86799175,0.13200822,-5.91,-2.0
+ZTF18aagteoy_20180404_DCT_v3.ascii,binnings/ZTF18aagteoy_20180404_DCT_v3,IIb-flash,0.049875,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8234814,0.1765186,-7.0,-2.0
+ZTF18aahatvc_20200518_P60_v1.ascii,binnings/ZTF18aahatvc_20200518_P60_v1,Ia-CSM-(ambigious),0.079745,Ia-CSM-(ambigious)/2002ic/BC-Magellan phase-band : 2.0B,Sa,0.921165,0.078835025,2.0,-0.4
+ZTF18aahatvc_20200522_P60_v1.ascii,binnings/ZTF18aahatvc_20200522_P60_v1,Ia-CSM,0.08169,Ia-CSM/2016iks/EFOSC2-NTT phase-band : u-,Sc,0.944331,0.05566904,u,-2.0
+ZTF18aahatvc_20200527_P200_v1.ascii,binnings/ZTF18aahatvc_20200527_P200_v1,Ia-norm,0.0778,Ia-norm/2013dy/HET-LRS phase-band : 15.45B,SB1,0.55827534,0.44172463,15.45,-2.0
+ZTF18aahatvc_20200527_P200_v4.ascii,binnings/ZTF18aahatvc_20200527_P200_v4,Ia-norm,0.0778,Ia-norm/2013dy/HET-LRS phase-band : 15.45B,SB1,0.55827534,0.44172463,15.45,-2.0
+ZTF18aahatvc_20200527_P200_v5.ascii,binnings/ZTF18aahatvc_20200527_P200_v5,Ia-norm,0.0778,Ia-norm/2013dy/HET-LRS phase-band : 15.45B,SB1,0.55827534,0.44172463,15.45,-2.0
+ZTF18aahjaxz_20180419_P60_v1.ascii,binnings/ZTF18aahjaxz_20180419_P60_v1,Ia-norm,0.0451915,Ia-norm/2012fr/KAST phase-band : 2.28B,SB1,0.95904267,0.04095731,2.28,-0.2
+ZTF18aahjaxz_20180419_P60_v2.ascii,binnings/ZTF18aahjaxz_20180419_P60_v2,Ia-norm,0.0451915,Ia-norm/2012fr/KAST phase-band : 2.28B,SB1,0.95904267,0.04095731,2.28,-0.2
+ZTF18aahjaxz_20180419_P60_v4.ascii,binnings/ZTF18aahjaxz_20180419_P60_v4,Ia-norm,0.0451915,Ia-norm/2012fr/KAST phase-band : 2.28B,SB1,0.95904267,0.04095731,2.28,-0.2
+ZTF18aahjaxz_20180421_P60_v1.ascii,binnings/ZTF18aahjaxz_20180421_P60_v1,Ia 91bg-like,0.04757,Ia 91bg-like/1999by/FAST phase-band : 3.0B,S0,0.827156,0.172844,3.0,1.6
+ZTF18aahjaxz_20180421_P60_v2.ascii,binnings/ZTF18aahjaxz_20180421_P60_v2,Ia 91bg-like,0.04757,Ia 91bg-like/1999by/FAST phase-band : 3.0B,S0,0.827156,0.172844,3.0,1.6
+ZTF18aahjaxz_20180428_LT_v1.ascii,binnings/ZTF18aahjaxz_20180428_LT_v1,IIb-flash,0.0451915,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.85168844,0.14831154,-7.0,-2.0
+ZTF18aahmhxu_20180717_P200_v1.ascii,binnings/ZTF18aahmhxu_20180717_P200_v1,SLSN-IIn,0.167,SLSN-IIn/PTF10jwd/LRIS phase-band : u-,Sa,0.8891824,0.110817604,u,-0.8
+ZTF18aahqkbt_20180520_P60_v1.ascii,binnings/ZTF18aahqkbt_20180520_P60_v1,II-flash,0.05355,II-flash/iPTF15crj_early/GMOS phase-band : u-,Sc,0.89702946,0.10297056,u,-2.0
+ZTF18aahqkbt_20191023_DCT_v1.ascii,binnings/ZTF18aahqkbt_20191023_DCT_v1,IIb-flash,0.051,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8554059,0.14459406,-7.0,-2.0
+ZTF18aaisqmw_20201223_LT_v1.ascii,binnings/ZTF18aaisqmw_20201223_LT_v1,IIb-flash,0.0540175,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.83847076,0.16152927,-7.0,-2.0
+ZTF18aaisyyp_20190403_Keck1_v1.ascii,binnings/ZTF18aaisyyp_20190403_Keck1_v1,SLSN-I,0.132,SLSN-I/PTF10nmn/LRIS phase-band : u-,SB2,0.5807971,0.41920292,u,2.0
+ZTF18aaizerg_20200114_P60_v1.ascii,binnings/ZTF18aaizerg_20200114_P60_v1,Ia-CSM,0.0667875,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.9905952,0.009404758,u,-2.0
+ZTF18aajivpr_20200416_P60_v2.ascii,binnings/ZTF18aajivpr_20200416_P60_v2,IIn,0.054075,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.9521441,0.0478559,-2.0,-0.6
+ZTF18aajpjdi_20180425_P60_v1.ascii,binnings/ZTF18aajpjdi_20180425_P60_v1,II,0.07087,II/2013fs/ALFOSC phase-band : 6.24B,SB1,0.99962384,0.00037618892,6.24,-0.6
+ZTF18aajqcue_20180609_P200_v1.ascii,binnings/ZTF18aajqcue_20180609_P200_v1,IIb,0.069825,IIb/2008ax/CAFOS phase-band : -3.2B,Sb,0.6117542,0.38824582,-3.2,-2.0
+ZTF18aajqcue_20190104_Keck1_v1.ascii,binnings/ZTF18aajqcue_20190104_Keck1_v1,Ca-Ib,0.069825,Ca-Ib/iPTF15eqv/MMT-Blue phase-band : u-,Sb,0.031818226,0.9681818,u,2.0
+ZTF18aajtlbf_20180420_P200_v1.ascii,binnings/ZTF18aajtlbf_20180420_P200_v1,Ia 91bg-like,0.0273,Ia 91bg-like/2015ac/KAST phase-band : u-,SB2,0.7801168,0.21988322,u,1.2
+ZTF18aajupnt_20180821_Gemini_N_v1.ascii,binnings/ZTF18aajupnt_20180821_Gemini_N_v1,IIb-flash,0.0367,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.98852587,0.011474143,-7.0,-2.0
+ZTF18aajupnt_20180901_HST_v1.ascii,binnings/ZTF18aajupnt_20180901_HST_v1,IIb-flash,0.038535,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,,,-7.0,-2.0
+ZTF18aajupnt_20190303_HST_v1.ascii,binnings/ZTF18aajupnt_20190303_HST_v1,IIb-flash,0.034865,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,,,-7.0,-2.0
+ZTF18aajupnt_20190629_DCT_v2.ascii,binnings/ZTF18aajupnt_20190629_DCT_v2,IIb-flash,0.0357825,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.86968136,0.13031866,-7.0,-2.0
+ZTF18aakfabl_20181201_Keck1_v1.ascii,binnings/ZTF18aakfabl_20181201_Keck1_v1,II,0.035875,II/iPTF15crj/DBSP phase-band : u-,Sa,0.91408354,0.08591646,u,-0.4
+ZTF18aakiwbs_20200415_P60_v1.ascii,binnings/ZTF18aakiwbs_20200415_P60_v1,IIn,0.06765,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.9171686,0.082831405,-2.0,-0.4
+ZTF18aalpdyt_20180524_P60_v1.ascii,binnings/ZTF18aalpdyt_20180524_P60_v1,Ia-CSM,0.0703,Ia-CSM/2017eby/EFOSC2-NTT phase-band : u-,S0,0.95110214,0.048897848,u,-2.0
+ZTF18aamsgjq_20181201_Keck1_v1.ascii,binnings/ZTF18aamsgjq_20181201_Keck1_v1,IIb,0.0585195,IIb/2013df/DEIMOS phase-band : -14.0B,S0,0.40049365,0.5995063,-14.0,-2.0
+ZTF18aansqun_20180713_P60_v1.ascii,binnings/ZTF18aansqun_20180713_P60_v1,Ia-CSM,0.056658,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sa,0.97703385,0.022966173,u,-1.6
+ZTF18aanygjk_20190703_P60_v1.ascii,binnings/ZTF18aanygjk_20190703_P60_v1,IIn,0.05145,IIn/2008fq/WFCCD phase-band : 3.0B,Sc,0.917904,0.08209601,3.0,-0.6
+ZTF18aaodnxt_20180509_P60_v2.ascii,binnings/ZTF18aaodnxt_20180509_P60_v2,Ca-Ia,0.035448,Ca-Ia/2019ofm/DBSP phase-band : 0.17r,SB1,0.87922555,0.12077444,0.17,1.8
+ZTF18aapgrxo_20190406_Keck1_v1.ascii,binnings/ZTF18aapgrxo_20190406_Keck1_v1,SLSN-I,0.273675,SLSN-I/PTF10nmn/LRIS phase-band : u-,SB2,0.09336443,0.9066356,u,2.0
+ZTF18aapxjzs_20180612_P200_v1.ascii,binnings/ZTF18aapxjzs_20180612_P200_v1,SLSN-IIn,0.0681625,SLSN-IIn/PTF10tpz/RC-Spec phase-band : u-,Sc,0.6829912,0.31700876,u,-0.8
+ZTF18aarcchg_20180530_LT_v1.ascii,binnings/ZTF18aarcchg_20180530_LT_v1,IIb-flash,0.035623,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8361502,0.16384976,-7.0,-2.0
+ZTF18aarikzk_20200424_P60_v1.ascii,binnings/ZTF18aarikzk_20200424_P60_v1,IIn,0.059115,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.94974506,0.05025497,-2.0,-1.6
+ZTF18aarlpzd_20200426_LT_v2.ascii,binnings/ZTF18aarlpzd_20200426_LT_v2,IIb-flash,0.0095,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.89458966,0.10541031,-7.0,-2.0
+ZTF18aartjod_20200716_P200_v1.ascii,binnings/ZTF18aartjod_20200716_P200_v1,SLSN-IIn,0.03198,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,SB6,0.606789,0.393211,u,2.0
+ZTF18aartjod_20200716_P200_v3.ascii,binnings/ZTF18aartjod_20200716_P200_v3,SLSN-IIn,0.03198,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,SB6,0.606789,0.393211,u,2.0
+ZTF18aassbst_20190614_P60_v1.ascii,binnings/ZTF18aassbst_20190614_P60_v1,II,0.1435,II/2013fs/ALFOSC phase-band : 6.24B,Sc,0.8925232,0.10747675,6.24,-2.0
+ZTF18aauenwu_20180813_P200_v1.ascii,binnings/ZTF18aauenwu_20180813_P200_v1,Ia-CSM,0.0486875,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.95822775,0.041772243,u,-2.0
+ZTF18aaumfla_20180613_Keck1_v1.ascii,binnings/ZTF18aaumfla_20180613_Keck1_v1,Ic,0.0368795,Ic/2004dn/KAST phase-band : 2.0B,Sa,0.4629452,0.53705484,2.0,-1.8
+ZTF18aavjqvm_20190126_P200_v1.ascii,binnings/ZTF18aavjqvm_20190126_P200_v1,II,0.028041,II/iPTF15crj/FLOYDS-N phase-band : u-,SB5,0.9362739,0.06372613,u,1.2
+ZTF18aavnxar_20180607_P60_v1.ascii,binnings/ZTF18aavnxar_20180607_P60_v1,Ia-CSM,0.082875,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB1,0.9771911,0.022808915,u,-2.0
+ZTF18aavrmcg_20181111_Keck1_v1.ascii,binnings/ZTF18aavrmcg_20181111_Keck1_v1,II,0.08,II/iPTF15crj/DBSP phase-band : u-,Sa,0.9842449,0.015755113,u,1.0
+ZTF18aavrzxp_20201207_NOT_v2.ascii,binnings/ZTF18aavrzxp_20201207_NOT_v2,IIn,0.0735,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.9890873,0.01091271,10.0,-1.2
+ZTF18aawpwlf_20200428_LT_v1.ascii,binnings/ZTF18aawpwlf_20200428_LT_v1,IIb-flash,0.024612,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.84585005,0.15414993,-7.0,-2.0
+ZTF18aaxkqgy_20180601_P60_v1.ascii,binnings/ZTF18aaxkqgy_20180601_P60_v1,IIn,0.021,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.94295436,0.057045642,-2.0,2.0
+ZTF18aaxnqjb_20180813_P200_v1.ascii,binnings/ZTF18aaxnqjb_20180813_P200_v1,Ib,0.05535,Ib/2008D/MMT-Blue phase-band : -9.57B,SB4,0.9260158,0.073984206,-9.57,0.6
+ZTF18aaxokeg_20200826_P200_v1.ascii,binnings/ZTF18aaxokeg_20200826_P200_v1,II,0.03276,II/2008aw/KAST phase-band : 22.0B,Sc,0.6977221,0.30227792,22.0,-1.6
+ZTF18aayhylv_20180807_Keck1_v1.ascii,binnings/ZTF18aayhylv_20180807_Keck1_v1,IIb-flash,0.02522525,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.17484756,0.82515246,-7.0,-2.0
+ZTF18aayiahw_20180622_P60_v1.ascii,binnings/ZTF18aayiahw_20180622_P60_v1,Ia 91bg-like,0.060496,Ia 91bg-like/1999by/FAST phase-band : -3.0B,SB2,0.9996848,0.00031516378,-3.0,-2.0
+ZTF18aaykjei_20190524_P200_v1.ascii,binnings/ZTF18aaykjei_20190524_P200_v1,Ib,0.097,Ib/2008D/MMT-Blue phase-band : -11.57B,Sc,0.5856051,0.41439492,-11.57,-1.8
+ZTF18aazhwnh_20180623_P60_v1.ascii,binnings/ZTF18aazhwnh_20180623_P60_v1,Ib,0.0884325,Ib/2008D/MMT-Blue phase-band : -12.57B,S0,0.9040447,0.09595534,-12.57,-1.6
+ZTF18abafhva_20190513_P200_v1.ascii,binnings/ZTF18abafhva_20190513_P200_v1,IIn,0.0027885,IIn/2010jl/LRIS phase-band : 845.34V,SB6,0.9878083,0.012191705,845.34,2.0
+ZTF18abakunn_20191228_LT_v1.ascii,binnings/ZTF18abakunn_20191228_LT_v1,IIb-flash,0.053865,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.88793796,0.11206207,-7.0,-2.0
+ZTF18abbodly_20180618_P60_v1.ascii,binnings/ZTF18abbodly_20180618_P60_v1,IIn,0.01927,IIn/2008fq/WFCCD phase-band : 3.0B,SB3,0.9894958,0.010504167,3.0,-2.0
+ZTF18abbodly_20180620_P60_v1.ascii,binnings/ZTF18abbodly_20180620_P60_v1,IIn,0.01974,IIn/2008fq/WFCCD phase-band : 3.0B,SB3,0.9931074,0.006892619,3.0,-2.0
+ZTF18abbovuc_20190307_Keck1_v1.ascii,binnings/ZTF18abbovuc_20190307_Keck1_v1,II,0.039,II/iPTF15crj/DBSP phase-band : u-,S0,0.9882918,0.011708171,u,0.0
+ZTF18abcfdzu_20180804_P200_v2.ascii,binnings/ZTF18abcfdzu_20180804_P200_v2,Ia-CSM,0.128125,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.9181498,0.08185018,u,-2.0
+ZTF18abcfdzu_20180805_P60_v2.ascii,binnings/ZTF18abcfdzu_20180805_P60_v2,Ia-CSM,0.13125,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB1,0.8716003,0.12839973,u,-0.2
+ZTF18abcfdzu_20180807_NOT_v1.ascii,binnings/ZTF18abcfdzu_20180807_NOT_v1,Ia-CSM,0.128125,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.99013513,0.009864852,u,-1.2
+ZTF18abcfdzu_20180818_NOT_v1.ascii,binnings/ZTF18abcfdzu_20180818_NOT_v1,Ia-CSM,0.128125,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sa,0.991262,0.00873801,u,-1.4
+ZTF18abclfee_20180704_LT_v1.ascii,binnings/ZTF18abclfee_20180704_LT_v1,IIb-flash,0.0285,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8313271,0.16867293,-7.0,-2.0
+ZTF18abclfee_20180708_P200_v2.ascii,binnings/ZTF18abclfee_20180708_P200_v2,Ia-02cx like,0.03,Ia-02cx like/2018cxk/DBSP phase-band : u-,S0,0.99972373,0.00027628476,u,0.0
+ZTF18abclfee_20180708_P60_v1.ascii,binnings/ZTF18abclfee_20180708_P60_v1,Ia-02cx like,0.0315,Ia-02cx like/2018cxk/DBSP phase-band : u-,S0,0.97384596,0.026154025,u,2.0
+ZTF18abcvush_20180704_P60_v1.ascii,binnings/ZTF18abcvush_20180704_P60_v1,IIn,0.04875,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.93220425,0.06779578,3.0,-0.6
+ZTF18abdiasx_20190704_P200_v1.ascii,binnings/ZTF18abdiasx_20190704_P200_v1,Ia-CSM,0.0195975,Ia-CSM/2005gj/LRIS phase-band : 48.04g,E,0.5827832,0.41721678,48.04,-2.0
+ZTF18abdiwpt_20180712_P60_v2.ascii,binnings/ZTF18abdiwpt_20180712_P60_v2,Ia 91T-like,0.071175,Ia 91T-like/1991T/Other phase-band : -7.0B,SB3,0.99584675,0.004153233,-7.0,-0.4
+ZTF18abdkkwa_20180703_P60_v1.ascii,binnings/ZTF18abdkkwa_20180703_P60_v1,TDE H+He,0.0240445,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.9658913,0.034108683,-1.04,-0.8
+ZTF18abeecwe_20190524_P200_v1.ascii,binnings/ZTF18abeecwe_20190524_P200_v1,IIn,0.04,IIn/2008fq/WFCCD phase-band : 10.0B,Sa,0.6843102,0.3156898,10.0,-2.0
+ZTF18abfcmjw_20190704_Keck1_v1.ascii,binnings/ZTF18abfcmjw_20190704_Keck1_v1,II,0.0213,II/iPTF15crj/DBSP phase-band : u-,Sc,0.38031408,0.6196859,u,1.4
+ZTF18abfcmjw_20190928_Keck1_v1.ascii,binnings/ZTF18abfcmjw_20190928_Keck1_v1,TDE H+He,0.022365,TDE H+He/2019qiz/X-Shooter phase-band : 99.0g,S0,0.5559592,0.44404075,99.0,2.0
+ZTF18abfcmjw_20200218_Keck1_v2.ascii,binnings/ZTF18abfcmjw_20200218_Keck1_v2,II,0.0213,II/iPTF15crj/DBSP phase-band : u-,Sc,0.4067638,0.5932362,u,1.2
+ZTF18abfdupq_20180815_P60_v1.ascii,binnings/ZTF18abfdupq_20180815_P60_v1,IIn,0.0663,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.9260001,0.073999904,3.0,-2.0
+ZTF18abfhryc_20190604_P200_v2.ascii,binnings/ZTF18abfhryc_20190604_P200_v2,SLSN-IIn,0.0314925,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,SB2,0.7491782,0.25082183,u,1.6
+ZTF18abgladq_20180715_P60_v1.ascii,binnings/ZTF18abgladq_20180715_P60_v1,TDE H+He,0.03738,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.96248853,0.03751144,-1.04,1.4
+ZTF18abgmcmv_20180713_Keck1_v1.ascii,binnings/ZTF18abgmcmv_20180713_Keck1_v1,Ic-BL,0.017575,Ic-BL/PTF10vgv/HET-LRS phase-band : 2.0R,Sa,0.23192744,0.76807255,2.0,-0.4
+ZTF18abgrbjb_20180728_P60_v1.ascii,binnings/ZTF18abgrbjb_20180728_P60_v1,II-flash,0.0315,II-flash/iPTF15crj_early/GMOS phase-band : u-,SB3,0.9606704,0.03932957,u,-1.6
+ZTF18abgrbjb_20181110_Keck1_v1.ascii,binnings/ZTF18abgrbjb_20181110_Keck1_v1,Ia 91bg-like,0.0315,Ia 91bg-like/1991bg/FOS phase-band : u-,Sc,0.12069201,0.879308,u,2.0
+ZTF18abgxvra_20180801_P60_v2.ascii,binnings/ZTF18abgxvra_20180801_P60_v2,Ia-norm,0.105,Ia-norm/2012cg/KAST phase-band : -5.5B,Sc,0.99546653,0.0045334827,-5.5,2.0
+ZTF18abhehkn_20180813_P200_v1.ascii,binnings/ZTF18abhehkn_20180813_P200_v1,SLSN-I,0.02809,SLSN-I/PTF10aagc/LRIS phase-band : u-,S0,0.91930556,0.08069444,u,-2.0
+ZTF18abilofa_20180728_P60_v2.ascii,binnings/ZTF18abilofa_20180728_P60_v2,Ia 91T-like,0.07,Ia 91T-like/1991T/Other phase-band : -7.0B,SB2,0.957238,0.042761985,-7.0,0.6
+ZTF18abixkdo_20180730_P60_v2.ascii,binnings/ZTF18abixkdo_20180730_P60_v2,Ia-norm,0.02925,Ia-norm/2012ht/KAST phase-band : 2.3B,Sc,0.982815,0.017184999,2.3,0.2
+ZTF18abjdjge_20180808_P60_v2.ascii,binnings/ZTF18abjdjge_20180808_P60_v2,Ia 91T-like,0.13325,Ia 91T-like/1991T/Other phase-band : -7.0B,Sb,0.9907137,0.009286282,-7.0,-0.8
+ZTF18abjjkeo_20201206_DCT_v1.ascii,binnings/ZTF18abjjkeo_20201206_DCT_v1,IIb-flash,0.100425,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.82175773,0.17824228,-7.0,-2.0
+ZTF18abjqmqt_20180802_P60_v1.ascii,binnings/ZTF18abjqmqt_20180802_P60_v1,Ia 02es-like,0.0475,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,Sc,0.84948605,0.15051398,101.0,-0.8
+ZTF18abjqmqt_20180804_P200_v1.ascii,binnings/ZTF18abjqmqt_20180804_P200_v1,Ia-norm,0.04875,Ia-norm/2015N/KAST phase-band : 24.5B,Sc,0.70269275,0.29730725,24.5,-1.8
+ZTF18abjrznx_20180805_P60_v1.ascii,binnings/ZTF18abjrznx_20180805_P60_v1,ILRT,0.0228,ILRT/2015dl/DBSP phase-band : u-,Sc,0.96920174,0.030798238,u,1.2
+ZTF18abjrznx_20180805_P60_v2.ascii,binnings/ZTF18abjrznx_20180805_P60_v2,Ca-Ia,0.0228,Ca-Ia/2019ofm/DBSP phase-band : 0.17r,Sc,0.99835104,0.0016489687,0.17,-1.4
+ZTF18abjyjdz_20180824_P60_v2.ascii,binnings/ZTF18abjyjdz_20180824_P60_v2,Ib,0.042,Ib/2006fo/EMMI phase-band : 56.27V,SB2,0.60616046,0.39383954,56.27,2.0
+ZTF18abkijya_20180912_P200_v2.ascii,binnings/ZTF18abkijya_20180912_P200_v2,Ib,0.04554,Ib/2008D/MMT-Blue phase-band : -9.57B,S0,0.8570052,0.14299485,-9.57,-2.0
+ZTF18abkmbpy_20180804_P200_v1.ascii,binnings/ZTF18abkmbpy_20180804_P200_v1,SLSN-IIn,0.030849,SLSN-IIn/2006gy/LRIS phase-band : 78.53R,Sb,0.58376825,0.41623178,78.53,-2.0
+ZTF18abkmbpy_20180807_Keck1_v1.ascii,binnings/ZTF18abkmbpy_20180807_Keck1_v1,SLSN-IIn,0.030849,SLSN-IIn/2006gy/KAST phase-band : -31.39R,Sb,0.89811563,0.101884365,-31.39,-1.8
+ZTF18abktmfz_20180803_P60_v1.ascii,binnings/ZTF18abktmfz_20180803_P60_v1,IIn,0.0194275,IIn/2008fq/WFCCD phase-band : 3.0B,S0,0.92927057,0.07072945,3.0,1.6
+ZTF18ablqjul_20180825_P60_v1.ascii,binnings/ZTF18ablqjul_20180825_P60_v1,Ia-norm,0.0975,Ia-norm/2012cg/KAST phase-band : -5.5B,SB1,0.99865276,0.0013472659,-5.5,1.0
+ZTF18ablwafp_20181006_P200_v1.ascii,binnings/ZTF18ablwafp_20181006_P200_v1,Ia-CSM,0.142,Ia-CSM/2017eby/EFOSC2-NTT phase-band : u-,Sc,0.6010775,0.3989225,u,0.8
+ZTF18ablwafp_20190702_Keck1_v1.ascii,binnings/ZTF18ablwafp_20190702_Keck1_v1,IIn,0.142,IIn/2010jl/LRIS phase-band : 845.34V,Sc,0.05193609,0.9480639,845.34,2.0
+ZTF18abmkacg_20180821_P200_v1.ascii,binnings/ZTF18abmkacg_20180821_P200_v1,Ib,0.046904,Ib/2008D/MMT-Blue phase-band : -9.57B,S0,0.8133564,0.18664359,-9.57,-1.0
+ZTF18abmogag_20180817_P60_v1.ascii,binnings/ZTF18abmogag_20180817_P60_v1,Ib,0.078185,Ib/2008D/MMT-Blue phase-band : -12.57B,SB5,0.9222999,0.07770006,-12.57,-1.8
+ZTF18abmxmsv_20180820_P60_v1.ascii,binnings/ZTF18abmxmsv_20180820_P60_v1,Ia-CSM,0.095,Ia-CSM/PTF11kx/DBSP phase-band : -1.0B,SB1,0.9939673,0.0060326825,-1.0,2.0
+ZTF18abolvoh_20180913_Keck1_v1.ascii,binnings/ZTF18abolvoh_20180913_Keck1_v1,Ia 91bg-like,0.050225,Ia 91bg-like/2016ije/KAST phase-band : u-,S0,0.96775997,0.03224003,u,-0.6
+ZTF18abomklq_20181103_APO_v1.ascii,binnings/ZTF18abomklq_20181103_APO_v1,IIb-flash,0.03885,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.5051195,0.4948805,-7.0,-2.0
+ZTF18abomklq_20181214_P60_v1.ascii,binnings/ZTF18abomklq_20181214_P60_v1,IIn,0.0407925,IIn/2008fq/WFCCD phase-band : 10.0B,SB6,0.97866124,0.021338772,10.0,-2.0
+ZTF18abquyqj_20200107_P60_v1.ascii,binnings/ZTF18abquyqj_20200107_P60_v1,IIn,0.01805,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.95241976,0.047580265,3.0,-1.8
+ZTF18abquyqj_20200107_P60_v2.ascii,binnings/ZTF18abquyqj_20200107_P60_v2,IIn,0.01805,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.94978094,0.050219074,3.0,-1.8
+ZTF18abshezu_20190702_Keck1_v1.ascii,binnings/ZTF18abshezu_20190702_Keck1_v1,SLSN-I,0.23,SLSN-I/SN2007bi/FORS2 phase-band : 421.0V,Sc,0.24601708,0.7539829,421.0,1.0
+ZTF18absjiej_20180909_P60_v2.ascii,binnings/ZTF18absjiej_20180909_P60_v2,II-flash,0.063,II-flash/2013fs_early/ALFOSC phase-band : -3.81B,Sc,0.9401874,0.059812594,-3.81,-2.0
+ZTF18abtnbys_20180913_P200_v1.ascii,binnings/ZTF18abtnbys_20180913_P200_v1,Ia 91bg-like,0.0447515,Ia 91bg-like/2005bl/WFCCD phase-band : -3.87B,S0,0.7885217,0.21147831,-3.87,-2.0
+ZTF18abtqevs_20180913_P200_v1.ascii,binnings/ZTF18abtqevs_20180913_P200_v1,Ia 91bg-like,0.0429,Ia 91bg-like/2005bl/CAFOS phase-band : -5.91B,E,0.54126346,0.4587365,-5.91,-1.6
+ZTF18abuqhje_20181204_Keck1_v1.ascii,binnings/ZTF18abuqhje_20181204_Keck1_v1,II,0.053,II/iPTF15crj/FLOYDS-N phase-band : u-,SB3,0.4139154,0.5860846,u,1.4
+ZTF18abvgjyl_20181111_Keck1_v1.ascii,binnings/ZTF18abvgjyl_20181111_Keck1_v1,SLSN-Ib,0.228475,SLSN-Ib/2010md/LRIS phase-band : 50.0B,Sc,0.71656406,0.28343597,50.0,2.0
+ZTF18abvgjyl_20190304_Keck1_v1.ascii,binnings/ZTF18abvgjyl_20190304_Keck1_v1,SLSN-I,0.2405,SLSN-I/PTF09cnd/LRIS phase-band : 126.0u,SB2,0.9687758,0.031224174,126.0,-0.4
+ZTF18abvgjyv_20181201_Keck1_v1.ascii,binnings/ZTF18abvgjyv_20181201_Keck1_v1,II,0.06416,II/iPTF15crj/FLOYDS-N phase-band : u-,SB6,0.99571556,0.004284435,u,-0.4
+ZTF18abvvmdf_20180918_P200_v1.ascii,binnings/ZTF18abvvmdf_20180918_P200_v1,SLSN-IIn,0.02885025,SLSN-IIn/PTF10tpz/KAST phase-band : u-,SB6,0.7514984,0.24850161,u,-1.6
+ZTF18abwckzf_20181010_P200_v1.ascii,binnings/ZTF18abwckzf_20181010_P200_v1,SLSN-IIn,0.087,SLSN-IIn/PTF10tpz/KAST phase-band : u-,SB2,0.9669342,0.033065815,u,-2.0
+ZTF18abwdcdv_20190604_P200_v1.ascii,binnings/ZTF18abwdcdv_20190604_P200_v1,Ib,0.0526995,Ib/2008D/MMT-Blue phase-band : -12.57B,S0,0.8644412,0.1355588,-12.57,-1.8
+ZTF18abwkrbl_20190706_Keck1_v1.ascii,binnings/ZTF18abwkrbl_20190706_Keck1_v1,Ic-BL,0.00999,Ic-BL/1998bw/EFOSC2-3.6 phase-band : -5.0B,SB2,0.2475768,0.7524232,-5.0,0.4
+ZTF18abxbmqh_20190101_WHT_v1.ascii,binnings/ZTF18abxbmqh_20190101_WHT_v1,IIb-flash,0.206,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.46365407,0.5363459,-7.0,-2.0
+ZTF18abxbugc_20181012_P60_v2.ascii,binnings/ZTF18abxbugc_20181012_P60_v2,Ic,0.0342,Ic/2004gt/LRIS phase-band : 57.59B,SB5,0.92448896,0.07551104,57.59,-2.0
+ZTF18abxftqm_20181103_APO_v1.ascii,binnings/ZTF18abxftqm_20181103_APO_v1,IIb-flash,0.0945,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.828801,0.17119902,-7.0,-2.0
+ZTF18abxjekh_20190403_Keck1_v1.ascii,binnings/ZTF18abxjekh_20190403_Keck1_v1,SLSN-IIn,0.0381225,SLSN-IIn/PTF10tpz/KAST phase-band : u-,Sb,0.5130637,0.48693624,u,0.4
+ZTF18abxyudf_20181002_P200_v1.ascii,binnings/ZTF18abxyudf_20181002_P200_v1,Ia 91T-like,0.11,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.61753905,0.38246095,-7.0,-1.2
+ZTF18acaahzg_20190403_Keck1_v1.ascii,binnings/ZTF18acaahzg_20190403_Keck1_v1,IIb,0.028644,IIb/1993J/KAST phase-band : 146.0B,SB1,0.2701,0.7299,146.0,2.0
+ZTF18acaeous_20181102_P60_v1.ascii,binnings/ZTF18acaeous_20181102_P60_v1,Ia 99aa-like,0.05605,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : 21.18B,E,0.9911296,0.008870426,21.18,-0.6
+ZTF18acaimrb_20181201_Keck1_v1.ascii,binnings/ZTF18acaimrb_20181201_Keck1_v1,IIb,0.0456,IIb/1993J/KAST phase-band : 72.0B,Sc,0.38994732,0.61005265,72.0,-1.6
+ZTF18acaipdc_20181009_P60_v1.ascii,binnings/ZTF18acaipdc_20181009_P60_v1,TDE H+He,0.05565,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.79031324,0.20968679,-1.04,1.2
+ZTF18acapkod_20190816_P60_v1.ascii,binnings/ZTF18acapkod_20190816_P60_v1,II,0.0798,II/2013fs/ALFOSC phase-band : 6.24B,SB3,0.9989519,0.0010480696,6.24,2.0
+ZTF18acapyww_20181204_Keck1_v1.ascii,binnings/ZTF18acapyww_20181204_Keck1_v1,Ia 91bg-like,0.1271,Ia 91bg-like/2016ije/KAST phase-band : u-,SB4,0.31068587,0.6893141,u,1.4
+ZTF18acaqbvs_20181023_UH88_v1.ascii,binnings/ZTF18acaqbvs_20181023_UH88_v1,Ia-norm,0.031,Ia-norm/2013dy/HET-LRS phase-band : 15.45B,SB3,0.14179692,0.85820305,15.45,2.0
+ZTF18acbufud_20181101_P60_v1.ascii,binnings/ZTF18acbufud_20181101_P60_v1,Ia 91bg-like,0.0861,Ia 91bg-like/2015ac/KAST phase-band : u-,Sa,0.79397166,0.20602836,u,1.8
+ZTF18acbujhw_20181031_P60_v1.ascii,binnings/ZTF18acbujhw_20181031_P60_v1,IIb,0.016093,IIb/2008ax/DOLORES phase-band : -7.23B,Sa,0.91163146,0.088368535,-7.23,-1.8
+ZTF18acbuwcq_20181201_Keck1_v1.ascii,binnings/ZTF18acbuwcq_20181201_Keck1_v1,IIb,0.21115,IIb/2011fu/LRIS phase-band : -15.62B,SB3,0.3809174,0.61908257,-15.62,1.2
+ZTF18acbvbox_20181102_P60_v1.ascii,binnings/ZTF18acbvbox_20181102_P60_v1,Ia-CSM,0.0342,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.9159799,0.08402005,u,-2.0
+ZTF18acbvgry_20181108_P60_v1.ascii,binnings/ZTF18acbvgry_20181108_P60_v1,Ia 91T-like,0.084,Ia 91T-like/2018hfr/KAST phase-band : u-,SB1,0.94908047,0.050919507,u,2.0
+ZTF18acbvgtu_20181101_P60_v1.ascii,binnings/ZTF18acbvgtu_20181101_P60_v1,IIn,0.032,IIn/2008fq/WFCCD phase-band : 3.0B,Sc,0.98308766,0.016912369,3.0,-2.0
+ZTF18acbwasc_20181205_LT_v1.ascii,binnings/ZTF18acbwasc_20181205_LT_v1,IIb-flash,0.019,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8531353,0.14686473,-7.0,-2.0
+ZTF18acbxsap_20181104_P60_v1.ascii,binnings/ZTF18acbxsap_20181104_P60_v1,Ia 91T-like,0.076,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.9924182,0.0075817597,-7.0,-0.4
+ZTF18acbznpp_20181110_Keck1_v3.ascii,binnings/ZTF18acbznpp_20181110_Keck1_v3,II,0.043095,II/iPTF15crj/DBSP phase-band : u-,SB1,0.18562546,0.8143745,u,2.0
+ZTF18accbppp_20181104_P60_v1.ascii,binnings/ZTF18accbppp_20181104_P60_v1,Ia-norm,0.061655,Ia-norm/2012ht/KAST phase-band : 2.3B,Sc,0.98084474,0.019155283,2.3,-0.6
+ZTF18acceaem_20181110_P60_v1.ascii,binnings/ZTF18acceaem_20181110_P60_v1,Ia 02es-like,0.0294,Ia 02es-like/PTF10ops/ISIS phase-band : 11.0g,S0,0.9602269,0.039773095,11.0,-1.8
+ZTF18acceprh_20181201_Keck1_v1.ascii,binnings/ZTF18acceprh_20181201_Keck1_v1,Ia-norm,0.04179,Ia-norm/2012cu/KAST phase-band : u-,E,0.101236664,0.89876336,u,1.0
+ZTF18acclexy_20181116_APO_v1.ascii,binnings/ZTF18acclexy_20181116_APO_v1,IIb-flash,0.076,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.60564715,0.39435288,-7.0,-2.0
+ZTF18acebssa_20181121_P60_v1.ascii,binnings/ZTF18acebssa_20181121_P60_v1,IIn,0.02886,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.9943152,0.005684787,-2.0,2.0
+ZTF18acehilk_20181108_P60_v1.ascii,binnings/ZTF18acehilk_20181108_P60_v1,IIn,0.0378,IIn/2008fq/WFCCD phase-band : 10.0B,SB6,0.9804854,0.019514592,10.0,-2.0
+ZTF18acehilk_20181108_P60_v2.ascii,binnings/ZTF18acehilk_20181108_P60_v2,IIn,0.0342,IIn/2008fq/WFCCD phase-band : 10.0B,SB6,0.97625655,0.023743438,10.0,-2.0
+ZTF18aceykmc_20181201_Keck1_v1.ascii,binnings/ZTF18aceykmc_20181201_Keck1_v1,II,0.04076475,II/iPTF15crj/DBSP phase-band : u-,E,0.91566694,0.08433309,u,1.6
+ZTF18acfwmqj_20181119_P60_v1.ascii,binnings/ZTF18acfwmqj_20181119_P60_v1,IIn,0.051675,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.941963,0.058036994,-2.0,-2.0
+ZTF18achdidy_20190702_Keck1_v1.ascii,binnings/ZTF18achdidy_20190702_Keck1_v1,IIn,0.158925,IIn/2010jl/LRIS phase-band : 845.34V,SB2,0.108515784,0.8914842,845.34,-2.0
+ZTF18achyqcq_20181120_P60_v1.ascii,binnings/ZTF18achyqcq_20181120_P60_v1,Ia-CSM,0.0525,Ia-CSM/PTF11kx/DBSP phase-band : -1.0B,Sa,0.97756296,0.022437055,-1.0,1.4
+ZTF18acisruf_20181121_P60_v1.ascii,binnings/ZTF18acisruf_20181121_P60_v1,Ic-BL,0.019,Ic-BL/1998bw/DFOSC phase-band : 7.0B,Sa,0.75138,0.24862,7.0,2.0
+ZTF18acisruf_20181121_P60_v2.ascii,binnings/ZTF18acisruf_20181121_P60_v2,Ic-BL,0.019,Ic-BL/1998bw/DFOSC phase-band : 7.0B,Sa,0.7660449,0.23395509,7.0,2.0
+ZTF18acisruf_20181211_NOT_v1.ascii,binnings/ZTF18acisruf_20181211_NOT_v1,IIb,0.02,IIb/2001ig/EFOSC2-3.6 phase-band : u-,Sa,0.46924,0.53076,u,2.0
+ZTF18acnbejq_20190104_Keck1_v1.ascii,binnings/ZTF18acnbejq_20190104_Keck1_v1,SLSN-IIn,0.107,SLSN-IIn/PTF10tpz/KAST phase-band : u-,E,0.9920205,0.007979534,u,0.2
+ZTF18acnbgrj_20181215_P200_v2.ascii,binnings/ZTF18acnbgrj_20181215_P200_v2,Ia-CSM,0.055575,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB4,0.89965,0.10035001,u,-1.6
+ZTF18acnbpmd_20200226_DCT_v1.ascii,binnings/ZTF18acnbpmd_20200226_DCT_v1,IIb-flash,0.357,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,,,-7.0,-2.0
+ZTF18acnncve_20181126_P60_v1.ascii,binnings/ZTF18acnncve_20181126_P60_v1,Ic-BL,0.042275,Ic-BL/2006aj/FORS2 phase-band : 8.02B,S0,0.989225,0.010775004,8.02,0.6
+ZTF18acnnevs_20190126_P200_v1.ascii,binnings/ZTF18acnnevs_20190126_P200_v1,IIb,0.191,IIb/PS15bgt/AFOSC phase-band : 13.0B,SB2,0.7693714,0.23062862,13.0,-2.0
+ZTF18acnnxor_20181216_P60_v1.ascii,binnings/ZTF18acnnxor_20181216_P60_v1,Ia-CSM,0.078,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB1,0.986725,0.013275019,u,-0.4
+ZTF18acnnxor_20181216_P60_v2.ascii,binnings/ZTF18acnnxor_20181216_P60_v2,Ia 91T-like,0.084,Ia 91T-like/2018hfr/KAST phase-band : u-,SB1,0.94706947,0.05293055,u,-0.2
+ZTF18acpuxuh_20181227_P200_v1.ascii,binnings/ZTF18acpuxuh_20181227_P200_v1,Ib,0.099,Ib/2008D/MMT-Blue phase-band : -10.57B,E,0.5112368,0.4887632,-10.57,-2.0
+ZTF18acqphpd_20190307_Keck1_v1.ascii,binnings/ZTF18acqphpd_20190307_Keck1_v1,Ic-BL,0.03885,Ic-BL/2014cp/KAST phase-band : u-,Sc,0.5292216,0.4707784,u,1.2
+ZTF18acqphpd_20190406_Keck1_v1.ascii,binnings/ZTF18acqphpd_20190406_Keck1_v1,Ic-BL,0.03885,Ic-BL/2014cp/KAST phase-band : u-,E,0.7945865,0.20541355,u,2.0
+ZTF18acqsfxh_20181201_Keck1_v2.ascii,binnings/ZTF18acqsfxh_20181201_Keck1_v2,Ia-norm,0.039748,Ia-norm/2012fr/KAST phase-band : 2.28B,SB5,0.7441893,0.2558107,2.28,-2.0
+ZTF18acqsfxh_20181201_Keck1_v3.ascii,binnings/ZTF18acqsfxh_20181201_Keck1_v3,Ia-norm,0.039748,Ia-norm/2012fr/KAST phase-band : 2.28B,SB5,0.64115065,0.35884935,2.28,-1.6
+ZTF18acqugen_20200720_Keck1_v1.ascii,binnings/ZTF18acqugen_20200720_Keck1_v1,II,0.0568,II/iPTF15crj/DBSP phase-band : u-,S0,0.8741605,0.12583944,u,-0.8
+ZTF18acrncou_20181212_P60_v1.ascii,binnings/ZTF18acrncou_20181212_P60_v1,Ia-norm,0.084,Ia-norm/2012cg/KAST phase-band : -5.5B,SB1,0.98025674,0.01974326,-5.5,0.2
+ZTF18acrnfww_20181212_P60_v1.ascii,binnings/ZTF18acrnfww_20181212_P60_v1,Ia 99aa-like,0.0665,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : -10.66B,E,0.996317,0.0036829752,-10.66,1.4
+ZTF18acrtykk_20181210_P60_v1.ascii,binnings/ZTF18acrtykk_20181210_P60_v1,SLSN-I,0.05795,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sc,0.86622417,0.1337758,u,-1.6
+ZTF18acrvakb_20181209_P60_v1.ascii,binnings/ZTF18acrvakb_20181209_P60_v1,IIn,0.07505,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.89747536,0.102524646,-2.0,-0.4
+ZTF18acrvakb_20190101_WHT_v1.ascii,binnings/ZTF18acrvakb_20190101_WHT_v1,IIb-flash,0.07505,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8101892,0.18981084,-7.0,-2.0
+ZTF18acslpba_20181209_P60_v1.ascii,binnings/ZTF18acslpba_20181209_P60_v1,IIn,0.02937675,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.95754915,0.042450834,3.0,-1.4
+ZTF18acslpba_20181209_P60_v2.ascii,binnings/ZTF18acslpba_20181209_P60_v2,Ia 91bg-like,0.02937675,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,SB6,0.9255274,0.07447259,-6.87,-0.4
+ZTF18acslpba_20181222_P60_v1.ascii,binnings/ZTF18acslpba_20181222_P60_v1,IIn,0.0316365,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.94233,0.05766999,10.0,1.2
+ZTF18acslpba_20181222_P60_v2.ascii,binnings/ZTF18acslpba_20181222_P60_v2,Ia 02es-like,0.03088325,Ia 02es-like/PTF10ops/ISIS phase-band : 11.0g,S0,0.81922674,0.18077323,11.0,0.2
+ZTF18acsofdh_20181219_P60_v1.ascii,binnings/ZTF18acsofdh_20181219_P60_v1,Ia 91T-like,0.084,Ia 91T-like/1991T/Other phase-band : -13.0B,Sc,0.9425555,0.05744452,-13.0,-2.0
+ZTF18acsoymy_20181217_P60_v2.ascii,binnings/ZTF18acsoymy_20181217_P60_v2,Ibn,0.08,Ibn/PS1-12sk/ALFOSC phase-band : 3.87g,Sc,0.9045591,0.09544092,3.87,-2.0
+ZTF18acspjqd_20181212_P60_v1.ascii,binnings/ZTF18acspjqd_20181212_P60_v1,IIn,0.076,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.91332614,0.08667386,-2.0,-1.4
+ZTF18acsyzca_20181223_P60_v1.ascii,binnings/ZTF18acsyzca_20181223_P60_v1,Ia 91bg-like,0.013851,Ia 91bg-like/2015ac/KAST phase-band : u-,S0,0.9912575,0.008742528,u,0.2
+ZTF18acsyzta_20181213_P200_v1.ascii,binnings/ZTF18acsyzta_20181213_P200_v1,Ca-Ia,0.03156075,Ca-Ia/PTF09dav/LRIS phase-band : 72.67R,Sa,0.909343,0.09065699,72.67,-1.6
+ZTF18acszaiy_20190107_NOT_v1.ascii,binnings/ZTF18acszaiy_20190107_NOT_v1,II,0.0315,II/2013fs/ALFOSC phase-band : 6.24B,S0,0.9030605,0.09693953,6.24,-0.8
+ZTF18acuefvt_20181215_P60_v1.ascii,binnings/ZTF18acuefvt_20181215_P60_v1,Ia-CSM,0.07557,Ia-CSM/PTF11kx/DBSP phase-band : -1.0B,S0,0.97362685,0.026373135,-1.0,1.2
+ZTF18acuring_20181214_P200_v1.ascii,binnings/ZTF18acuring_20181214_P200_v1,II,0.036075,II/iPTF15crj/FLOYDS-N phase-band : u-,Sa,0.63575816,0.36424184,u,-0.4
+ZTF18acusbdy_20181215_P60_v1.ascii,binnings/ZTF18acusbdy_20181215_P60_v1,Ia-CSM-(ambigious),0.07,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,E,0.98657614,0.0134238815,6.0,1.6
+ZTF18acusueb_20181213_P60_v1.ascii,binnings/ZTF18acusueb_20181213_P60_v1,Ia 91bg-like,0.021299,Ia 91bg-like/2015ac/KAST phase-band : u-,S0,0.98310524,0.01689475,u,0.2
+ZTF18acuxibg_20181216_APO_v1.ascii,binnings/ZTF18acuxibg_20181216_APO_v1,II,0.0,II/2013ej/HET-LRS phase-band : -2.61B,E,0.81790966,0.18209033,-2.61,2.0
+ZTF18acvbqaz_20181223_P60_v1.ascii,binnings/ZTF18acvbqaz_20181223_P60_v1,II,0.0882,II/iPTF14flu/ALFOSC phase-band : u-,S0,0.98447275,0.015527235,u,2.0
+ZTF18acvrfvv_20181219_P60_v1.ascii,binnings/ZTF18acvrfvv_20181219_P60_v1,TDE H+He,0.038,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB5,0.94232666,0.057673328,-1.04,-1.8
+ZTF18acvvudh_20190101_WHT_v1.ascii,binnings/ZTF18acvvudh_20190101_WHT_v1,IIb-flash,0.06,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.7860986,0.21390142,-7.0,-2.0
+ZTF18acwgdeh_20181215_P60_v1.ascii,binnings/ZTF18acwgdeh_20181215_P60_v1,Ia 02es-like,0.02688,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,E,0.9961483,0.0038517353,101.0,-0.2
+ZTF18acwgdeh_20190104_P60_v1.ascii,binnings/ZTF18acwgdeh_20190104_P60_v1,IIn,0.02688,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.9746617,0.025338281,10.0,-2.0
+ZTF18acwyvet_20181228_P60_v1.ascii,binnings/ZTF18acwyvet_20181228_P60_v1,TDE H+He,0.0281,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB3,0.9205928,0.0794072,-1.04,1.2
+ZTF18acwyvet_20190126_P200_v1.ascii,binnings/ZTF18acwyvet_20190126_P200_v1,II,0.0273975,II/iPTF15crj/ALFOSC phase-band : u-,SB5,0.42277446,0.57722557,u,1.0
+ZTF18acwzyor_20190119_NOT_v1.ascii,binnings/ZTF18acwzyor_20190119_NOT_v1,Ia-CSM,0.028044,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB1,0.98229426,0.017705768,u,0.4
+ZTF18acxgoki_20190704_Keck1_v1.ascii,binnings/ZTF18acxgoki_20190704_Keck1_v1,II,0.039,II/iPTF15crj/DBSP phase-band : u-,E,0.9596369,0.040363096,u,0.6
+ZTF18acxgqxq_20190702_Keck1_v1.ascii,binnings/ZTF18acxgqxq_20190702_Keck1_v1,SLSN-Ib,0.26325,SLSN-Ib/2010md/LRIS phase-band : 103.0B,SB2,0.8287476,0.17125246,103.0,1.8
+ZTF18acxgqxq_20191121_Keck1_v1.ascii,binnings/ZTF18acxgqxq_20191121_Keck1_v1,SLSN-I,0.26325,SLSN-I/2015bn/EFOSC2-NTT phase-band : 289.34B,S0,0.6173819,0.3826181,289.34,0.8
+ZTF18acxijqw_20190101_WHT_v1.ascii,binnings/ZTF18acxijqw_20190101_WHT_v1,IIb-flash,0.082,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.649784,0.35021597,-7.0,-2.0
+ZTF18acyawjf_20190102_APO_v1.ascii,binnings/ZTF18acyawjf_20190102_APO_v1,IIb-flash,0.07,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,,,-7.0,-2.0
+ZTF18acyawjf_20190104_Keck1_v1.ascii,binnings/ZTF18acyawjf_20190104_Keck1_v1,Ia 91bg-like,0.0735,Ia 91bg-like/2015ac/KAST phase-band : u-,Sa,0.9977335,0.0022665397,u,0.0
+ZTF18acyxnyw_20190412_Keck1_v1.ascii,binnings/ZTF18acyxnyw_20190412_Keck1_v1,SLSN-Ib,0.1053,SLSN-Ib/2010md/LRIS phase-band : 50.0B,SB1,0.6122397,0.38776025,50.0,2.0
+ZTF18acyyhgi_20181227_P200_v1.ascii,binnings/ZTF18acyyhgi_20181227_P200_v1,Ia 99aa-like,0.037925,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : 10.22B,Sc,0.60657567,0.39342433,10.22,-1.0
+ZTF18aczuooo_20190315_P200_v1.ascii,binnings/ZTF18aczuooo_20190315_P200_v1,II,0.094,II/iPTF15crj/FLOYDS-N phase-band : u-,SB4,0.85509026,0.14490971,u,1.4
+ZTF18adaruzw_20190112_P200_v1.ascii,binnings/ZTF18adaruzw_20190112_P200_v1,Ia 91bg-like,0.0336015,Ia 91bg-like/2015ac/KAST phase-band : u-,Sa,0.84679043,0.15320955,u,-2.0
+ZTF18adasopt_20181231_WHT_v1.ascii,binnings/ZTF18adasopt_20181231_WHT_v1,IIb-flash,0.04,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.74386525,0.25613478,-7.0,-2.0
+ZTF18adathpb_20190103_P60_v1.ascii,binnings/ZTF18adathpb_20190103_P60_v1,Ia 91bg-like,0.029621,Ia 91bg-like/1999by/FAST phase-band : 3.0B,S0,0.973678,0.026321998,3.0,-2.0
+ZTF18adaymez_20181231_P60_v1.ascii,binnings/ZTF18adaymez_20181231_P60_v1,Ia 91T-like,0.063,Ia 91T-like/1991T/Other phase-band : -13.0B,Sa,0.887286,0.11271399,-13.0,-2.0
+ZTF18adbmiwf_20190126_P200_v1.ascii,binnings/ZTF18adbmiwf_20190126_P200_v1,IIn,0.04404075,IIn/2005cp/DBSP phase-band : 62.0B,E,0.36422676,0.63577324,62.0,2.0
+ZTF19aaafica_20190102_LT_v1.ascii,binnings/ZTF19aaafica_20190102_LT_v1,IIb-flash,0.0205,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.88669777,0.11330223,-7.0,-2.0
+ZTF19aaafica_20190119_NOT_v1.ascii,binnings/ZTF19aaafica_20190119_NOT_v1,Ia 91bg-like,0.021,Ia 91bg-like/2005bl/LRIS phase-band : 18.4B,S0,0.9485653,0.051434677,18.4,-0.4
+ZTF19aablual_20190113_UH88_v1.ascii,binnings/ZTF19aablual_20190113_UH88_v1,Ia 91bg-like,0.0365925,Ia 91bg-like/1999by/FAST phase-band : -1.85B,Sa,0.9362793,0.06372069,-1.85,-2.0
+ZTF19aabyuze_20190127_Lick_3-m_v1.ascii,binnings/ZTF19aabyuze_20190127_Lick_3-m_v1,Ia 99aa-like,0.04515,Ia 99aa-like/1999aa/KAST phase-band : 0.0B,SB3,0.9287988,0.07120119,0.0,-0.2
+ZTF19aacxrab_20190427_P200_v4.ascii,binnings/ZTF19aacxrab_20190427_P200_v4,Ia 91bg-like,0.126,Ia 91bg-like/2016ije/KAST phase-band : u-,Sc,0.40175906,0.598241,u,0.2
+ZTF19aadnmgf_20190225_P60_v1.ascii,binnings/ZTF19aadnmgf_20190225_P60_v1,Ia 99aa-like,0.082,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : 21.18B,SB1,0.9425184,0.057481572,21.18,-0.6
+ZTF19aadnsqj_20190126_P200_v1.ascii,binnings/ZTF19aadnsqj_20190126_P200_v1,IIn,0.0325,IIn/2005cp/DBSP phase-band : 62.0B,Sb,0.32742947,0.6725705,62.0,2.0
+ZTF19aadnxat_20190125_LT_v1.ascii,binnings/ZTF19aadnxat_20190125_LT_v1,IIb-flash,0.030476,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.24008583,0.75991416,-7.0,-2.0
+ZTF19aadwtoe_20190209_P60_v3.ascii,binnings/ZTF19aadwtoe_20190209_P60_v3,IIn,0.016065,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.9549622,0.045037813,3.0,-0.4
+ZTF19aadyppr_20190314_P60_v1.ascii,binnings/ZTF19aadyppr_20190314_P60_v1,ILRT,0.001425,ILRT/2015dl/DBSP phase-band : u-,SB5,0.96021235,0.039787635,u,-2.0
+ZTF19aadyppr_20190413_P200_v1.ascii,binnings/ZTF19aadyppr_20190413_P200_v1,Ib,0.001425,Ib/2007C/KAST phase-band : 11.56B,E,0.9258828,0.0741172,11.56,-2.0
+ZTF19aaebbam_20190212_P200_v1.ascii,binnings/ZTF19aaebbam_20190212_P200_v1,IIn,0.03066,IIn/2008fq/WFCCD phase-band : 3.0B,SB4,0.3389875,0.6610125,3.0,2.0
+ZTF19aaeopbq_20190212_P200_v2.ascii,binnings/ZTF19aaeopbq_20190212_P200_v2,II-flash,0.03895,II-flash/iPTF15crj_early/ALFOSC phase-band : u-,Sc,0.6853399,0.31466007,u,-2.0
+ZTF19aaeopbq_20190212_P200_v3.ascii,binnings/ZTF19aaeopbq_20190212_P200_v3,II-flash,0.03895,II-flash/iPTF15crj_early/ALFOSC phase-band : u-,Sc,0.5579703,0.44202974,u,-1.0
+ZTF19aaeopgw_20190303_LT_v1.ascii,binnings/ZTF19aaeopgw_20190303_LT_v1,IIb-flash,0.12675,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.7349993,0.26500067,-7.0,-2.0
+ZTF19aaeoqsi_20190406_Keck1_v1.ascii,binnings/ZTF19aaeoqsi_20190406_Keck1_v1,II,0.04582775,II/2003ed/KAST phase-band : u-,Sc,0.2252607,0.7747393,u,-0.2
+ZTF19aaflrxz_20190212_P200_v1.ascii,binnings/ZTF19aaflrxz_20190212_P200_v1,SLSN-IIn,0.0284715,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,SB4,0.76083195,0.23916808,u,-0.8
+ZTF19aafmhcl_20190209_P60_v3.ascii,binnings/ZTF19aafmhcl_20190209_P60_v3,Ia 91T-like,0.0663,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.9998053,0.00019473372,-7.0,0.0
+ZTF19aafndot_20190212_P200_v1.ascii,binnings/ZTF19aafndot_20190212_P200_v1,II,0.03347175,II/iPTF15crj/ALFOSC phase-band : u-,SB5,0.5955129,0.40448707,u,0.6
+ZTF19aagkfvq_20200518_LT_v1.ascii,binnings/ZTF19aagkfvq_20200518_LT_v1,IIb-flash,0.05,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.84925705,0.15074296,-7.0,-2.0
+ZTF19aahygro_20190304_P200_v1.ascii,binnings/ZTF19aahygro_20190304_P200_v1,Ia 91bg-like,0.0287,Ia 91bg-like/2015ac/KAST phase-band : u-,SB6,0.94115853,0.058841445,u,-1.8
+ZTF19aakirwj_20190224_P60_v1.ascii,binnings/ZTF19aakirwj_20190224_P60_v1,IIb,0.0332325,IIb/2001ig/EFOSC2-3.6 phase-band : u-,SB1,0.99965477,0.00034522772,u,-0.2
+ZTF19aaklsto_20190330_APO_v1.ascii,binnings/ZTF19aaklsto_20190330_APO_v1,SLSN-I,0.07995,SLSN-I/PTF10aagc/LRIS phase-band : u-,S0,0.6043811,0.39561892,u,-2.0
+ZTF19aaknate_20190305_P60_v2.ascii,binnings/ZTF19aaknate_20190305_P60_v2,IIb,0.011286,IIb/2011fu/AFOSC phase-band : -11.2B,SB4,0.88656205,0.11343797,-11.2,2.0
+ZTF19aaknemm_20190313_P60_v1.ascii,binnings/ZTF19aaknemm_20190313_P60_v1,Ia-CSM,0.0735,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.9950963,0.004903682,u,-1.6
+ZTF19aaknemm_20190313_P60_v2.ascii,binnings/ZTF19aaknemm_20190313_P60_v2,Ia-CSM,0.0735,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.9850235,0.014976517,u,0.4
+ZTF19aaknqmp_20190406_Keck1_v1.ascii,binnings/ZTF19aaknqmp_20190406_Keck1_v1,Ia 91bg-like,0.1406,Ia 91bg-like/2016ije/KAST phase-band : u-,SB2,0.54953897,0.45046103,u,1.4
+ZTF19aaknqmp_20190704_Keck1_v3.ascii,binnings/ZTF19aaknqmp_20190704_Keck1_v3,IIn,0.148,IIn/2010jl/LRIS phase-band : 845.34V,SB2,0.12269417,0.8773058,845.34,2.0
+ZTF19aakpccq_20190424_P200_v1.ascii,binnings/ZTF19aakpccq_20190424_P200_v1,TDE H+He,0.05,TDE H+He/2016fnl/DBSP phase-band : -1.04g,Sa,0.5034516,0.4965484,-1.04,1.2
+ZTF19aakpcuw_20190926_Keck1_v1.ascii,binnings/ZTF19aakpcuw_20190926_Keck1_v1,Ic-BL,0.0304,Ic-BL/1998bw/EFOSC2-3.6 phase-band : 201.0B,Sa,0.96295136,0.03704864,201.0,2.0
+ZTF19aakpcuw_20190926_Keck1_v2.ascii,binnings/ZTF19aakpcuw_20190926_Keck1_v2,IIb,0.032,IIb/2001ig/LRIS phase-band : u-,SB2,0.19614181,0.80385816,u,2.0
+ZTF19aakpmry_20190225_P60_v1.ascii,binnings/ZTF19aakpmry_20190225_P60_v1,Ia 91bg-like,0.026049,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,Sa,0.997513,0.0024870187,-6.87,0.2
+ZTF19aaksrgj_20190305_P60_v1.ascii,binnings/ZTF19aaksrgj_20190305_P60_v1,Ia 91T-like,0.0880475,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.99720883,0.0027911572,-7.0,-1.6
+ZTF19aakswrb_20190827_DCT_v2.ascii,binnings/ZTF19aakswrb_20190827_DCT_v2,IIb-flash,0.1206,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.75508845,0.24491157,-7.0,-2.0
+ZTF19aakswrb_20200609_DCT_v2.ascii,binnings/ZTF19aakswrb_20200609_DCT_v2,IIb-flash,0.1206,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8471617,0.15283832,-7.0,-2.0
+ZTF19aaktdid_20190228_P60_v1.ascii,binnings/ZTF19aaktdid_20190228_P60_v1,Ia 91bg-like,0.0504,Ia 91bg-like/1999by/FAST phase-band : 3.0B,SB2,0.891641,0.108358994,3.0,0.8
+ZTF19aakykjl_20190401_P60_v1.ascii,binnings/ZTF19aakykjl_20190401_P60_v1,Ia-CSM,0.03,Ia-CSM/2005gj/LRIS phase-band : 48.04g,Sa,0.7985071,0.20149288,48.04,0.4
+ZTF19aakykjl_20190408_P60_v1.ascii,binnings/ZTF19aakykjl_20190408_P60_v1,Ia-CSM,0.02925,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB5,0.9430632,0.056936786,u,-2.0
+ZTF19aalaxsa_20190406_Keck1_v1.ascii,binnings/ZTF19aalaxsa_20190406_Keck1_v1,IIn,0.116,IIn/2010jl/LRIS phase-band : 845.34V,Sc,0.08743541,0.9125646,845.34,0.6
+ZTF19aalbrgu_20190408_LT_v1.ascii,binnings/ZTF19aalbrgu_20190408_LT_v1,IIb-flash,0.097,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.76924026,0.23075975,-7.0,-2.0
+ZTF19aalbrgu_20190716_P60_v1.ascii,binnings/ZTF19aalbrgu_20190716_P60_v1,II,0.10185,II/2016esw/KAST phase-band : 13.52B,Sc,0.9610204,0.038979605,13.52,1.6
+ZTF19aaldqvh_20190424_P200_v1.ascii,binnings/ZTF19aaldqvh_20190424_P200_v1,SLSN-IIn,0.098475,SLSN-IIn/PTF10tpz/RC-Spec phase-band : u-,Sc,0.22310977,0.7768902,u,2.0
+ZTF19aalfsqm_20190406_Keck1_v1.ascii,binnings/ZTF19aalfsqm_20190406_Keck1_v1,SLSN-I,0.0305,SLSN-I/PTF09cnd/LRIS phase-band : 126.0u,E,0.20577326,0.7942267,126.0,2.0
+ZTF19aalkxhz_20190315_P200_v1.ascii,binnings/ZTF19aalkxhz_20190315_P200_v1,SLSN-I,0.03805425,SLSN-I/PTF10aagc/LRIS phase-band : u-,E,0.889697,0.110302985,u,-2.0
+ZTF19aalryov_20190305_P60_v1.ascii,binnings/ZTF19aalryov_20190305_P60_v1,Ia-CSM,0.052605,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sa,0.9031135,0.0968865,u,-0.2
+ZTF19aalwqqa_20190315_P200_v1.ascii,binnings/ZTF19aalwqqa_20190315_P200_v1,IIn,0.02997,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.82756144,0.17243856,3.0,-2.0
+ZTF19aalwqqa_20190403_Keck1_v1.ascii,binnings/ZTF19aalwqqa_20190403_Keck1_v1,IIn,0.02997,IIn/2009kr/KAST phase-band : 38.09B,Sc,0.42758596,0.57241404,38.09,-0.2
+ZTF19aalypsi_20190403_Keck1_v1.ascii,binnings/ZTF19aalypsi_20190403_Keck1_v1,II,0.021723,II/2003ed/KAST phase-band : u-,E,0.7843326,0.21566743,u,2.0
+ZTF19aalzgdr_20190307_Keck1_v1.ascii,binnings/ZTF19aalzgdr_20190307_Keck1_v1,Ia 99aa-like,0.0973,Ia 99aa-like/1999aa/KAST phase-band : 0.0B,SB1,0.6582992,0.34170082,0.0,-1.8
+ZTF19aamfxby_20190324_P60_v1.ascii,binnings/ZTF19aamfxby_20190324_P60_v1,Ia-CSM-(ambigious),0.0735,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,SB3,0.8723118,0.12768821,6.0,1.8
+ZTF19aamgttu_20190330_P60_v1.ascii,binnings/ZTF19aamgttu_20190330_P60_v1,Ia-CSM-(ambigious),0.03234,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,Sb,0.921521,0.07847901,6.0,-1.2
+ZTF19aamkywr_20190420_P60_v1.ascii,binnings/ZTF19aamkywr_20190420_P60_v1,IIn,0.028823,IIn/2008fq/WFCCD phase-band : 10.0B,SB1,0.9493998,0.050600156,10.0,-2.0
+ZTF19aamljom_20190530_P60_v1.ascii,binnings/ZTF19aamljom_20190530_P60_v1,IIn,0.019,IIn/2008fq/WFCCD phase-band : 3.0B,SB5,0.99537474,0.0046252385,3.0,0.8
+ZTF19aamrais_20190424_P200_v1.ascii,binnings/ZTF19aamrais_20190424_P200_v1,II,0.1173,II/iPTF15crj/DBSP phase-band : u-,SB4,0.7060195,0.29398048,u,1.6
+ZTF19aamrnyv_20190318_P60_v1.ascii,binnings/ZTF19aamrnyv_20190318_P60_v1,Ia 02es-like,0.024168,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,SB5,0.90663046,0.09336953,101.0,-2.0
+ZTF19aamrnyv_20190326_P60_v1.ascii,binnings/ZTF19aamrnyv_20190326_P60_v1,IIn,0.024804,IIn/2008fq/WFCCD phase-band : 10.0B,SB5,0.9695899,0.030410083,10.0,-2.0
+ZTF19aamsetj_20190420_NOT_v1.ascii,binnings/ZTF19aamsetj_20190420_NOT_v1,SLSN-Ib,0.0261345,SLSN-Ib/2010md/LRIS phase-band : 50.0B,Sc,0.9580468,0.041953225,50.0,1.0
+ZTF19aamsetj_20190423_P60_v1.ascii,binnings/ZTF19aamsetj_20190423_P60_v1,Ic-BL,0.0261345,Ic-BL/2006aj/FORS2 phase-band : 8.02B,S0,0.9876972,0.012302799,8.02,-1.2
+ZTF19aamsetj_20190424_P200_v1.ascii,binnings/ZTF19aamsetj_20190424_P200_v1,Ic-pec,0.0261345,Ic-pec/2005ek/KAST phase-band : -0.53B,SB1,0.9700181,0.029981941,-0.53,-1.2
+ZTF19aamsetj_20190424_P200_v3.ascii,binnings/ZTF19aamsetj_20190424_P200_v3,Ic-pec,0.02751,Ic-pec/2005ek/KAST phase-band : -0.53B,Sb,0.9411163,0.05888375,-0.53,-0.6
+ZTF19aamsetj_20190429_NOT_v1.ascii,binnings/ZTF19aamsetj_20190429_NOT_v1,SLSN-I,0.0261345,SLSN-I/2011ke/LRIS phase-band : 64.06V,E,0.710639,0.28936097,64.06,-0.2
+ZTF19aanbpus_20201212_LT_v1.ascii,binnings/ZTF19aanbpus_20201212_LT_v1,IIb-flash,0.010209,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8784024,0.12159757,-7.0,-2.0
+ZTF19aanbpus_20210217_Keck1_v1.ascii,binnings/ZTF19aanbpus_20210217_Keck1_v1,II,0.009462,II/iPTF15crj/DBSP phase-band : u-,SB2,0.6492709,0.3507291,u,0.6
+ZTF19aanfsmc_20200218_Keck1_v1.ascii,binnings/ZTF19aanfsmc_20200218_Keck1_v1,II,0.03481,II/iPTF15crj/DBSP phase-band : u-,E,0.9059476,0.09405239,u,0.8
+ZTF19aanftyh_20190413_P200_v1.ascii,binnings/ZTF19aanftyh_20190413_P200_v1,SLSN-IIn,0.032994,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,Sc,0.64729226,0.35270777,u,1.6
+ZTF19aanijpu_20190424_P60_v1.ascii,binnings/ZTF19aanijpu_20190424_P60_v1,Ia 91bg-like,0.0475,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,SB1,0.9710849,0.028915085,-6.87,-0.6
+ZTF19aaniqrr_20190424_P200_v1.ascii,binnings/ZTF19aaniqrr_20190424_P200_v1,II-flash,0.531975,II-flash/iPTF14flu_early/DBSP phase-band : u-,E,0.81646144,0.18353854,u,2.0
+ZTF19aaniqrr_20190502_DCT_v1.ascii,binnings/ZTF19aaniqrr_20190502_DCT_v1,IIb-flash,0.54495,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,,,-7.0,-2.0
+ZTF19aaniqrr_20210607_Keck1_v1.ascii,binnings/ZTF19aaniqrr_20210607_Keck1_v1,TDE H+He,0.519,TDE H+He/2019qiz/X-Shooter phase-band : 128.0g,S0,0.2474507,0.7525493,128.0,2.0
+ZTF19aanmclt_20190330_P60_v1.ascii,binnings/ZTF19aanmclt_20190330_P60_v1,Ia 91bg-like,0.04725,Ia 91bg-like/1999by/FAST phase-band : 3.0B,SB1,0.88019955,0.11980042,3.0,0.0
+ZTF19aanmdsr_20190412_P60_v1.ascii,binnings/ZTF19aanmdsr_20190412_P60_v1,Ia-CSM-(ambigious),0.11875,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,SB2,0.6416692,0.3583308,6.0,2.0
+ZTF19aanpcep_20190603_Keck1_v1.ascii,binnings/ZTF19aanpcep_20190603_Keck1_v1,SN - Imposter,0.0314,SN - Imposter/2000ch/LRIS phase-band : u-,S0,0.461432,0.53856796,u,-1.2
+ZTF19aansyyn_20190408_P60_v1.ascii,binnings/ZTF19aansyyn_20190408_P60_v1,Ia-CSM,0.07995,Ia-CSM/PTF11kx/DBSP phase-band : -1.0B,Sa,0.94833285,0.051667172,-1.0,2.0
+ZTF19aanxgrz_20190411_P60_v1.ascii,binnings/ZTF19aanxgrz_20190411_P60_v1,Ia 91bg-like,0.02708,Ia 91bg-like/2015ac/KAST phase-band : u-,Sa,0.94671464,0.05328535,u,0.6
+ZTF19aanyuyh_20200722_P60_v1.ascii,binnings/ZTF19aanyuyh_20200722_P60_v1,IIn,0.0257565,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.97222906,0.02777093,10.0,-2.0
+ZTF19aanyuyh_20200727_P60_v1.ascii,binnings/ZTF19aanyuyh_20200727_P60_v1,IIn,0.0257565,IIn/2008fq/WFCCD phase-band : 3.0B,Sc,0.9934307,0.006569331,3.0,-1.8
+ZTF19aanyuyh_20200728_LT_v1.ascii,binnings/ZTF19aanyuyh_20200728_LT_v1,IIb-flash,0.02453,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.89111394,0.10888607,-7.0,-2.0
+ZTF19aaoaaap_20190502_P200_v1.ascii,binnings/ZTF19aaoaaap_20190502_P200_v1,Ia 91T-like,0.105,Ia 91T-like/2018hfr/KAST phase-band : u-,SB3,0.994777,0.005223002,u,0.0
+ZTF19aapbgmp_20190507_LT_v1.ascii,binnings/ZTF19aapbgmp_20190507_LT_v1,IIb-flash,0.076,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8906395,0.10936053,-7.0,-2.0
+ZTF19aapeime_20190408_P60_v1.ascii,binnings/ZTF19aapeime_20190408_P60_v1,IIn,0.0292845,IIn/2008fq/WFCCD phase-band : 10.0B,SB1,0.9994653,0.0005346912,10.0,-2.0
+ZTF19aapeime_20190412_P60_v1.ascii,binnings/ZTF19aapeime_20190412_P60_v1,IIn,0.02719275,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.99917054,0.00082947727,10.0,-2.0
+ZTF19aapeime_20190412_P60_v2.ascii,binnings/ZTF19aapeime_20190412_P60_v2,IIn,0.0264955,IIn/2008fq/WFCCD phase-band : 10.0B,S0,0.98925763,0.010742348,10.0,0.6
+ZTF19aapnzde_20190413_P60_v2.ascii,binnings/ZTF19aapnzde_20190413_P60_v2,IIn,0.0744135,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.9164679,0.08353208,-2.0,0.8
+ZTF19aapreis_20190627_Lick_3-m_v1.ascii,binnings/ZTF19aapreis_20190627_Lick_3-m_v1,IIn,0.04992,IIn/2010jl/DEIMOS phase-band : 20.65V,E,0.66035056,0.33964944,20.65,-1.8
+ZTF19aapreis_20190629_DCT_v1.ascii,binnings/ZTF19aapreis_20190629_DCT_v1,IIb-flash,0.05248,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.79952675,0.20047326,-7.0,-2.0
+ZTF19aapreis_20190709_Lick_3-m_v1.ascii,binnings/ZTF19aapreis_20190709_Lick_3-m_v1,SLSN-IIn,0.0512,SLSN-IIn/PTF10tpz/KAST phase-band : u-,Sb,0.5249893,0.47501072,u,0.0
+ZTF19aapreis_20190925_Keck1_v2.ascii,binnings/ZTF19aapreis_20190925_Keck1_v2,SLSN-IIn,0.04992,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,SB2,0.6732145,0.3267855,142.39,1.8
+ZTF19aapreis_20191029_Lick_3-m_v1.ascii,binnings/ZTF19aapreis_20191029_Lick_3-m_v1,SLSN-IIn,0.0512,SLSN-IIn/PTF10tpz/KAST phase-band : u-,Sb,0.5249893,0.47501072,u,0.0
+ZTF19aapreis_20201011_DCT_v1.ascii,binnings/ZTF19aapreis_20201011_DCT_v1,IIb-flash,0.0512,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8776153,0.12238475,-7.0,-2.0
+ZTF19aaputrv_20190424_P200_v1.ascii,binnings/ZTF19aaputrv_20190424_P200_v1,II,0.03586475,II/iPTF15crj/DBSP phase-band : u-,Sc,0.87259525,0.12740475,u,0.2
+ZTF19aapwnmb_20190603_Keck1_v1.ascii,binnings/ZTF19aapwnmb_20190603_Keck1_v1,ILRT,0.095,ILRT/2015dl/DBSP phase-band : u-,SB1,0.9512259,0.048774127,u,-0.4
+ZTF19aapygmq_20190415_P60_v1.ascii,binnings/ZTF19aapygmq_20190415_P60_v1,Ia-pec,0.0372075,Ia-pec/2000cx/KAST phase-band : 4.0B,S0,0.506761,0.49323896,4.0,2.0
+ZTF19aaqhelq_20190508_LT_v3.ascii,binnings/ZTF19aaqhelq_20190508_LT_v3,IIb-flash,0.05377,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8842229,0.11577706,-7.0,-2.0
+ZTF19aaqhmju_20210604_P200_v1.ascii,binnings/ZTF19aaqhmju_20210604_P200_v1,IIb-flash,0.015372,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,,,-7.0,-2.0
+ZTF19aaqxmbq_20190424_P200_v1.ascii,binnings/ZTF19aaqxmbq_20190424_P200_v1,IIn,0.0012915,IIn/2010jl/DBSP phase-band : 377.0V,SB1,0.32795048,0.6720495,377.0,2.0
+ZTF19aarfksi_20190530_P60_v1.ascii,binnings/ZTF19aarfksi_20190530_P60_v1,Ia 91T-like,0.08379,Ia 91T-like/2018hfr/KAST phase-band : u-,SB1,0.8894675,0.11053253,u,-0.4
+ZTF19aarphwc_20191121_Keck1_v1.ascii,binnings/ZTF19aarphwc_20191121_Keck1_v1,SLSN-Ib,0.2980575,SLSN-Ib/2010md/LRIS phase-band : 103.0B,Sa,0.9783681,0.021631883,103.0,1.2
+ZTF19aarqyyq_20190924_Keck1_v2.ascii,binnings/ZTF19aarqyyq_20190924_Keck1_v2,II,0.040209,II/1987a/IUE phase-band : 581.0B,Sc,0.042121198,0.9578788,581.0,1.6
+ZTF19aasekcx_20190524_NTT_v1.ascii,binnings/ZTF19aasekcx_20190524_NTT_v1,Ia-CSM,0.118,Ia-CSM/2016iks/EFOSC2-NTT phase-band : u-,SB1,0.8430584,0.15694158,u,-1.2
+ZTF19aasqseq_20200124_Keck1_v1.ascii,binnings/ZTF19aasqseq_20200124_Keck1_v1,II,0.027757,II/iPTF15crj/DBSP phase-band : u-,SB1,0.4477145,0.5522855,u,0.4
+ZTF19aasqseq_20200124_Keck1_v2.ascii,binnings/ZTF19aasqseq_20200124_Keck1_v2,IIn,0.027757,IIn/2010jl/LRIS phase-band : 845.34V,SB4,0.05213265,0.94786733,845.34,2.0
+ZTF19aassqix_20190525_P60_v1.ascii,binnings/ZTF19aassqix_20190525_P60_v1,Ia-CSM,0.0525,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.9985842,0.001415779,u,-1.0
+ZTF19aatgopg_20190605_Lick_3-m_v1.ascii,binnings/ZTF19aatgopg_20190605_Lick_3-m_v1,Ia 91T-like,0.0732,Ia 91T-like/2018hfr/KAST phase-band : u-,Sa,0.4983346,0.5016654,u,-2.0
+ZTF19aatmgjm_20190604_P200_v2.ascii,binnings/ZTF19aatmgjm_20190604_P200_v2,SLSN-IIn,0.0289575,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,SB4,0.78734404,0.21265599,142.39,1.0
+ZTF19aatmgjm_20200826_P200_v1.ascii,binnings/ZTF19aatmgjm_20200826_P200_v1,SN - Imposter,0.031185,SN - Imposter/2000ch/LRIS phase-band : u-,Sb,0.010466292,0.9895337,u,-2.0
+ZTF19aauhwbp_20190531_P60_v1.ascii,binnings/ZTF19aauhwbp_20190531_P60_v1,Ia-CSM,0.041391,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.80007625,0.19992372,u,2.0
+ZTF19aaujiwc_20190530_P60_v1.ascii,binnings/ZTF19aaujiwc_20190530_P60_v1,Ia-CSM,0.0361,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.94531405,0.054685965,u,-1.8
+ZTF19aavidqf_20190607_P60_v1.ascii,binnings/ZTF19aavidqf_20190607_P60_v1,Ia 91T-like,0.098,Ia 91T-like/1991T/Other phase-band : -7.0B,SB3,0.99232584,0.0076741623,-7.0,0.2
+ZTF19aavjbyl_20190704_Keck1_v1.ascii,binnings/ZTF19aavjbyl_20190704_Keck1_v1,IIb,0.0384465,IIb/2008ax/KAST phase-band : 67.15B,SB4,0.7504626,0.24953741,67.15,-2.0
+ZTF19aavlfvn_20190704_Lick_3-m_v1.ascii,binnings/ZTF19aavlfvn_20190704_Lick_3-m_v1,II,0.0270075,II/2002hh/KAST phase-band : 3544.35V,Sb,0.020070637,0.9799294,3544.35,1.2
+ZTF19aavlfvn_20200218_Keck1_v1.ascii,binnings/ZTF19aavlfvn_20200218_Keck1_v1,SLSN-IIn,0.0270075,SLSN-IIn/PTF10tpz/KAST phase-band : u-,S0,0.66558874,0.3344113,u,-2.0
+ZTF19aavlfvn_20200218_Keck1_v2.ascii,binnings/ZTF19aavlfvn_20200218_Keck1_v2,SLSN-IIn,0.0270075,SLSN-IIn/PTF10tpz/KAST phase-band : u-,Sa,0.6881642,0.31183583,u,-2.0
+ZTF19aavmgtv_20190605_P60_v1.ascii,binnings/ZTF19aavmgtv_20190605_P60_v1,Ia-CSM,0.02847,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.90784764,0.092152335,u,-1.6
+ZTF19aavoiyc_20200826_P200_v1.ascii,binnings/ZTF19aavoiyc_20200826_P200_v1,IIb-flash,0.04935,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,,,-7.0,-2.0
+ZTF19aavqoop_20190608_P60_v1.ascii,binnings/ZTF19aavqoop_20190608_P60_v1,Ia-CSM,0.0735,Ia-CSM/PTF11kx/DBSP phase-band : -1.0B,Sa,0.999819,0.00018102088,-1.0,1.0
+ZTF19aavsahh_20190606_P60_v1.ascii,binnings/ZTF19aavsahh_20190606_P60_v1,SLSN-I,0.063,SLSN-I/PTF10aagc/LRIS phase-band : u-,S0,0.8841284,0.11587159,u,-1.6
+ZTF19aavxufb_20190605_P60_v1.ascii,binnings/ZTF19aavxufb_20190605_P60_v1,Ia 91bg-like,0.0615,Ia 91bg-like/2015ac/KAST phase-band : u-,S0,0.9744608,0.025539221,u,1.4
+ZTF19aavyvbn_20191104_APO_v1.ascii,binnings/ZTF19aavyvbn_20191104_APO_v1,IIb-flash,0.0168,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.5861557,0.41384426,-7.0,-2.0
+ZTF19aawblge_20190628_P60_v2.ascii,binnings/ZTF19aawblge_20190628_P60_v2,Ia-norm,0.044075,Ia-norm/1994D/KAST phase-band : 28.6B,SB1,0.77372473,0.2262753,28.6,0.4
+ZTF19aawfbtg_20201012_Keck1_v1.ascii,binnings/ZTF19aawfbtg_20201012_Keck1_v1,II,0.0866,II/iPTF15crj/FLOYDS-N phase-band : u-,Sc,0.30377373,0.6962263,u,-0.8
+ZTF19aawfkeg_20190626_Lick_3-m_v1.ascii,binnings/ZTF19aawfkeg_20190626_Lick_3-m_v1,IIn,0.047,IIn/2010jl/KAST phase-band : 28.57V,Sb,0.18652111,0.8134789,28.57,2.0
+ZTF19aawqcgy_20190801_P200_v2.ascii,binnings/ZTF19aawqcgy_20190801_P200_v2,SLSN-IIn,0.02116625,SLSN-IIn/PTF10tpz/KAST phase-band : u-,SB2,0.98068875,0.019311277,u,-2.0
+ZTF19aawupxb_20190620_P60_v1.ascii,binnings/ZTF19aawupxb_20190620_P60_v1,Ia-CSM,0.05817,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.9844114,0.015588609,u,-1.2
+ZTF19aaxfcpq_20190928_Keck1_v1.ascii,binnings/ZTF19aaxfcpq_20190928_Keck1_v1,Ca-Ib,0.03705,Ca-Ib/PTF12bho/LRIS phase-band : 54.4r,E,0.33673832,0.66326165,54.4,-2.0
+ZTF19aaxkzts_20190704_Keck1_v1.ascii,binnings/ZTF19aaxkzts_20190704_Keck1_v1,Ib,0.0364455,Ib/2007C/KAST phase-band : 11.56B,Sc,0.41947395,0.58052605,11.56,0.0
+ZTF19aayabqe_20190613_P60_v1.ascii,binnings/ZTF19aayabqe_20190613_P60_v1,Ia 91bg-like,0.03135,Ia 91bg-like/1999by/FAST phase-band : -3.0B,E,0.98693794,0.013062032,-3.0,-1.8
+ZTF19aaycomi_20190611_P60_v1.ascii,binnings/ZTF19aaycomi_20190611_P60_v1,TDE H+He,0.03075,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.896767,0.10323296,-1.04,0.2
+ZTF19aayejww_20190701_P200_v1.ascii,binnings/ZTF19aayejww_20190701_P200_v1,SLSN-Ib,0.0657025,SLSN-Ib/2010md/KAST phase-band : 15.0B,S0,0.8783874,0.1216126,15.0,-2.0
+ZTF19aayiidz_20190906_P200_v1.ascii,binnings/ZTF19aayiidz_20190906_P200_v1,SLSN-I,0.0252,SLSN-I/PTF10aagc/LRIS phase-band : u-,E,0.5204619,0.4795381,u,0.4
+ZTF19aaykugs_20190617_P60_v1.ascii,binnings/ZTF19aaykugs_20190617_P60_v1,IIn,0.0427785,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.94190747,0.058092542,-2.0,-1.4
+ZTF19aaynsws_20190615_P60_v1.ascii,binnings/ZTF19aaynsws_20190615_P60_v1,IIn,0.0567645,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.9319577,0.068042286,-2.0,-1.0
+ZTF19aayqait_20190701_P200_v1.ascii,binnings/ZTF19aayqait_20190701_P200_v1,Ib,0.06555,Ib/2008D/MMT-Blue phase-band : -10.57B,E,0.41946587,0.58053416,-10.57,-0.6
+ZTF19aaywatp_20190701_P200_v1.ascii,binnings/ZTF19aaywatp_20190701_P200_v1,SLSN-IIn,0.02769,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,SB5,0.7944828,0.20551719,u,0.2
+ZTF19abacxwt_20190630_APO_v1.ascii,binnings/ZTF19abacxwt_20190630_APO_v1,IIb-flash,0.0855,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8260208,0.17397925,-7.0,-2.0
+ZTF19abacxwt_20190701_P60_v1.ascii,binnings/ZTF19abacxwt_20190701_P60_v1,II,0.09225,II/2014G/KAST phase-band : 2.4B,SB1,0.99928236,0.0007176222,2.4,-1.4
+ZTF19abadskf_20190620_P60_v1.ascii,binnings/ZTF19abadskf_20190620_P60_v1,Ia 99aa-like,0.0400335,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : -10.66B,SB1,0.8633709,0.13662913,-10.66,1.6
+ZTF19abaexlf_20190701_P200_v1.ascii,binnings/ZTF19abaexlf_20190701_P200_v1,ILRT,0.0391755,ILRT/PTF10fqs/HET-LRS phase-band : -6.0g,SB2,0.60983855,0.39016145,-6.0,0.6
+ZTF19abaeyln_20190630_P60_v1.ascii,binnings/ZTF19abaeyln_20190630_P60_v1,Ia 91T-like,0.08946,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.9882214,0.011778586,-7.0,-0.4
+ZTF19abafrvy_20190706_P60_v1.ascii,binnings/ZTF19abafrvy_20190706_P60_v1,Ia-CSM,0.0819,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB1,0.9907897,0.009210291,u,-0.2
+ZTF19abajuqh_20190624_P60_v1.ascii,binnings/ZTF19abajuqh_20190624_P60_v1,IIn,0.0714,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.80518824,0.19481179,-2.0,1.8
+ZTF19abalrbb_20190625_P60_v1.ascii,binnings/ZTF19abalrbb_20190625_P60_v1,Ia 91bg-like,0.0525,Ia 91bg-like/2015ac/KAST phase-band : u-,SB1,0.9880114,0.011988592,u,-0.6
+ZTF19abangub_20190709_P60_v1.ascii,binnings/ZTF19abangub_20190709_P60_v1,Ia 99aa-like,0.085075,Ia 99aa-like/1999aa/KAST phase-band : 0.0B,Sc,0.998174,0.001826001,0.0,0.4
+ZTF19abatvit_20190705_P60_v1.ascii,binnings/ZTF19abatvit_20190705_P60_v1,IIn,0.1025,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB4,0.8548436,0.14515637,-2.0,0.0
+ZTF19abcegvm_20190920_P60_v1.ascii,binnings/ZTF19abcegvm_20190920_P60_v1,Ia-CSM,0.071175,Ia-CSM/2005gj/LRIS phase-band : 48.04g,SB1,0.97684103,0.023158977,48.04,-0.8
+ZTF19abcmjed_20190704_P200_v1.ascii,binnings/ZTF19abcmjed_20190704_P200_v1,Ib,0.0564,Ib/2008D/MMT-Blue phase-band : -12.57B,SB6,0.69579,0.30421,-12.57,-2.0
+ZTF19abcndvf_20190701_P60_v1.ascii,binnings/ZTF19abcndvf_20190701_P60_v1,IIn,0.046265,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.9363671,0.063632876,-2.0,-0.6
+ZTF19abcnpkt_20190709_P60_v1.ascii,binnings/ZTF19abcnpkt_20190709_P60_v1,IIn,0.08925,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.8522453,0.14775471,-2.0,-0.2
+ZTF19abdjwtv_20190804_P200_v1.ascii,binnings/ZTF19abdjwtv_20190804_P200_v1,Ia-CSM,0.08075,Ia-CSM/2017eby/EFOSC2-NTT phase-band : u-,E,0.5646868,0.4353132,u,-0.6
+ZTF19abdkgwo_20190723_LT_v1.ascii,binnings/ZTF19abdkgwo_20190723_LT_v1,IIb-flash,0.098,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.75831,0.24168998,-7.0,-2.0
+ZTF19abdmfgf_20190718_P60_v2.ascii,binnings/ZTF19abdmfgf_20190718_P60_v2,Ia-CSM-(ambigious),0.075075,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,S0,0.97676575,0.02323424,6.0,-2.0
+ZTF19abdspop_20190831_Keck1_v1.ascii,binnings/ZTF19abdspop_20190831_Keck1_v1,II,0.034522,II/iPTF15crj/DBSP phase-band : u-,Sc,0.5293567,0.4706433,u,-0.4
+ZTF19abegxfs_20190809_P200_v1.ascii,binnings/ZTF19abegxfs_20190809_P200_v1,II,0.022686,II/2016bkv/FLOYDS-N phase-band : 23.83B,Sc,0.7051455,0.29485452,23.83,0.6
+ZTF19abfiqjg_20190728_P60_v1.ascii,binnings/ZTF19abfiqjg_20190728_P60_v1,Ia-CSM,0.0888,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB2,0.9851337,0.01486631,u,0.2
+ZTF19abfloxk_20190713_P60_v1.ascii,binnings/ZTF19abfloxk_20190713_P60_v1,TDE H+He,0.0152,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.9873374,0.0126626035,-1.04,1.0
+ZTF19abfpwia_20190804_P200_v1.ascii,binnings/ZTF19abfpwia_20190804_P200_v1,SLSN-I,0.068901,SLSN-I/PTF12dam/KAST phase-band : -22.0B,SB2,0.30210483,0.69789517,-22.0,2.0
+ZTF19abfvnns_20191006_P200_v2.ascii,binnings/ZTF19abfvnns_20191006_P200_v2,Ic,0.133,Ic/2007gr/KAST phase-band : -2.49B,SB5,0.35698733,0.64301264,-2.49,2.0
+ZTF19abfvnns_20191125_P200_v1.ascii,binnings/ZTF19abfvnns_20191125_P200_v1,SLSN-I,0.133,SLSN-I/PTF09cnd/LRIS phase-band : 126.0u,SB3,0.5750261,0.4249739,126.0,0.8
+ZTF19abfvnns_20200124_Keck1_v1.ascii,binnings/ZTF19abfvnns_20200124_Keck1_v1,SLSN-Ib,0.133,SLSN-Ib/2010md/LRIS phase-band : 103.0B,E,0.9798027,0.020197289,103.0,1.2
+ZTF19abfwhja_20190718_P60_v1.ascii,binnings/ZTF19abfwhja_20190718_P60_v1,II,0.08284,II/2013fs/ALFOSC phase-band : 6.24B,SB1,0.99787056,0.00212941,6.24,-1.2
+ZTF19abgppki_20190731_P60_v1.ascii,binnings/ZTF19abgppki_20190731_P60_v1,SLSN-I,0.0617,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sb,0.91980904,0.08019095,u,-2.0
+ZTF19abgqwed_20190728_P60_v1.ascii,binnings/ZTF19abgqwed_20190728_P60_v1,Ia-CSM,0.0786,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB1,0.9796248,0.020375194,u,-1.8
+ZTF19abgrchq_20190729_P60_v1.ascii,binnings/ZTF19abgrchq_20190729_P60_v1,IIn,0.0285,IIn/2008fq/WFCCD phase-band : 10.0B,SB2,0.8280947,0.17190531,10.0,2.0
+ZTF19abgrchq_20190804_P60_v2.ascii,binnings/ZTF19abgrchq_20190804_P60_v2,II,0.0285,II/2003ed/LRIS phase-band : u-,S0,0.96992594,0.030074054,u,1.0
+ZTF19abguzsx_20190725_P60_v1.ascii,binnings/ZTF19abguzsx_20190725_P60_v1,Ic,0.09083,Ic/2014L/BFOSC phase-band : -9.0B,SB1,0.6598484,0.3401516,-9.0,2.0
+ZTF19abguzsx_20190725_P60_v2.ascii,binnings/ZTF19abguzsx_20190725_P60_v2,Ia-CSM-(ambigious),0.0953715,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,Sb,0.94826573,0.051734287,6.0,2.0
+ZTF19abhbjge_20190726_P60_v1.ascii,binnings/ZTF19abhbjge_20190726_P60_v1,IIn,0.040194,IIn/2008fq/WFCCD phase-band : 10.0B,SB4,0.90796983,0.09203018,10.0,-2.0
+ZTF19abiaxpi_20191025_P200_v2.ascii,binnings/ZTF19abiaxpi_20191025_P200_v2,SLSN-IIn,0.0777955,SLSN-IIn/PTF10qaf/LRIS phase-band : u-,SB1,0.8957086,0.10429139,u,-2.0
+ZTF19abiqhwm_20190804_P200_v1.ascii,binnings/ZTF19abiqhwm_20190804_P200_v1,II,0.0308845,II/2007od/LRIS phase-band : 5.19B,Sa,0.7413073,0.25869265,5.19,-2.0
+ZTF19abisbgx_20190802_P60_v1.ascii,binnings/ZTF19abisbgx_20190802_P60_v1,IIn,0.08075,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.8892133,0.11078666,-2.0,-0.2
+ZTF19abjpkdz_20190808_P60_v1.ascii,binnings/ZTF19abjpkdz_20190808_P60_v1,Ia 91bg-like,0.0592515,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,SB1,0.7833353,0.21666469,-6.87,2.0
+ZTF19abjswdz_20190808_P60_v1.ascii,binnings/ZTF19abjswdz_20190808_P60_v1,Ia 91T-like,0.09,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.98005915,0.019940827,-7.0,0.2
+ZTF19abkgbul_20190801_P60_v1.ascii,binnings/ZTF19abkgbul_20190801_P60_v1,Ia 91bg-like,0.0361,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,S0,0.9966768,0.0033232134,-6.87,1.8
+ZTF19abkrbjt_20200610_P200_v1.ascii,binnings/ZTF19abkrbjt_20200610_P200_v1,SLSN-I,0.065625,SLSN-I/PTF10aagc/LRIS phase-band : u-,E,0.8689218,0.13107817,u,-1.6
+ZTF19abkrbjt_20200610_P200_v2.ascii,binnings/ZTF19abkrbjt_20200610_P200_v2,SLSN-I,0.065625,SLSN-I/PTF10aagc/LRIS phase-band : u-,E,0.8689218,0.13107817,u,-1.6
+ZTF19ablfoqa_20190810_P200_v1.ascii,binnings/ZTF19ablfoqa_20190810_P200_v1,IIn,0.032,IIn/2009kr/KAST phase-band : 0.17B,Sc,0.6747193,0.3252807,0.17,0.0
+ZTF19ablqnuw_20191027_Keck1_v1.ascii,binnings/ZTF19ablqnuw_20191027_Keck1_v1,SLSN-IIn,0.041,SLSN-IIn/PTF10tpz/KAST phase-band : u-,Sc,0.77168787,0.22831212,u,-1.8
+ZTF19abnacvf_20200124_Keck1_v1.ascii,binnings/ZTF19abnacvf_20200124_Keck1_v1,Ib,0.18525,Ib/2014C/Other phase-band : 114.34B,SB5,0.20364077,0.79635924,114.34,0.6
+ZTF19abnimpq_20190815_P60_v1.ascii,binnings/ZTF19abnimpq_20190815_P60_v1,SLSN-I,0.0722625,SLSN-I/2017egm/KAST phase-band : 6.62B,SB1,0.9672813,0.032718718,6.62,1.2
+ZTF19abormno_20190826_P60_v2.ascii,binnings/ZTF19abormno_20190826_P60_v2,Ia 91bg-like,0.057,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,Sc,0.9247097,0.07529034,-6.87,0.0
+ZTF19abovuiy_20190902_P200_v1.ascii,binnings/ZTF19abovuiy_20190902_P200_v1,II,0.036387,II/iPTF15crj/ALFOSC phase-band : u-,SB6,0.6673467,0.3326533,u,0.6
+ZTF19abowblg_20190819_P60_v1.ascii,binnings/ZTF19abowblg_20190819_P60_v1,IIb,0.0369075,IIb/2001ig/EFOSC2-3.6 phase-band : u-,SB1,0.89152235,0.108477645,u,0.0
+ZTF19abowblg_20190819_P60_v2.ascii,binnings/ZTF19abowblg_20190819_P60_v2,IIb,0.0369075,IIb/2001ig/EFOSC2-3.6 phase-band : u-,SB1,0.9069861,0.09301385,u,0.0
+ZTF19abozuxh_20190821_P60_v2.ascii,binnings/ZTF19abozuxh_20190821_P60_v2,Ia-CSM,0.064575,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.97929734,0.020702658,u,-0.6
+ZTF19abpelgt_20190826_UH88_v1.ascii,binnings/ZTF19abpelgt_20190826_UH88_v1,Ia 91bg-like,0.0749775,Ia 91bg-like/1999by/FAST phase-band : -3.0B,E,0.8235583,0.17644173,-3.0,-2.0
+ZTF19abpidqn_20190907_P200_v1.ascii,binnings/ZTF19abpidqn_20190907_P200_v1,IIn,0.01458,IIn/2010jl/KAST phase-band : 28.57V,SB5,0.8909853,0.109014675,28.57,-0.8
+ZTF19abpqvdh_20190820_P60_v2.ascii,binnings/ZTF19abpqvdh_20190820_P60_v2,Ia 91bg-like,0.0236265,Ia 91bg-like/2005bl/WFCCD phase-band : -3.87B,Sa,0.96888214,0.031117868,-3.87,-2.0
+ZTF19abpvbzf_20190914_P60_v1.ascii,binnings/ZTF19abpvbzf_20190914_P60_v1,Ia-CSM,0.058425,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB5,0.99712336,0.0028766212,u,2.0
+ZTF19abpvhki_20190829_P60_v2.ascii,binnings/ZTF19abpvhki_20190829_P60_v2,IIn,0.061425,IIn/2008fq/WFCCD phase-band : 10.0B,SB2,0.9329543,0.067045674,10.0,-2.0
+ZTF19abpyjqx_20190826_UH88_v1.ascii,binnings/ZTF19abpyjqx_20190826_UH88_v1,IIn,0.05438,IIn/2008fq/WFCCD phase-band : 10.0B,SB3,0.946084,0.053915992,10.0,0.0
+ZTF19abqmsnk_20190827_P200_v1.ascii,binnings/ZTF19abqmsnk_20190827_P200_v1,II,0.0373905,II/2012aw/AFOSC phase-band : 2.13B,SB1,0.68378,0.31622002,2.13,0.4
+ZTF19abqmurd_20190902_P200_v1.ascii,binnings/ZTF19abqmurd_20190902_P200_v1,SLSN-IIn,0.0285,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,Sc,0.61574006,0.38425997,u,1.6
+ZTF19abqqrgy_20190826_P60_v2.ascii,binnings/ZTF19abqqrgy_20190826_P60_v2,Ia 91bg-like,0.02812,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,Sc,0.8799833,0.1200167,-6.87,-0.6
+ZTF19abqqrgy_20190831_P60_v2.ascii,binnings/ZTF19abqqrgy_20190831_P60_v2,Ic,0.02812,Ic/1994I/BC-Ekar phase-band : 2.0B,SB1,0.9999334,6.6548644e-05,2.0,-0.6
+ZTF19abqsojs_20190823_P60_v1.ascii,binnings/ZTF19abqsojs_20190823_P60_v1,Ia 99aa-like,0.061425,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : -10.66B,SB1,0.9438209,0.056179114,-10.66,2.0
+ZTF19abqwtfu_20200821_Keck1_v1.ascii,binnings/ZTF19abqwtfu_20200821_Keck1_v1,II,0.01435,II/1987a/IUE phase-band : 581.0B,SB1,0.33221725,0.6677828,581.0,1.6
+ZTF19abqxibq_20190901_UH88_v1.ascii,binnings/ZTF19abqxibq_20190901_UH88_v1,IIn,0.082,IIn/2002bu/KAST phase-band : 34.0B,SB2,0.9080379,0.09196207,34.0,0.6
+ZTF19abttstb_20190907_P60_v2.ascii,binnings/ZTF19abttstb_20190907_P60_v2,Ia 91bg-like,0.0335255,Ia 91bg-like/2005bl/WFCCD phase-band : -3.87B,S0,0.9459825,0.054017473,-3.87,-2.0
+ZTF19abucvhz_20190906_P200_v1.ascii,binnings/ZTF19abucvhz_20190906_P200_v1,SLSN-I,0.0672,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sc,0.58083975,0.41916022,u,-1.0
+ZTF19abucwzt_20200224_P60_v1.ascii,binnings/ZTF19abucwzt_20200224_P60_v1,SN - Imposter,0.0160875,SN - Imposter/2000ch/LRIS phase-band : u-,S0,0.9287192,0.071280755,u,1.4
+ZTF19abucwzt_20200821_Keck1_v1.ascii,binnings/ZTF19abucwzt_20200821_Keck1_v1,SN - Imposter,0.0165,SN - Imposter/2000ch/LRIS phase-band : u-,Sc,0.99736744,0.0026325537,u,-1.2
+ZTF19abucwzt_20210114_Keck1_v2.ascii,binnings/ZTF19abucwzt_20210114_Keck1_v2,SN - Imposter,0.015675,SN - Imposter/2000ch/LRIS phase-band : u-,E,0.99994314,5.6856363e-05,u,0.0
+ZTF19abuvxjc_20190907_P200_v1.ascii,binnings/ZTF19abuvxjc_20190907_P200_v1,IIn,0.039007,IIn/2010jl/DEIMOS phase-band : 20.65V,E,0.6340097,0.36599028,20.65,-2.0
+ZTF19abuzpmr_20190911_P60_v1.ascii,binnings/ZTF19abuzpmr_20190911_P60_v1,IIn,0.063375,IIn/2008fq/WFCCD phase-band : 3.0B,SB5,0.9947331,0.0052669332,3.0,1.6
+ZTF19abuzpmr_20190911_P60_v2.ascii,binnings/ZTF19abuzpmr_20190911_P60_v2,IIn,0.06175,IIn/2008fq/WFCCD phase-band : 3.0B,Sc,0.93766814,0.062331844,3.0,1.8
+ZTF19abvdgqo_20190904_Lick_3-m_v1.ascii,binnings/ZTF19abvdgqo_20190904_Lick_3-m_v1,IIb,0.0349885,IIb/2013df/HET-LRS phase-band : -8.0B,SB1,0.4625711,0.5374289,-8.0,0.4
+ZTF19abvdgqo_20190907_NOT_v1.ascii,binnings/ZTF19abvdgqo_20190907_NOT_v1,Ic,0.0349885,Ic/1994I/KAST phase-band : -2.57B,Sa,0.8923434,0.10765657,-2.57,0.6
+ZTF19abvgxrq_20191012_LT_v1.ascii,binnings/ZTF19abvgxrq_20191012_LT_v1,IIb-flash,0.097,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8202555,0.1797445,-7.0,-2.0
+ZTF19abvgxrq_20200226_DCT_v1.ascii,binnings/ZTF19abvgxrq_20200226_DCT_v1,IIb-flash,0.097,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.76852715,0.23147283,-7.0,-2.0
+ZTF19abvgxrq_20200913_DCT_v1.ascii,binnings/ZTF19abvgxrq_20200913_DCT_v1,IIb-flash,0.097,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.793277,0.20672297,-7.0,-2.0
+ZTF19abvgxrq_20201206_DCT_v1.ascii,binnings/ZTF19abvgxrq_20201206_DCT_v1,IIb-flash,0.097,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.7832889,0.21671112,-7.0,-2.0
+ZTF19abwscnk_20190910_P60_v1.ascii,binnings/ZTF19abwscnk_20190910_P60_v1,Ia-CSM-(ambigious),0.06825,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,SB1,0.93176466,0.06823536,6.0,0.2
+ZTF19abwscnk_20190917_P60_v2.ascii,binnings/ZTF19abwscnk_20190917_P60_v2,Ic-BL,0.0735,Ic-BL/1998bw/DFOSC phase-band : 7.0B,SB2,0.8621413,0.13785867,7.0,2.0
+ZTF19abxjrge_20200915_Keck1_v1.ascii,binnings/ZTF19abxjrge_20200915_Keck1_v1,IIb,0.022785,IIb/2001ig/LRIS phase-band : u-,SB1,0.15087861,0.8491214,u,2.0
+ZTF19abxnycf_20191012_LT_v1.ascii,binnings/ZTF19abxnycf_20191012_LT_v1,IIb-flash,0.06807,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8569045,0.14309552,-7.0,-2.0
+ZTF19abxnycf_20191027_Keck1_v1.ascii,binnings/ZTF19abxnycf_20191027_Keck1_v1,II,0.06807,II/iPTF15crj/FLOYDS-N phase-band : u-,Sc,0.19599256,0.8040074,u,2.0
+ZTF19abxvjkn_20190921_Lick_3-m_v1.ascii,binnings/ZTF19abxvjkn_20190921_Lick_3-m_v1,Ia 91bg-like,0.051471,Ia 91bg-like/2015ac/KAST phase-band : u-,SB6,0.9530037,0.046996273,u,1.2
+ZTF19abxvtxk_20190913_P60_v1.ascii,binnings/ZTF19abxvtxk_20190913_P60_v1,Ia 99aa-like,0.08,Ia 99aa-like/1999aa/KAST phase-band : 0.0B,Sc,0.9990889,0.0009110974,0.0,0.6
+ZTF19abycslo_20190919_P60_v1.ascii,binnings/ZTF19abycslo_20190919_P60_v1,SLSN-I,0.0945,SLSN-I/2017egm/KAST phase-band : 6.62B,SB1,0.9384614,0.06153858,6.62,-0.4
+ZTF19abyhobw_20190924_Keck1_v1.ascii,binnings/ZTF19abyhobw_20190924_Keck1_v1,II,0.0400335,II/iPTF15crj/DBSP phase-band : u-,Sa,0.6438861,0.35611394,u,-0.6
+ZTF19abyhxzp_20190918_P60_v1.ascii,binnings/ZTF19abyhxzp_20190918_P60_v1,Ia 91T-like,0.086,Ia 91T-like/1991T/Other phase-band : -13.0B,E,0.99998546,1.4524391e-05,-13.0,1.8
+ZTF19abyihtb_20191123_Keck1_v1.ascii,binnings/ZTF19abyihtb_20191123_Keck1_v1,SLSN-IIn,0.03949,SLSN-IIn/PTF10tpz/KAST phase-band : u-,S0,0.78324294,0.21675707,u,-1.8
+ZTF19abyikbv_20190911_P60_v1.ascii,binnings/ZTF19abyikbv_20190911_P60_v1,IIn,0.0178395,IIn/2008fq/WFCCD phase-band : 10.0B,SB6,0.98354703,0.016452996,10.0,-2.0
+ZTF19abymvpq_20190917_P60_v1.ascii,binnings/ZTF19abymvpq_20190917_P60_v1,Ia 99aa-like,0.0615,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : -10.66B,S0,0.8395278,0.16047223,-10.66,1.4
+ZTF19abyuzch_20190915_P60_v1.ascii,binnings/ZTF19abyuzch_20190915_P60_v1,computed,0.0252,computed/PISN/Other phase-band : u-,S0,0.9210844,0.078915596,u,1.0
+ZTF19abywmqw_20190919_P60_v1.ascii,binnings/ZTF19abywmqw_20190919_P60_v1,Ia 02es-like,0.0374775,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,SB5,0.8642749,0.13572507,101.0,-1.4
+ZTF19abywmqw_20190921_P60_v1.ascii,binnings/ZTF19abywmqw_20190921_P60_v1,Ia-CSM,0.03945,Ia-CSM/2005gj/LRIS phase-band : 48.04g,Sb,0.9484146,0.051585354,48.04,-1.4
+ZTF19abzknnj_20190922_P200_v1.ascii,binnings/ZTF19abzknnj_20190922_P200_v1,SLSN-I,0.067,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sb,0.93634486,0.06365512,u,-1.6
+ZTF19abzlmwn_20190923_P60_v1.ascii,binnings/ZTF19abzlmwn_20190923_P60_v1,II,0.026,II/2013fs/ALFOSC phase-band : 6.24B,S0,0.90830684,0.09169317,6.24,-2.0
+ZTF19abzlsbl_20190921_P60_v1.ascii,binnings/ZTF19abzlsbl_20190921_P60_v1,Ia 91bg-like,0.03,Ia 91bg-like/1999by/FAST phase-band : -1.85B,Sa,0.9777147,0.022285294,-1.85,-0.4
+ZTF19abzlvsz_20190923_P60_v1.ascii,binnings/ZTF19abzlvsz_20190923_P60_v1,Ia 02es-like,0.04592,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,Sc,0.9028508,0.09714916,101.0,-0.2
+ZTF19abzqywg_20191003_P200_v1.ascii,binnings/ZTF19abzqywg_20191003_P200_v1,IIb,0.043875,IIb/2013df/HET-LRS phase-band : -1.0B,SB4,0.23571667,0.76428336,-1.0,1.0
+ZTF19abzrmmd_20190928_Keck1_v1.ascii,binnings/ZTF19abzrmmd_20190928_Keck1_v1,II,0.03275025,II/iPTF15crj/FLOYDS-N phase-band : u-,SB2,0.5781746,0.42182544,u,0.8
+ZTF19abzvvkb_20191001_P60_v1.ascii,binnings/ZTF19abzvvkb_20191001_P60_v1,Ia 91T-like,0.09165,Ia 91T-like/1991T/Other phase-band : -13.0B,Sc,0.9722644,0.02773561,-13.0,-1.4
+ZTF19abzwaen_20200915_Keck1_v2.ascii,binnings/ZTF19abzwaen_20200915_Keck1_v2,TDE H,0.0285,TDE H/ASASSN-14ae/LRIS phase-band : 287.62B,SB1,0.879582,0.120418034,287.62,-1.0
+ZTF19abzzuik_20191023_APO_v1.ascii,binnings/ZTF19abzzuik_20191023_APO_v1,IIb-flash,0.0676725,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,,,-7.0,-2.0
+ZTF19acaijhg_20191003_P200_v1.ascii,binnings/ZTF19acaijhg_20191003_P200_v1,SLSN-IIn,0.03252,SLSN-IIn/PTF10tpz/KAST phase-band : u-,SB4,0.9761821,0.023817904,u,-1.8
+ZTF19acajpre_20191005_P60_v1.ascii,binnings/ZTF19acajpre_20191005_P60_v1,Ia 02es-like,0.03045,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,S0,0.991723,0.00827697,101.0,0.2
+ZTF19acapech_20191104_APO_v1.ascii,binnings/ZTF19acapech_20191104_APO_v1,IIb-flash,0.076875,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.6506102,0.34938976,-7.0,-2.0
+ZTF19acasxva_20191024_P200_v1.ascii,binnings/ZTF19acasxva_20191024_P200_v1,SLSN-I,0.0777,SLSN-I/2015bn/LDSS-3 phase-band : 120.34B,Sc,0.5257816,0.47421843,120.34,0.8
+ZTF19acazljd_20191005_P200_v1.ascii,binnings/ZTF19acazljd_20191005_P200_v1,IIn,0.04466,IIn/2010jl/DEIMOS phase-band : 20.65V,SB3,0.6078606,0.39213938,20.65,-1.8
+ZTF19acbchel_20200916_P200_v1.ascii,binnings/ZTF19acbchel_20200916_P200_v1,II-flash,0.02706,II-flash/iPTF15crj_early/ALFOSC phase-band : u-,Sa,0.56504095,0.43495908,u,-2.0
+ZTF19acbjddp_20191024_P200_v1.ascii,binnings/ZTF19acbjddp_20191024_P200_v1,Ia-CSM,0.1835,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sa,0.9767006,0.023299411,u,0.0
+ZTF19acblzux_20191004_P60_v2.ascii,binnings/ZTF19acblzux_20191004_P60_v2,Ia 91bg-like,0.0378,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,SB4,0.99743193,0.0025680384,-6.87,-1.0
+ZTF19acbmjrp_20191011_P60_v1.ascii,binnings/ZTF19acbmjrp_20191011_P60_v1,Ia-CSM-(ambigious),0.08925,Ia-CSM-(ambigious)/2002ic/BC-Magellan phase-band : 2.0B,Sa,0.92827076,0.07172923,2.0,2.0
+ZTF19acbmjrp_20191024_P200_v1.ascii,binnings/ZTF19acbmjrp_20191024_P200_v1,Ia 91T-like,0.087125,Ia 91T-like/2018hfr/KAST phase-band : u-,SB4,0.59625834,0.40374163,u,1.0
+ZTF19acbmojx_20191005_P200_v1.ascii,binnings/ZTF19acbmojx_20191005_P200_v1,Ib,0.02565,Ib/2004gq/KAST phase-band : -0.68B,Sb,0.26050517,0.7394948,-0.68,0.8
+ZTF19acbonaa_20191125_P200_v1.ascii,binnings/ZTF19acbonaa_20191125_P200_v1,Ia 91bg-like,0.120745,Ia 91bg-like/2016ije/KAST phase-band : u-,Sc,0.79143757,0.2085624,u,-0.2
+ZTF19acbumks_20191027_Keck1_v1.ascii,binnings/ZTF19acbumks_20191027_Keck1_v1,IIb,0.031775,IIb/2013cu/DIS phase-band : 52.19U,SB5,0.50503534,0.49496466,52.19,-0.4
+ZTF19acbzgog_20191024_P200_v2.ascii,binnings/ZTF19acbzgog_20191024_P200_v2,IIn,0.0001615,IIn/2010jl/KAST phase-band : 28.57V,E,0.6355488,0.36445123,28.57,2.0
+ZTF19accavuw_20191005_P200_v1.ascii,binnings/ZTF19accavuw_20191005_P200_v1,Ia-pec,0.043,Ia-pec/2013bh/HET-LRS phase-band : -2.0V,Sb,0.10226511,0.8977349,-2.0,2.0
+ZTF19accavuw_20191016_P60_v2.ascii,binnings/ZTF19accavuw_20191016_P60_v2,IIn,0.04085,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.976884,0.023115996,10.0,-1.4
+ZTF19accavuw_20191023_P60_v1.ascii,binnings/ZTF19accavuw_20191023_P60_v1,IIn,0.04085,IIn/2008fq/WFCCD phase-band : 10.0B,SB1,0.9595257,0.04047431,10.0,-1.6
+ZTF19acccgfn_20191005_P200_v1.ascii,binnings/ZTF19acccgfn_20191005_P200_v1,IIn,0.01661,IIn/2010jl/DEIMOS phase-band : 20.65V,SB5,0.6088127,0.39118734,20.65,-2.0
+ZTF19accdehb_20191006_P60_v2.ascii,binnings/ZTF19accdehb_20191006_P60_v2,SLSN-IIn,0.02048975,SLSN-IIn/2006gy/LRIS phase-band : 78.53R,SB1,0.9378212,0.062178805,78.53,-1.0
+ZTF19accedxz_20191005_P200_v1.ascii,binnings/ZTF19accedxz_20191005_P200_v1,IIn,0.03866,IIn/2010jl/KAST phase-band : 28.57V,Sb,0.5547724,0.4452276,28.57,-1.8
+ZTF19acchjle_20191010_P60_v1.ascii,binnings/ZTF19acchjle_20191010_P60_v1,Ia 91T-like,0.072,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.9916032,0.008396783,-7.0,0.2
+ZTF19acchtyp_20191021_P60_v2.ascii,binnings/ZTF19acchtyp_20191021_P60_v2,Ia-CSM,0.06,Ia-CSM/PTF11kx/DBSP phase-band : -1.0B,Sa,0.99587893,0.004121052,-1.0,0.2
+ZTF19accibkt_20191005_P200_v1.ascii,binnings/ZTF19accibkt_20191005_P200_v1,Ia-norm,0.048363,Ia-norm/2013dy/HET-LRS phase-band : -5.74B,SB2,0.22272013,0.77727985,-5.74,2.0
+ZTF19accjfgv_20191005_P200_v1.ascii,binnings/ZTF19accjfgv_20191005_P200_v1,II,0.02565,II/1999em/LRIS phase-band : 8.0B,Sc,0.09464269,0.9053573,8.0,2.0
+ZTF19accjfgv_20191027_Keck1_v1.ascii,binnings/ZTF19accjfgv_20191027_Keck1_v1,II,0.026325,II/iPTF15crj/DBSP phase-band : u-,Sc,0.5316777,0.46832228,u,0.4
+ZTF19acctjbv_20191219_P60_v1.ascii,binnings/ZTF19acctjbv_20191219_P60_v1,TDE H+He,0.027846,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.9522285,0.047771502,-1.04,-0.4
+ZTF19acdigzw_20191021_P60_v1.ascii,binnings/ZTF19acdigzw_20191021_P60_v1,Ib,0.08,Ib/2008D/MMT-Blue phase-band : -12.57B,S0,0.8896489,0.110351086,-12.57,-2.0
+ZTF19acdlafk_20191105_P200_v1.ascii,binnings/ZTF19acdlafk_20191105_P200_v1,SLSN-IIn,0.03585075,SLSN-IIn/PTF10tpz/KAST phase-band : u-,Sc,0.9353211,0.0646789,u,-1.6
+ZTF19acdsqir_20191031_Lick_3-m_v1.ascii,binnings/ZTF19acdsqir_20191031_Lick_3-m_v1,Ia-norm,0.06435,Ia-norm/2015N/KAST phase-band : 5.39B,E,0.36271232,0.6372877,5.39,-1.8
+ZTF19acdtmwh_20191019_P60_v1.ascii,binnings/ZTF19acdtmwh_20191019_P60_v1,IIn,0.07885,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.86284757,0.13715242,-2.0,-1.0
+ZTF19acdubmt_20191026_P60_v1.ascii,binnings/ZTF19acdubmt_20191026_P60_v1,Ia 99aa-like,0.0897,Ia 99aa-like/1999aa/KAST phase-band : 0.0B,Sc,0.98501253,0.014987493,0.0,1.0
+ZTF19acduqvr_20191024_P60_v1.ascii,binnings/ZTF19acduqvr_20191024_P60_v1,Ia-norm,0.08715,Ia-norm/2011by/KAST phase-band : -10.76B,SB1,0.9985493,0.0014507291,-10.76,0.0
+ZTF19aceckdq_20191019_LT_v1.ascii,binnings/ZTF19aceckdq_20191019_LT_v1,IIb-flash,0.025215,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8697602,0.13023977,-7.0,-2.0
+ZTF19aceckmm_20191024_P200_v1.ascii,binnings/ZTF19aceckmm_20191024_P200_v1,II,0.03286,II/1999em/LRIS phase-band : 8.0B,Sb,0.30684552,0.6931545,8.0,0.6
+ZTF19aceidtc_20191022_P60_v2.ascii,binnings/ZTF19aceidtc_20191022_P60_v2,Ia 02es-like,0.0252,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,S0,0.9589479,0.041052084,101.0,-0.8
+ZTF19aceilrk_20191011_P60_v1.ascii,binnings/ZTF19aceilrk_20191011_P60_v1,SLSN-IIn,0.023166,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,SB1,0.9411674,0.058832593,142.39,0.6
+ZTF19acepeea_20191108_P60_v1.ascii,binnings/ZTF19acepeea_20191108_P60_v1,IIn,0.0228,IIn/2008fq/WFCCD phase-band : 10.0B,SB4,0.975524,0.024476007,10.0,-2.0
+ZTF19aceqlxc_20191104_APO_v1.ascii,binnings/ZTF19aceqlxc_20191104_APO_v1,IIb-flash,0.0585,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.80605656,0.19394346,-7.0,-2.0
+ZTF19aceqvhl_20191024_P200_v1.ascii,binnings/ZTF19aceqvhl_20191024_P200_v1,Ia-CSM,0.0287,Ia-CSM/2005gj/LRIS phase-band : 48.04g,SB6,0.5812311,0.4187689,48.04,-1.8
+ZTF19aceqvhl_20200219_Keck1_v1.ascii,binnings/ZTF19aceqvhl_20200219_Keck1_v1,II,0.0273,II/2002hh/KAST phase-band : 3544.35V,Sc,0.10180327,0.89819676,3544.35,1.8
+ZTF19acfduxa_20191024_P60_v1.ascii,binnings/ZTF19acfduxa_20191024_P60_v1,Ia 99aa-like,0.093,Ia 99aa-like/1999aa/DIS phase-band : -6.0B,Sb,0.9955359,0.0044641187,-6.0,-0.4
+ZTF19acfthre_20191023_APO_v1.ascii,binnings/ZTF19acfthre_20191023_APO_v1,IIb-flash,0.04,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.73666817,0.26333183,-7.0,-2.0
+ZTF19acgaxei_20191028_P200_v1.ascii,binnings/ZTF19acgaxei_20191028_P200_v1,SLSN-IIn,0.0289575,SLSN-IIn/PTF10tpz/KAST phase-band : u-,SB2,0.8743738,0.12562622,u,1.8
+ZTF19acgaxei_20191105_P200_v1.ascii,binnings/ZTF19acgaxei_20191105_P200_v1,II,0.0304425,II/2013ej/DEIMOS phase-band : -1.15B,Sb,0.35078016,0.6492199,-1.15,-0.4
+ZTF19acgbzam_20191028_P200_v1.ascii,binnings/ZTF19acgbzam_20191028_P200_v1,Ia 91T-like,0.07,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.70300406,0.29699597,-7.0,-1.6
+ZTF19acgdfjt_20191020_P60_v2.ascii,binnings/ZTF19acgdfjt_20191020_P60_v2,IIn,0.03675,IIn/2008fq/WFCCD phase-band : 3.0B,SB4,0.9413459,0.058654126,3.0,-2.0
+ZTF19acgdfjt_20191023_APO_v1.ascii,binnings/ZTF19acgdfjt_20191023_APO_v1,IIb-flash,0.03325,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.5739186,0.42608142,-7.0,-2.0
+ZTF19acgjpgh_20191227_APO_v1.ascii,binnings/ZTF19acgjpgh_20191227_APO_v1,IIb-flash,0.060325,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.84707826,0.15292172,-7.0,-2.0
+ZTF19acgjpgh_20210211_Keck1_v1.ascii,binnings/ZTF19acgjpgh_20210211_Keck1_v1,IIn,0.0635,IIn/2010jl/LRIS phase-band : 845.34V,SB6,0.15475546,0.8452445,845.34,2.0
+ZTF19acgonwy_20191023_P60_v1.ascii,binnings/ZTF19acgonwy_20191023_P60_v1,II,0.06935,II/2013fs/ALFOSC phase-band : 6.24B,Sa,0.98970556,0.01029445,6.24,-2.0
+ZTF19acgpqxt_20191030_P60_v2.ascii,binnings/ZTF19acgpqxt_20191030_P60_v2,SLSN-I,0.08775,SLSN-I/2017egm/KAST phase-band : -0.39B,Sc,0.9957963,0.0042036595,-0.39,-0.4
+ZTF19acgpqxt_20191106_P60_v1.ascii,binnings/ZTF19acgpqxt_20191106_P60_v1,Ia-CSM,0.08775,Ia-CSM/PTF11kx/DBSP phase-band : -1.0B,Sa,0.99981785,0.00018215925,-1.0,1.6
+ZTF19acgzwbm_20191024_P200_v1.ascii,binnings/ZTF19acgzwbm_20191024_P200_v1,II-flash,0.01989,II-flash/iPTF15crj_early/GMOS phase-band : u-,Sc,0.56899893,0.43100107,u,-1.4
+ZTF19acgzzea_20191028_P60_v1.ascii,binnings/ZTF19acgzzea_20191028_P60_v1,IIn,0.0315,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.7815819,0.21841814,3.0,1.4
+ZTF19achahea_20191023_P60_v1.ascii,binnings/ZTF19achahea_20191023_P60_v1,Ia 91bg-like,0.04534,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,SB1,0.9040199,0.09598008,-6.87,0.0
+ZTF19achetvw_20191028_P200_v2.ascii,binnings/ZTF19achetvw_20191028_P200_v2,SLSN-IIn,0.043,SLSN-IIn/PTF10tpz/KAST phase-band : u-,Sc,0.91491973,0.08508029,u,0.0
+ZTF19aciefgg_20200831_P60_v2.ascii,binnings/ZTF19aciefgg_20200831_P60_v2,IIn,0.04662,IIn/2008fq/WFCCD phase-band : 3.0B,SB4,0.9554017,0.04459828,3.0,-0.8
+ZTF19acihfxz_20191031_P60_v1.ascii,binnings/ZTF19acihfxz_20191031_P60_v1,SLSN-I,0.0665,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sc,0.93368345,0.06631652,u,-1.6
+ZTF19acjjwsy_20191104_P60_v1.ascii,binnings/ZTF19acjjwsy_20191104_P60_v1,Ia 91T-like,0.104,Ia 91T-like/1991T/Other phase-band : -7.0B,SB3,0.9964003,0.0035997063,-7.0,-2.0
+ZTF19acjtkha_20191030_P60_v2.ascii,binnings/ZTF19acjtkha_20191030_P60_v2,IIn,0.0304,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.9659813,0.034018677,10.0,-1.8
+ZTF19acjtkha_20191106_P60_v1.ascii,binnings/ZTF19acjtkha_20191106_P60_v1,Ia 91bg-like,0.0304,Ia 91bg-like/1999by/FAST phase-band : -3.0B,Sc,0.97688586,0.023114119,-3.0,-1.8
+ZTF19acjtkha_20191112_P60_v1.ascii,binnings/ZTF19acjtkha_20191112_P60_v1,Ia 02es-like,0.0336,Ia 02es-like/PTF10ops/ISIS phase-band : 11.0g,S0,0.7654521,0.23454788,11.0,2.0
+ZTF19ackjrru_20200101_P200_v1.ascii,binnings/ZTF19ackjrru_20200101_P200_v1,Ia 91bg-like,0.172935,Ia 91bg-like/2016ije/KAST phase-band : u-,Sc,0.4388326,0.56116736,u,2.0
+ZTF19ackjszs_20200121_NOT_v1.ascii,binnings/ZTF19ackjszs_20200121_NOT_v1,Ia 91bg-like,0.0285,Ia 91bg-like/1991bg/BC-Asi phase-band : u-,Sc,0.39480087,0.60519916,u,2.0
+ZTF19ackjszs_20200126_P60_v1.ascii,binnings/ZTF19ackjszs_20200126_P60_v1,SLSN-I,0.03075,SLSN-I/2015bn/LDSS-3 phase-band : 120.34B,Sc,0.71445274,0.28554723,120.34,1.2
+ZTF19ackjszs_20200202_P60_v1.ascii,binnings/ZTF19ackjszs_20200202_P60_v1,Ic,0.03,Ic/2004gt/LRIS phase-band : 57.59B,Sc,0.8991911,0.10080895,57.59,0.6
+ZTF19ackjszs_20200215_TNG_v1.ascii,binnings/ZTF19ackjszs_20200215_TNG_v1,SLSN-I,0.0285,SLSN-I/2017egm/Other phase-band : 145.42B,Sa,0.99542165,0.0045783473,145.42,2.0
+ZTF19ackjszs_20200219_Keck1_v1.ascii,binnings/ZTF19ackjszs_20200219_Keck1_v1,Ic,0.03,Ic/2004gk/KAST phase-band : 48.45B,SB1,0.513329,0.48667097,48.45,2.0
+ZTF19ackjszs_20200322_Keck1_v1.ascii,binnings/ZTF19ackjszs_20200322_Keck1_v1,SLSN-I,0.02925,SLSN-I/2015bn/X-Shooter phase-band : 353.34B,SB4,0.36051762,0.6394824,353.34,2.0
+ZTF19ackyfqp_20191101_P60_v1.ascii,binnings/ZTF19ackyfqp_20191101_P60_v1,Ia-CSM,0.0375345,Ia-CSM/2005gj/LRIS phase-band : 48.04g,SB5,0.9932441,0.006755867,48.04,-1.8
+ZTF19ackzvdp_20200124_Keck1_v1.ascii,binnings/ZTF19ackzvdp_20200124_Keck1_v1,IIn,0.3035,IIn/2005cp/DBSP phase-band : 62.0B,SB3,0.24072775,0.7592722,62.0,2.0
+ZTF19acmgfkc_20191105_P200_v1.ascii,binnings/ZTF19acmgfkc_20191105_P200_v1,SLSN-IIn,0.04485,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,Sc,0.91521484,0.08478517,u,-2.0
+ZTF19acmxidf_20191107_P60_v1.ascii,binnings/ZTF19acmxidf_20191107_P60_v1,IIn,0.013509,IIn/2008fq/WFCCD phase-band : 10.0B,SB5,0.9845611,0.015438941,10.0,-0.4
+ZTF19acnfzpc_20191110_P60_v2.ascii,binnings/ZTF19acnfzpc_20191110_P60_v2,SLSN-I,0.0863665,SLSN-I/2017egm/KAST phase-band : -0.39B,SB1,0.96450824,0.035491794,-0.39,-1.2
+ZTF19acnwcbl_20191107_P60_v1.ascii,binnings/ZTF19acnwcbl_20191107_P60_v1,Ia-CSM-(ambigious),0.1155,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,SB5,0.65533376,0.34466627,6.0,1.6
+ZTF19acolhnl_20200101_P200_v1.ascii,binnings/ZTF19acolhnl_20200101_P200_v1,SLSN-IIn,0.0804,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,Sc,0.70726675,0.29273325,u,1.6
+ZTF19acordoi_20191107_P60_v1.ascii,binnings/ZTF19acordoi_20191107_P60_v1,Ia-norm,0.091225,Ia-norm/2012cg/KAST phase-band : -8.44B,S0,0.9264069,0.073593095,-8.44,-2.0
+ZTF19acpgaet_20191119_P60_v1.ascii,binnings/ZTF19acpgaet_20191119_P60_v1,Ia-CSM-(ambigious),0.0627,Ia-CSM-(ambigious)/2002ic/BC-Magellan phase-band : 2.0B,Sa,0.92626727,0.07373273,2.0,-1.4
+ZTF19acpgaet_20191119_P60_v2.ascii,binnings/ZTF19acpgaet_20191119_P60_v2,Ia-CSM-(ambigious),0.0627,Ia-CSM-(ambigious)/2002ic/BC-Magellan phase-band : 2.0B,Sa,0.8960449,0.103955105,2.0,-2.0
+ZTF19acpmbvd_20191223_LT_v1.ascii,binnings/ZTF19acpmbvd_20191223_LT_v1,IIb-flash,0.0069195,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.90176845,0.098231554,-7.0,-2.0
+ZTF19acqehbt_20191112_P60_v1.ascii,binnings/ZTF19acqehbt_20191112_P60_v1,Ia 91bg-like,0.046125,Ia 91bg-like/1999by/FAST phase-band : -3.0B,SB1,0.9862441,0.013755931,-3.0,-0.8
+ZTF19acqypso_20191121_Lick_3-m_v1.ascii,binnings/ZTF19acqypso_20191121_Lick_3-m_v1,II,0.0665,II/2002hh/LRIS phase-band : 5.0V,Sb,0.030822067,0.96917796,5.0,2.0
+ZTF19acruaaa_20191124_P60_v1.ascii,binnings/ZTF19acruaaa_20191124_P60_v1,TDE H+He,0.027216,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.9093793,0.090620704,-1.04,0.4
+ZTF19acrubhl_20191221_P200_v1.ascii,binnings/ZTF19acrubhl_20191221_P200_v1,SLSN-IIn,0.03708,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,E,0.7197903,0.28020972,u,1.6
+ZTF19acrubhl_20191223_Keck1_v1.ascii,binnings/ZTF19acrubhl_20191223_Keck1_v1,II,0.03708,II/iPTF15crj/DBSP phase-band : u-,S0,0.5238481,0.4761519,u,0.6
+ZTF19acrvqpf_20191121_Lick_3-m_v1.ascii,binnings/ZTF19acrvqpf_20191121_Lick_3-m_v1,Ia 99aa-like,0.067935,Ia 99aa-like/1999aa/DIS phase-band : -6.0B,Sb,0.054497566,0.94550246,-6.0,2.0
+ZTF19acrwxfn_20200103_LT_v1.ascii,binnings/ZTF19acrwxfn_20200103_LT_v1,IIb-flash,0.0956325,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8948942,0.10510584,-7.0,-2.0
+ZTF19acuitcy_20191217_LT_v1.ascii,binnings/ZTF19acuitcy_20191217_LT_v1,IIb-flash,0.1025,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8682765,0.13172352,-7.0,-2.0
+ZTF19acukrxv_20200101_APO_v2.ascii,binnings/ZTF19acukrxv_20200101_APO_v2,IIb-flash,0.03895,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8995128,0.100487165,-7.0,-2.0
+ZTF19acvtvlo_20191211_P60_v1.ascii,binnings/ZTF19acvtvlo_20191211_P60_v1,Ia-CSM-(ambigious),0.03952,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,Sa,0.9491327,0.050867304,6.0,-2.0
+ZTF19acwrqtv_20191210_P60_v1.ascii,binnings/ZTF19acwrqtv_20191210_P60_v1,SLSN-I,0.063,SLSN-I/2017egm/KAST phase-band : 6.62B,SB1,0.9884615,0.011538532,6.62,0.0
+ZTF19acxgxcu_20191223_LT_v1.ascii,binnings/ZTF19acxgxcu_20191223_LT_v1,IIb-flash,0.038,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.88353413,0.11646586,-7.0,-2.0
+ZTF19acxmpnz_20200101_APO_v1.ascii,binnings/ZTF19acxmpnz_20200101_APO_v1,IIb-flash,0.027825,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8435157,0.15648429,-7.0,-2.0
+ZTF19acxowrr_20200124_APO_v1.ascii,binnings/ZTF19acxowrr_20200124_APO_v1,IIb-flash,0.05183425,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.841035,0.158965,-7.0,-2.0
+ZTF19acxowrr_20200127_P200_v1.ascii,binnings/ZTF19acxowrr_20200127_P200_v1,Ib,0.05183425,Ib/2008D/MMT-Blue phase-band : -12.57B,Sc,0.4832374,0.5167626,-12.57,-2.0
+ZTF19acxowrr_20200219_Keck1_v1.ascii,binnings/ZTF19acxowrr_20200219_Keck1_v1,II,0.05057,II/2016bkv/FLOYDS-N phase-band : 36.77B,SB1,0.57038265,0.42961735,36.77,1.0
+ZTF19acxpuql_20200224_NOT_v1.ascii,binnings/ZTF19acxpuql_20200224_NOT_v1,Ic,0.0294,Ic/2007gr/KAST phase-band : 12.33B,SB1,0.877626,0.122374,12.33,0.6
+ZTF19acxpuql_20200307_P60_v1.ascii,binnings/ZTF19acxpuql_20200307_P60_v1,Ia-norm,0.0294,Ia-norm/1994D/KAST phase-band : 14.59B,Sa,0.67161787,0.3283821,14.59,2.0
+ZTF19acxpuql_20200415_P60_v1.ascii,binnings/ZTF19acxpuql_20200415_P60_v1,Ibn,0.0294,Ibn/2010al/EFOSC2-NTT phase-band : 22.82B,SB1,0.98861825,0.011381771,22.82,2.0
+ZTF19acxpuql_20200426_P60_v1.ascii,binnings/ZTF19acxpuql_20200426_P60_v1,SLSN-I,0.0294,SLSN-I/2015bn/LDSS-3 phase-band : 120.34B,SB1,0.91061926,0.08938076,120.34,0.6
+ZTF19acxpuql_20200720_Keck1_v1.ascii,binnings/ZTF19acxpuql_20200720_Keck1_v1,SLSN-I,0.028,SLSN-I/SN2007bi/FORS2 phase-band : 421.0V,SB1,0.3706685,0.6293315,421.0,2.0
+ZTF19acxqano_20200322_Keck1_v1.ascii,binnings/ZTF19acxqano_20200322_Keck1_v1,IIn,0.03138,IIn/2010jl/LRIS phase-band : 845.34V,SB1,0.16282739,0.8371726,845.34,1.6
+ZTF19acxxxec_20191228_LT_v1.ascii,binnings/ZTF19acxxxec_20191228_LT_v1,IIb-flash,0.065325,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8555392,0.14446078,-7.0,-2.0
+ZTF19acyggzu_20191217_P60_v1.ascii,binnings/ZTF19acyggzu_20191217_P60_v1,IIn,0.0418,IIn/2005cp/DBSP phase-band : 62.0B,S0,0.9946084,0.0053915805,62.0,2.0
+ZTF19acyjjni_20200127_P200_v1.ascii,binnings/ZTF19acyjjni_20200127_P200_v1,Ia-CSM,0.0273,Ia-CSM/2017eby/EFOSC2-NTT phase-band : u-,Sa,0.47946376,0.52053624,u,-1.6
+ZTF19acyksfd_20191228_LT_v1.ascii,binnings/ZTF19acyksfd_20191228_LT_v1,IIb-flash,0.0490565,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.85977507,0.14022492,-7.0,-2.0
+ZTF19acykzsk_20191214_P60_v1.ascii,binnings/ZTF19acykzsk_20191214_P60_v1,II,0.02163,II/2013fs/ALFOSC phase-band : 6.24B,SB5,0.8910665,0.10893353,6.24,-1.0
+ZTF19acytics_20200127_P200_v1.ascii,binnings/ZTF19acytics_20200127_P200_v1,Ia-CSM,0.03100625,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB6,0.5486697,0.45133027,u,-1.2
+ZTF19adaiomg_20200102_P60_v1.ascii,binnings/ZTF19adaiomg_20200102_P60_v1,IIn,0.030114,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB2,0.95436746,0.04563253,-2.0,2.0
+ZTF19adaiujb_20200127_P200_v1.ascii,binnings/ZTF19adaiujb_20200127_P200_v1,II,0.01708,II/iPTF15crj/FLOYDS-N phase-band : u-,Sc,0.6368416,0.36315838,u,1.2
+ZTF19adannbl_20200104_LT_v1.ascii,binnings/ZTF19adannbl_20200104_LT_v1,IIb-flash,0.0492,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.76112777,0.23887222,-7.0,-2.0
+ZTF19adbmewx_20200104_P60_v1.ascii,binnings/ZTF19adbmewx_20200104_P60_v1,Ia 91T-like,0.0945,Ia 91T-like/1991T/Other phase-band : -7.0B,SB3,0.9890757,0.010924289,-7.0,0.2
+ZTF19adbnhdb_20191231_LT_v1.ascii,binnings/ZTF19adbnhdb_20191231_LT_v1,IIb-flash,0.048,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.83321345,0.16678658,-7.0,-2.0
+ZTF19adbsblp_20200218_Keck1_v1.ascii,binnings/ZTF19adbsblp_20200218_Keck1_v1,SLSN-IIn,0.0406,SLSN-IIn/PTF10tpz/KAST phase-band : u-,S0,0.82546276,0.17453724,u,-1.8
+ZTF19adbsfpf_20200115_P60_v1.ascii,binnings/ZTF19adbsfpf_20200115_P60_v1,Ia-CSM,0.06195,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sb,0.9999126,8.735258e-05,u,-0.2
+ZTF19adcbnty_20200125_P60_v1.ascii,binnings/ZTF19adcbnty_20200125_P60_v1,II-flash,0.048555,II-flash/iPTF15crj_early/GMOS phase-band : u-,Sc,0.92004704,0.07995296,u,-1.8
+ZTF19adcecwu_20200505_P60_v1.ascii,binnings/ZTF19adcecwu_20200505_P60_v1,Ia 91bg-like,0.00945,Ia 91bg-like/1991bg/BC-Asi phase-band : u-,SB1,0.85676956,0.14323042,u,1.2
+ZTF19adcfsoc_20200420_NOT_v1.ascii,binnings/ZTF19adcfsoc_20200420_NOT_v1,SLSN-II,0.259,SLSN-II/CSS121015/EFOSC2-NTT phase-band : 48.0B,Sc,0.6124059,0.38759407,48.0,0.6
+ZTF19adcfsoc_20200529_P200_v1.ascii,binnings/ZTF19adcfsoc_20200529_P200_v1,SLSN-II,0.265475,SLSN-II/CSS121015/DOLORES phase-band : 49.0B,Sc,0.94865733,0.051342666,49.0,-1.6
+ZTF20aaactgu_20200112_P60_v2.ascii,binnings/ZTF20aaactgu_20200112_P60_v2,II-flash,0.06175,II-flash/2014cn_early/GMOS phase-band : 0.0B,SB1,0.7351827,0.2648173,0.0,-0.4
+ZTF20aaavvlv_20200118_P60_v1.ascii,binnings/ZTF20aaavvlv_20200118_P60_v1,Ia 99aa-like,0.086205,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : -10.66B,SB1,0.99254805,0.007451937,-10.66,1.0
+ZTF20aaaweke_20200120_APO_v1.ascii,binnings/ZTF20aaaweke_20200120_APO_v1,IIb-flash,0.11,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.94426954,0.055730477,-7.0,-2.0
+ZTF20aaaxghv_20200120_APO_v1.ascii,binnings/ZTF20aaaxghv_20200120_APO_v1,IIb-flash,0.038,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.86988723,0.13011277,-7.0,-2.0
+ZTF20aaaxrad_20200105_P60_v1.ascii,binnings/ZTF20aaaxrad_20200105_P60_v1,II-flash,0.06825,II-flash/iPTF15crj_early/GMOS phase-band : u-,SB6,0.8600255,0.13997447,u,-1.2
+ZTF20aabconi_20200120_APO_v1.ascii,binnings/ZTF20aabconi_20200120_APO_v1,IIb-flash,0.04515,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8566441,0.14335589,-7.0,-2.0
+ZTF20aabqbxm_20200112_P60_v2.ascii,binnings/ZTF20aabqbxm_20200112_P60_v2,Ia-CSM,0.0503685,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sb,0.93700594,0.062994085,u,0.8
+ZTF20aabqihu_20200719_DCT_v1.ascii,binnings/ZTF20aabqihu_20200719_DCT_v1,IIb-flash,0.068,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.84275705,0.15724298,-7.0,-2.0
+ZTF20aacbyec_20200217_APO_v1.ascii,binnings/ZTF20aacbyec_20200217_APO_v1,IIb-flash,0.035295,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.89358526,0.10641475,-7.0,-2.0
+ZTF20aacgrql_20200104_P60_v2.ascii,binnings/ZTF20aacgrql_20200104_P60_v2,TDE H+He,0.0299345,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.8997322,0.100267835,-1.04,0.0
+ZTF20aadccel_20200108_P60_v1.ascii,binnings/ZTF20aadccel_20200108_P60_v1,Ia-CSM,0.03812,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,E,0.92595726,0.07404273,u,-2.0
+ZTF20aadfyjl_20200113_LT_v1.ascii,binnings/ZTF20aadfyjl_20200113_LT_v1,IIb-flash,0.050225,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.87330294,0.12669708,-7.0,-2.0
+ZTF20aadfyjl_20200131_APO_v1.ascii,binnings/ZTF20aadfyjl_20200131_APO_v1,IIb-flash,0.050225,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.84572953,0.15427046,-7.0,-2.0
+ZTF20aadvaoi_20200114_P60_v1.ascii,binnings/ZTF20aadvaoi_20200114_P60_v1,Ib,0.0945,Ib/2008D/MMT-Blue phase-band : -12.57B,SB6,0.9565457,0.0434543,-12.57,-1.6
+ZTF20aaertpj_20200111_GTC_v1.ascii,binnings/ZTF20aaertpj_20200111_GTC_v1,IIb-flash,0.02875,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.81683785,0.18316214,-7.0,-2.0
+ZTF20aaeswym_20200129_P60_v1.ascii,binnings/ZTF20aaeswym_20200129_P60_v1,Ia-norm,0.0141855,Ia-norm/2015N/KAST phase-band : 24.5B,SB3,0.7457555,0.2542445,24.5,-0.4
+ZTF20aafckit_20200127_P200_v1.ascii,binnings/ZTF20aafckit_20200127_P200_v1,IIb,0.031,IIb/2013df/HET-LRS phase-band : -1.0B,SB4,0.11193362,0.88806635,-1.0,2.0
+ZTF20aafclqz_20200217_APO_v1.ascii,binnings/ZTF20aafclqz_20200217_APO_v1,IIb-flash,0.0335,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8675715,0.13242854,-7.0,-2.0
+ZTF20aafrjqw_20200126_P60_v1.ascii,binnings/ZTF20aafrjqw_20200126_P60_v1,Ia 99aa-like,0.092631,Ia 99aa-like/1999aa/KAST phase-band : 0.0B,Sc,0.9628473,0.037152704,0.0,0.8
+ZTF20aafsnpp_20200124_APO_v1.ascii,binnings/ZTF20aafsnpp_20200124_APO_v1,IIb-flash,0.0445,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.9208158,0.07918419,-7.0,-2.0
+ZTF20aagewqr_20200128_P60_v1.ascii,binnings/ZTF20aagewqr_20200128_P60_v1,SLSN-IIn,0.01785,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,Sa,0.9720832,0.027916795,142.39,0.6
+ZTF20aagflqq_20200214_P200_v1.ascii,binnings/ZTF20aagflqq_20200214_P200_v1,Ia-CSM,0.04935,Ia-CSM/2005gj/LRIS phase-band : 48.04g,SB4,0.39906397,0.60093606,48.04,-2.0
+ZTF20aaghpdc_20200131_P60_v1.ascii,binnings/ZTF20aaghpdc_20200131_P60_v1,Ia 99aa-like,0.08815,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : -10.66B,Sa,0.98842216,0.011577863,-10.66,0.2
+ZTF20aagloch_20200212_P60_v1.ascii,binnings/ZTF20aagloch_20200212_P60_v1,Ia 02es-like,0.050715,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,SB5,0.8843241,0.115675904,101.0,-0.4
+ZTF20aagnbes_20200124_APO_v1.ascii,binnings/ZTF20aagnbes_20200124_APO_v1,IIb-flash,0.023289,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.9123594,0.08764061,-7.0,-2.0
+ZTF20aagnbpw_20200214_P200_v1.ascii,binnings/ZTF20aagnbpw_20200214_P200_v1,Ia 99aa-like,0.049818,Ia 99aa-like/1999aa/KAST phase-band : 17.0B,SB6,0.5722346,0.4277654,17.0,-2.0
+ZTF20aagryod_20200124_P60_v1.ascii,binnings/ZTF20aagryod_20200124_P60_v1,SLSN-IIn,0.0399735,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,SB1,0.88842356,0.11157643,142.39,-0.2
+ZTF20aagryod_20200124_P60_v2.ascii,binnings/ZTF20aagryod_20200124_P60_v2,SLSN-IIn,0.0399735,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,SB1,0.8606608,0.1393392,142.39,-0.6
+ZTF20aahgejq_20200127_P200_v1.ascii,binnings/ZTF20aahgejq_20200127_P200_v1,IIb,0.04519125,IIb/2013df/HET-LRS phase-band : -1.0B,SB6,0.17886692,0.8211331,-1.0,1.8
+ZTF20aahpxzz_20200126_P60_v1.ascii,binnings/ZTF20aahpxzz_20200126_P60_v1,IIn,0.05544,IIn/2008fq/WFCCD phase-band : 3.0B,SB4,0.8817566,0.1182434,3.0,-2.0
+ZTF20aahqbun_20200208_LT_v1.ascii,binnings/ZTF20aahqbun_20200208_LT_v1,IIb-flash,0.0294,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.87523323,0.12476678,-7.0,-2.0
+ZTF20aaiaaoi_20200225_P200_v1.ascii,binnings/ZTF20aaiaaoi_20200225_P200_v1,Ia 91T-like,0.1375,Ia 91T-like/2018hfr/KAST phase-band : u-,SB1,0.5053991,0.49460086,u,2.0
+ZTF20aaifkyj_20200215_P60_v2.ascii,binnings/ZTF20aaifkyj_20200215_P60_v2,Ia-CSM-(ambigious),0.07503,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,SB4,0.96821475,0.031785276,6.0,-1.4
+ZTF20aaifybu_20200529_P200_v2.ascii,binnings/ZTF20aaifybu_20200529_P200_v2,SLSN-I,0.2625,SLSN-I/PTF09cnd/LRIS phase-band : 126.0u,Sc,0.74724376,0.2527562,126.0,0.8
+ZTF20aaifybu_20200622_Keck1_v1.ascii,binnings/ZTF20aaifybu_20200622_Keck1_v1,Ia 02es-like,0.2625,Ia 02es-like/PTF10acdh/LRIS phase-band : u-,S0,0.9996919,0.00030808564,u,-0.6
+ZTF20aaifybu_20200821_Keck1_v1.ascii,binnings/ZTF20aaifybu_20200821_Keck1_v1,Ia 02es-like,0.2625,Ia 02es-like/PTF10acdh/LRIS phase-band : u-,E,0.79116786,0.20883211,u,0.8
+ZTF20aajcdad_20200128_LT_v1.ascii,binnings/ZTF20aajcdad_20200128_LT_v1,IIb-flash,0.01845,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.81449574,0.18550424,-7.0,-2.0
+ZTF20aajvcwd_20200215_P60_v2.ascii,binnings/ZTF20aajvcwd_20200215_P60_v2,SLSN-I,0.0664,SLSN-I/PTF10aagc/LRIS phase-band : u-,S0,0.8526983,0.14730167,u,-2.0
+ZTF20aajvwfh_20200226_P200_v1.ascii,binnings/ZTF20aajvwfh_20200226_P200_v1,Ca-Ia,0.0574,Ca-Ia/PTF09dav/LRIS phase-band : 72.67R,SB1,0.8522636,0.14773634,72.67,1.0
+ZTF20aakndsn_20200202_P60_v1.ascii,binnings/ZTF20aakndsn_20200202_P60_v1,Ia-CSM,0.043173,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.9593318,0.040668197,u,-2.0
+ZTF20aalcyih_20200209_P60_v1.ascii,binnings/ZTF20aalcyih_20200209_P60_v1,II-flash,0.0258685,II-flash/iPTF15crj_early/GMOS phase-band : u-,SB3,0.9135103,0.086489685,u,2.0
+ZTF20aalcyih_20200221_P60_v1.ascii,binnings/ZTF20aalcyih_20200221_P60_v1,IIb,0.0258685,IIb/2011fu/AFOSC phase-band : -11.2B,Sa,0.90365344,0.09634658,-11.2,-0.4
+ZTF20aalrqbu_20200217_APO_v1.ascii,binnings/ZTF20aalrqbu_20200217_APO_v1,IIb-flash,0.0646,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.95382243,0.04617759,-7.0,-2.0
+ZTF20aalsiwo_20200226_P200_v1.ascii,binnings/ZTF20aalsiwo_20200226_P200_v1,ILRT,0.039501,ILRT/2015dl/DBSP phase-band : u-,S0,0.6314965,0.36850348,u,-1.8
+ZTF20aamdsjv_20200217_P60_v1.ascii,binnings/ZTF20aamdsjv_20200217_P60_v1,II,0.057855,II/2013fs/ALFOSC phase-band : 6.24B,Sa,0.9806674,0.019332562,6.24,-2.0
+ZTF20aamhocj_20200215_P60_v1.ascii,binnings/ZTF20aamhocj_20200215_P60_v1,Ia-CSM-(ambigious),0.0665,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,SB4,0.8886705,0.1113295,6.0,2.0
+ZTF20aamlerx_20200226_P200_v1.ascii,binnings/ZTF20aamlerx_20200226_P200_v1,IIn,0.03618,IIn/2005cp/DBSP phase-band : 8.0B,S0,0.8217631,0.17823687,8.0,-2.0
+ZTF20aammtwx_20200211_LT_v2.ascii,binnings/ZTF20aammtwx_20200211_LT_v2,IIb-flash,0.02718,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.847374,0.152626,-7.0,-2.0
+ZTF20aamsdxb_20200214_P200_v1.ascii,binnings/ZTF20aamsdxb_20200214_P200_v1,Ib,0.0423735,Ib/2006ep/KAST phase-band : -5.63B,SB2,0.9755646,0.02443542,-5.63,2.0
+ZTF20aanaibf_20200219_P60_v1.ascii,binnings/ZTF20aanaibf_20200219_P60_v1,IIn,0.053,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.95844203,0.04155795,3.0,-2.0
+ZTF20aanaibf_20200227_P60_v2.ascii,binnings/ZTF20aanaibf_20200227_P60_v2,IIn,0.053,IIn/2008fq/WFCCD phase-band : 10.0B,SB5,0.90478945,0.09521058,10.0,-1.8
+ZTF20aanvmdt_20200307_P60_v1.ascii,binnings/ZTF20aanvmdt_20200307_P60_v1,Ia-CSM,0.03885,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sb,0.8007952,0.19920477,u,1.6
+ZTF20aaoffej_20200307_P60_v2.ascii,binnings/ZTF20aaoffej_20200307_P60_v2,II,0.015405,II/2003ed/LRIS phase-band : u-,SB5,0.96157974,0.038420245,u,-2.0
+ZTF20aaoldej_20200226_P200_v1.ascii,binnings/ZTF20aaoldej_20200226_P200_v1,II,0.0264245,II/iPTF15crj/FLOYDS-N phase-band : u-,Sa,0.715464,0.284536,u,1.2
+ZTF20aapadwx_20200220_P60_v2.ascii,binnings/ZTF20aapadwx_20200220_P60_v2,II,0.035625,II/2013fs/ALFOSC phase-band : 6.24B,S0,0.95691925,0.043080755,6.24,-2.0
+ZTF20aapchqy_20200701_NOT_v1.ascii,binnings/ZTF20aapchqy_20200701_NOT_v1,ILRT,0.003686,ILRT/2015dl/DBSP phase-band : u-,SB1,0.9943458,0.0056542205,u,-1.8
+ZTF20aappfuo_20200226_P200_v2.ascii,binnings/ZTF20aappfuo_20200226_P200_v2,IIn,0.04191,IIn/2010jl/DEIMOS phase-band : 20.65V,S0,0.5677716,0.43222836,20.65,-2.0
+ZTF20aaqtlwo_20200402_LT_v1.ascii,binnings/ZTF20aaqtlwo_20200402_LT_v1,IIb-flash,0.03444,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.907662,0.09233801,-7.0,-2.0
+ZTF20aarbvub_20200227_P60_v2.ascii,binnings/ZTF20aarbvub_20200227_P60_v2,II-flash,0.0115235,II-flash/iPTF15crj_early/GMOS phase-band : u-,SB1,0.9888083,0.0111917285,u,1.2
+ZTF20aarcyhr_20200323_Keck1_v1.ascii,binnings/ZTF20aarcyhr_20200323_Keck1_v1,Ia-norm,0.0337785,Ia-norm/2015N/KAST phase-band : 24.5B,Sb,0.63696265,0.36303738,24.5,-2.0
+ZTF20aatusjj_20200401_P60_v1.ascii,binnings/ZTF20aatusjj_20200401_P60_v1,Ia-CSM,0.0741,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB1,0.98920035,0.010799643,u,-1.0
+ZTF20aatxryt_20200402_P60_v1.ascii,binnings/ZTF20aatxryt_20200402_P60_v1,Ia 99aa-like,0.0315,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : 21.18B,S0,0.9445114,0.05548861,21.18,-0.8
+ZTF20aauqrpe_20200505_P60_v1.ascii,binnings/ZTF20aauqrpe_20200505_P60_v1,Ia 91T-like,0.084,Ia 91T-like/2018hfr/KAST phase-band : u-,SB1,0.9956411,0.0043589068,u,0.4
+ZTF20aaurfhs_20200502_P60_v2.ascii,binnings/ZTF20aaurfhs_20200502_P60_v2,IIn,0.03432,IIn/2008fq/WFCCD phase-band : 3.0B,S0,0.9970658,0.0029342454,3.0,-1.4
+ZTF20aavgcnu_20200623_Keck1_v1.ascii,binnings/ZTF20aavgcnu_20200623_Keck1_v1,II,0.0181835,II/2002hh/KAST phase-band : 3544.35V,Sc,0.20651814,0.7934819,3544.35,0.6
+ZTF20aavnnzx_20200527_P200_v1.ascii,binnings/ZTF20aavnnzx_20200527_P200_v1,Ia 02es-like,0.057,Ia 02es-like/PTF10acdh/LRIS phase-band : u-,SB2,0.8574865,0.14251351,u,-2.0
+ZTF20aawadcp_20200524_P60_v1.ascii,binnings/ZTF20aawadcp_20200524_P60_v1,Ic-BL,0.0357,Ic-BL/1998bw/DFOSC phase-band : 46.24B,SB5,0.97235733,0.027642673,46.24,-2.0
+ZTF20aawbzlo_20200527_P200_v2.ascii,binnings/ZTF20aawbzlo_20200527_P200_v2,IIn,0.03315,IIn/2010jl/DEIMOS phase-band : 20.65V,S0,0.42562705,0.57437295,20.65,-0.4
+ZTF20aawwcgb_20200511_LT_v1.ascii,binnings/ZTF20aawwcgb_20200511_LT_v1,IIb-flash,0.04174,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8091963,0.19080369,-7.0,-2.0
+ZTF20aaxbvkt_20200503_P60_v1.ascii,binnings/ZTF20aaxbvkt_20200503_P60_v1,II,0.038,II/2013fs/ALFOSC phase-band : 6.24B,S0,0.9572714,0.042728588,6.24,-1.4
+ZTF20aayhacx_20200513_NOT_v4.ascii,binnings/ZTF20aayhacx_20200513_NOT_v4,Ic-BL,0.0285,Ic-BL/2006aj/FORS2 phase-band : 16.01B,Sb,0.94322145,0.05677855,16.01,0.4
+ZTF20aaynrrh_20210420_NOT_v1.ascii,binnings/ZTF20aaynrrh_20210420_NOT_v1,II,0.005271,II/2014G/OSIRIS phase-band : 333.09B,SB1,0.36341527,0.63658476,333.09,2.0
+ZTF20aayprqz_20200626_P200_v1.ascii,binnings/ZTF20aayprqz_20200626_P200_v1,Ia 91bg-like,0.06,Ia 91bg-like/2016ije/KAST phase-band : u-,SB5,0.6844324,0.3155676,u,-1.6
+ZTF20aayprqz_20210211_Keck1_v2.ascii,binnings/ZTF20aayprqz_20210211_Keck1_v2,IIn,0.057,IIn/2010jl/LRIS phase-band : 845.34V,SB2,0.11287589,0.8871241,845.34,2.0
+ZTF20aayqjpv_20200507_P60_v2.ascii,binnings/ZTF20aayqjpv_20200507_P60_v2,IIn,0.030495,IIn/2008fq/WFCCD phase-band : 10.0B,SB1,0.99444664,0.0055533643,10.0,-0.4
+ZTF20aayqjpv_20200510_P60_v2.ascii,binnings/ZTF20aayqjpv_20200510_P60_v2,IIn,0.033705,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.95930237,0.040697612,-2.0,-0.4
+ZTF20aayubpi_20200517_P60_v1.ascii,binnings/ZTF20aayubpi_20200517_P60_v1,SLSN-IIn,0.021,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,Sc,0.87223244,0.12776756,142.39,-0.8
+ZTF20aayuyak_20200519_LT_v1.ascii,binnings/ZTF20aayuyak_20200519_LT_v1,IIb-flash,0.03192,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8739014,0.12609859,-7.0,-2.0
+ZTF20aaywban_20200514_P60_v1.ascii,binnings/ZTF20aaywban_20200514_P60_v1,Ia 02es-like,0.032613,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,S0,0.9829514,0.01704857,101.0,-0.6
+ZTF20aaywban_20200514_P60_v2.ascii,binnings/ZTF20aaywban_20200514_P60_v2,Ia 91bg-like,0.0302835,Ia 91bg-like/2005bl/WFCCD phase-band : -3.87B,S0,0.9989713,0.0010286901,-3.87,0.0
+ZTF20aazangn_20200517_P60_v1.ascii,binnings/ZTF20aazangn_20200517_P60_v1,Ib,0.05077,Ib/2006fo/EMMI phase-band : 56.27V,SB4,0.77493155,0.22506845,56.27,1.8
+ZTF20aazxvox_20200530_P60_v1.ascii,binnings/ZTF20aazxvox_20200530_P60_v1,Ia-CSM,0.06212,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.9840054,0.015994582,u,-2.0
+ZTF20aazxvox_20200530_P60_v2.ascii,binnings/ZTF20aazxvox_20200530_P60_v2,Ia-CSM,0.060567,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,S0,0.974114,0.025885982,u,-2.0
+ZTF20aazycgy_20200610_P200_v1.ascii,binnings/ZTF20aazycgy_20200610_P200_v1,SLSN-I,0.0295,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sa,0.7436731,0.25632694,u,-1.0
+ZTF20aazycgy_20200623_Keck1_v1.ascii,binnings/ZTF20aazycgy_20200623_Keck1_v1,SLSN-IIn,0.0287625,SLSN-IIn/PTF10tpz/KAST phase-band : u-,Sc,0.46369052,0.5363095,u,0.4
+ZTF20abapvvq_20200614_APO_v1.ascii,binnings/ZTF20abapvvq_20200614_APO_v1,IIb-flash,0.05,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.94605947,0.053940523,-7.0,-2.0
+ZTF20abaszgh_20200616_P200_v1.ascii,binnings/ZTF20abaszgh_20200616_P200_v1,Ib,0.02223,Ib/2008D/KAST phase-band : -5.0B,SB1,0.47759038,0.5224096,-5.0,0.6
+ZTF20abaszgh_20200616_P200_v2.ascii,binnings/ZTF20abaszgh_20200616_P200_v2,Ib,0.02223,Ib/2008D/KAST phase-band : -5.0B,SB1,0.47759038,0.5224096,-5.0,0.6
+ZTF20abaszgh_20200720_Keck1_v1.ascii,binnings/ZTF20abaszgh_20200720_Keck1_v1,II,0.02278575,II/iPTF15crj/DBSP phase-band : u-,S0,0.972695,0.027305018,u,-1.8
+ZTF20abatows_20200623_Keck1_v1.ascii,binnings/ZTF20abatows_20200623_Keck1_v1,SLSN-IIn,0.09436,SLSN-IIn/PTF10tpz/DBSP phase-band : u-,Sa,0.7782445,0.22175552,u,-1.4
+ZTF20abawtpy_20200531_P60_v2.ascii,binnings/ZTF20abawtpy_20200531_P60_v2,IIn,0.05225,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.8748607,0.1251393,3.0,-0.2
+ZTF20abbbumr_20200529_P60_v1.ascii,binnings/ZTF20abbbumr_20200529_P60_v1,Ia 91T-like,0.126,Ia 91T-like/1991T/Other phase-band : -7.0B,SB2,0.4876351,0.51236486,-7.0,1.4
+ZTF20abblqtl_20200716_P200_v1.ascii,binnings/ZTF20abblqtl_20200716_P200_v1,SLSN-I,0.1113,SLSN-I/PTF10bfz/LRIS phase-band : 1172.0B,S0,0.9813869,0.018613119,1172.0,1.2
+ZTF20abbpkng_20200623_Keck1_v1.ascii,binnings/ZTF20abbpkng_20200623_Keck1_v1,SLSN-IIn,0.0374,SLSN-IIn/PTF10tpz/KAST phase-band : u-,SB3,0.64769816,0.35230187,u,-1.0
+ZTF20abbzmue_20200616_P60_v1.ascii,binnings/ZTF20abbzmue_20200616_P60_v1,Ia 02es-like,0.03919,Ia 02es-like/PTF10ops/ISIS phase-band : 11.0g,S0,0.9380797,0.06192028,11.0,-0.6
+ZTF20abcgjvq_20200601_P60_v1.ascii,binnings/ZTF20abcgjvq_20200601_P60_v1,Ia 91T-like,0.05747175,Ia 91T-like/1991T/Other phase-band : -7.0B,Sc,0.85676354,0.14323647,-7.0,0.8
+ZTF20abdajyr_20200614_P60_v1.ascii,binnings/ZTF20abdajyr_20200614_P60_v1,Ia-CSM-(ambigious),0.06,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,Sb,0.98243284,0.01756718,6.0,-2.0
+ZTF20abdxoeu_20200623_Keck1_v1.ascii,binnings/ZTF20abdxoeu_20200623_Keck1_v1,Ibn,0.0275,Ibn/2015G/KAST phase-band : 1.5B,Sa,0.22783579,0.7721642,1.5,2.0
+ZTF20abdxyae_20200610_P200_v1.ascii,binnings/ZTF20abdxyae_20200610_P200_v1,Ia-CSM,0.04485,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB6,0.8788193,0.121180706,u,-0.6
+ZTF20abegate_20200618_P60_v1.ascii,binnings/ZTF20abegate_20200618_P60_v1,IIn,0.0525,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.908869,0.09113096,3.0,-2.0
+ZTF20abegopd_20200615_P60_v1.ascii,binnings/ZTF20abegopd_20200615_P60_v1,IIn,0.0456,IIn/2008fq/WFCCD phase-band : 3.0B,Sc,0.94629145,0.053708557,3.0,-1.4
+ZTF20abegopd_20200615_P60_v2.ascii,binnings/ZTF20abegopd_20200615_P60_v2,IIn,0.0456,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.93730325,0.062696755,10.0,0.2
+ZTF20abeifkj_20200716_P200_v1.ascii,binnings/ZTF20abeifkj_20200716_P200_v1,SLSN-I,0.0706875,SLSN-I/PTF10aagc/LRIS phase-band : u-,S0,0.58752906,0.41247094,u,-1.6
+ZTF20abeifkj_20200716_P200_v2.ascii,binnings/ZTF20abeifkj_20200716_P200_v2,SLSN-I,0.0706875,SLSN-I/PTF10aagc/LRIS phase-band : u-,S0,0.58752906,0.41247094,u,-1.6
+ZTF20abeldyn_20200615_P60_v1.ascii,binnings/ZTF20abeldyn_20200615_P60_v1,IIn,0.0437,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.94977075,0.05022925,-2.0,-1.0
+ZTF20abelnha_20200621_P60_v1.ascii,binnings/ZTF20abelnha_20200621_P60_v1,SLSN-I,0.07585,SLSN-I/PTF10aagc/LRIS phase-band : u-,S0,0.91138494,0.08861507,u,-2.0
+ZTF20abfcrzj_20200703_SALT_v1.ascii,binnings/ZTF20abfcrzj_20200703_SALT_v1,IIb-flash,0.02415,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8934559,0.10654406,-7.0,-2.0
+ZTF20abfcszi_20200731_NOT_v1.ascii,binnings/ZTF20abfcszi_20200731_NOT_v1,IIn,0.06825,IIn/2008fq/LDSS-3 phase-band : -2.0B,Sa,0.83822525,0.16177478,-2.0,0.0
+ZTF20abffaxl_20200620_P60_v2.ascii,binnings/ZTF20abffaxl_20200620_P60_v2,Ia-CSM,0.043113,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB6,0.9593212,0.04067882,u,-1.2
+ZTF20abfhyil_20210414_Keck1_v4.ascii,binnings/ZTF20abfhyil_20210414_Keck1_v4,IIb-flash,0.135,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8933244,0.10667564,-7.0,-2.0
+ZTF20abfyriw_20200618_P60_v1.ascii,binnings/ZTF20abfyriw_20200618_P60_v1,IIn,0.03699225,IIn/2008fq/WFCCD phase-band : 10.0B,SB1,0.9320996,0.0679004,10.0,0.0
+ZTF20abgbuly_20200624_P60_v1.ascii,binnings/ZTF20abgbuly_20200624_P60_v1,SLSN-Ib,0.0162355,SLSN-Ib/2010md/LRIS phase-band : 103.0B,Sa,0.91051024,0.08948977,103.0,2.0
+ZTF20abgbvgl_20200621_P60_v1.ascii,binnings/ZTF20abgbvgl_20200621_P60_v1,Ia 91bg-like,0.0601675,Ia 91bg-like/2015ac/KAST phase-band : u-,SB1,0.99696696,0.003033062,u,0.8
+ZTF20abgbvrf_20200723_P60_v1.ascii,binnings/ZTF20abgbvrf_20200723_P60_v1,TDE H+He,0.057,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.64115804,0.35884193,-1.04,0.6
+ZTF20abgevcw_20200703_P60_v2.ascii,binnings/ZTF20abgevcw_20200703_P60_v2,Ia-CSM-(ambigious),0.0824,Ia-CSM-(ambigious)/2002ic/BC-Magellan phase-band : 2.0B,E,0.96556115,0.034438837,2.0,1.2
+ZTF20abgxlut_20210607_Keck1_v1.ascii,binnings/ZTF20abgxlut_20210607_Keck1_v1,SN - Imposter,0.257,SN - Imposter/2000ch/LRIS phase-band : u-,SB2,0.46096998,0.53903,u,-2.0
+ZTF20abgzvff_20200702_P60_v1.ascii,binnings/ZTF20abgzvff_20200702_P60_v1,IIn,0.02625,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.920854,0.07914604,3.0,-1.2
+ZTF20abisysx_20200825_APO_v1.ascii,binnings/ZTF20abisysx_20200825_APO_v1,IIb-flash,0.084,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.84804857,0.15195146,-7.0,-2.0
+ZTF20abjapav_20200630_LT_v1.ascii,binnings/ZTF20abjapav_20200630_LT_v1,IIb-flash,0.0322525,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8759882,0.1240118,-7.0,-2.0
+ZTF20abjtavx_20200821_Keck1_v1.ascii,binnings/ZTF20abjtavx_20200821_Keck1_v1,SLSN-I,0.133,SLSN-I/PTF10aagc/DBSP phase-band : u-,E,0.66371346,0.33628654,u,-2.0
+ZTF20abjyovb_20200718_P60_v2.ascii,binnings/ZTF20abjyovb_20200718_P60_v2,IIb,0.08274,IIb/2011fu/AFOSC phase-band : -11.2B,Sa,0.9799716,0.020028416,-11.2,2.0
+ZTF20abkiaku_20200920_Keck1_v1.ascii,binnings/ZTF20abkiaku_20200920_Keck1_v1,SLSN-I,0.0417165,SLSN-I/2018bsz/FLOYDS-N phase-band : -8.52r,S0,0.43365705,0.56634295,-8.52,-2.0
+ZTF20abkiarz_20200715_P60_v3.ascii,binnings/ZTF20abkiarz_20200715_P60_v3,Ia-CSM,0.024717,Ia-CSM/2005gj/LRIS phase-band : 48.04g,S0,0.8296997,0.1703003,48.04,-0.4
+ZTF20abkiarz_20200720_P60_v4.ascii,binnings/ZTF20abkiarz_20200720_P60_v4,IIn,0.024717,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.9513256,0.048674375,3.0,-1.0
+ZTF20abkiarz_20200915_Keck1_v2.ascii,binnings/ZTF20abkiarz_20200915_Keck1_v2,Ia 91bg-like,0.024717,Ia 91bg-like/1991bg/BC-Asi phase-band : u-,Sa,0.11225997,0.88774,u,1.2
+ZTF20abliiex_20200808_P60_v1.ascii,binnings/ZTF20abliiex_20200808_P60_v1,IIn,0.041139,IIn/2008fq/WFCCD phase-band : 10.0B,SB2,0.9149569,0.08504307,10.0,-0.8
+ZTF20ablsunu_20200717_Keck2_v1.ascii,binnings/ZTF20ablsunu_20200717_Keck2_v1,Ib,0.02925,Ib/2005bf/WFCCD phase-band : -23.0B,Sc,0.82841295,0.17158706,-23.0,2.0
+ZTF20abmkwxg_20200915_P200_v1.ascii,binnings/ZTF20abmkwxg_20200915_P200_v1,IIn,0.1063,IIn/2005cp/DBSP phase-band : 8.0B,SB3,0.77435654,0.22564343,8.0,-2.0
+ZTF20abmlxrx_20200813_NOT_v1.ascii,binnings/ZTF20abmlxrx_20200813_NOT_v1,Ia-CSM,0.092625,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,E,0.98874485,0.011255142,u,1.0
+ZTF20abobpcb_20210513_P200_v1.ascii,binnings/ZTF20abobpcb_20210513_P200_v1,SLSN-I,0.159,SLSN-I/2015bn/LDSS-3 phase-band : 120.34B,E,0.9972337,0.0027663196,120.34,-1.0
+ZTF20aborzxc_20201120_Keck1_v1.ascii,binnings/ZTF20aborzxc_20201120_Keck1_v1,IIn,0.019,IIn/2010jl/LRIS phase-band : 845.34V,Sb,0.27403075,0.72596925,845.34,-0.6
+ZTF20aboytzr_20200805_P60_v1.ascii,binnings/ZTF20aboytzr_20200805_P60_v1,SLSN-I,0.06441,SLSN-I/2017egm/KAST phase-band : -0.39B,SB1,0.9983035,0.0016965196,-0.39,-2.0
+ZTF20aboytzr_20200815_P60_v1.ascii,binnings/ZTF20aboytzr_20200815_P60_v1,Ia 99aa-like,0.07119,Ia 99aa-like/iPTF14bdn/YFOSC phase-band : -10.66B,Sa,0.99613297,0.003867004,-10.66,-1.2
+ZTF20aboytzr_20200815_P60_v2.ascii,binnings/ZTF20aboytzr_20200815_P60_v2,Ia-CSM-(ambigious),0.07119,Ia-CSM-(ambigious)/2002ic/BC-duPont phase-band : 6.0B,SB5,0.8829345,0.117065474,6.0,2.0
+ZTF20abpfbih_20200815_NOT_v1.ascii,binnings/ZTF20abpfbih_20200815_NOT_v1,IIn,0.04990725,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB6,0.6032888,0.39671117,-2.0,1.8
+ZTF20abpfbih_20200825_APO_v1.ascii,binnings/ZTF20abpfbih_20200825_APO_v1,IIb-flash,0.04990725,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.78359973,0.2164003,-7.0,-2.0
+ZTF20abptxls_20200812_NOT_v1.ascii,binnings/ZTF20abptxls_20200812_NOT_v1,SLSN-I,0.0152,SLSN-I/2017egm/KAST phase-band : -0.39B,SB4,0.92898214,0.07101785,-0.39,-0.4
+ZTF20abpuxna_20200814_P200_v1.ascii,binnings/ZTF20abpuxna_20200814_P200_v1,IIn,0.035256,IIn/2010jl/DEIMOS phase-band : 20.65V,SB5,0.6340194,0.36598063,20.65,-2.0
+ZTF20abpuxna_20200915_Keck1_v1.ascii,binnings/ZTF20abpuxna_20200915_Keck1_v1,II,0.03616,II/iPTF15crj/DBSP phase-band : u-,Sc,0.80228144,0.19771859,u,-1.2
+ZTF20abpvhqv_20200815_P60_v1.ascii,binnings/ZTF20abpvhqv_20200815_P60_v1,Ic,0.016113,Ic/2004gt/LRIS phase-band : 57.59B,E,0.9678507,0.03214934,57.59,-2.0
+ZTF20abpyxja_20200808_P60_v1.ascii,binnings/ZTF20abpyxja_20200808_P60_v1,II,0.0475,II/2013fs/ALFOSC phase-band : 6.24B,S0,0.9638841,0.0361159,6.24,-2.0
+ZTF20abqbzuv_20200804_P60_v2.ascii,binnings/ZTF20abqbzuv_20200804_P60_v2,IIn,0.025061,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.948466,0.051533993,3.0,-1.6
+ZTF20abqbzuv_20200812_P60_v2.ascii,binnings/ZTF20abqbzuv_20200812_P60_v2,Ia 02es-like,0.027699,Ia 02es-like/PTF10ops/DBSP phase-band : -7.0g,S0,0.8301092,0.16989084,-7.0,-1.4
+ZTF20abqdkne_20200823_P60_v1.ascii,binnings/ZTF20abqdkne_20200823_P60_v1,SN - Imposter,0.029799,SN - Imposter/2019ahd/RSS phase-band : -10.0g,SB1,0.9875249,0.012475065,-10.0,1.2
+ZTF20abqkbfx_20200816_P60_v1.ascii,binnings/ZTF20abqkbfx_20200816_P60_v1,II,0.10122,II/2014G/KAST phase-band : 2.4B,SB2,0.9965381,0.00346187,2.4,-1.0
+ZTF20abqkbfx_20200830_NOT_v1.ascii,binnings/ZTF20abqkbfx_20200830_NOT_v1,Ia-CSM,0.0964,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.85369384,0.14630616,u,0.6
+ZTF20abqmmhn_20200901_P60_v2.ascii,binnings/ZTF20abqmmhn_20200901_P60_v2,Ia-norm,0.08775,Ia-norm/2012cg/KAST phase-band : -5.5B,SB1,0.994883,0.0051169833,-5.5,1.2
+ZTF20abqmtsh_20200817_LT_v1.ascii,binnings/ZTF20abqmtsh_20200817_LT_v1,IIb-flash,0.0263235,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.86247313,0.1375269,-7.0,-2.0
+ZTF20abqnztv_20200820_P60_v1.ascii,binnings/ZTF20abqnztv_20200820_P60_v1,TDE H+He,0.06825,TDE H+He/2016fnl/DBSP phase-band : -1.04g,Sc,0.8296811,0.17031889,-1.04,0.6
+ZTF20abrgzfn_20200905_P60_v1.ascii,binnings/ZTF20abrgzfn_20200905_P60_v1,Ia-CSM,0.1532,Ia-CSM/2016iks/EFOSC2-NTT phase-band : u-,SB5,0.79433054,0.20566945,u,0.8
+ZTF20abrgzfn_20200915_P200_v1.ascii,binnings/ZTF20abrgzfn_20200915_P200_v1,Ia-CSM,0.1532,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,E,0.9838843,0.016115736,u,1.0
+ZTF20absvwdh_20200831_P60_v2.ascii,binnings/ZTF20absvwdh_20200831_P60_v2,Ia 91bg-like,0.0684495,Ia 91bg-like/2015ac/KAST phase-band : u-,SB1,0.9931351,0.006864926,u,1.8
+ZTF20abswjae_20200825_P60_v1.ascii,binnings/ZTF20abswjae_20200825_P60_v1,IIn,0.07427,IIn/2008fq/LDSS-3 phase-band : -2.0B,Sc,0.9851536,0.014846373,-2.0,-1.0
+ZTF20abujoya_20200821_P60_v2.ascii,binnings/ZTF20abujoya_20200821_P60_v2,Ia-CSM,0.0665,Ia-CSM/2005gj/LRIS phase-band : 48.04g,Sc,0.9388445,0.06115552,48.04,-2.0
+ZTF20abvquuo_20200902_P60_v1.ascii,binnings/ZTF20abvquuo_20200902_P60_v1,IIb,0.0315,IIb/2011fu/AFOSC phase-band : -11.2B,Sa,0.9324442,0.067555755,-11.2,-0.4
+ZTF20abwdwoa_20200917_Keck1_v1.ascii,binnings/ZTF20abwdwoa_20200917_Keck1_v1,Ia 91T-like,0.09785,Ia 91T-like/2018hfr/KAST phase-band : u-,Sc,0.59517366,0.40482634,u,2.0
+ZTF20abwkqxd_20200901_P60_v1.ascii,binnings/ZTF20abwkqxd_20200901_P60_v1,II,0.0525,II/2013fs/ALFOSC phase-band : 6.24B,Sc,0.9319176,0.068082385,6.24,1.4
+ZTF20abxawtg_20201021_P200_v1.ascii,binnings/ZTF20abxawtg_20201021_P200_v1,II,0.05639,II/iPTF15crj/FLOYDS-N phase-band : u-,Sa,0.43634892,0.5636511,u,0.0
+ZTF20abxezim_20200901_P60_v1.ascii,binnings/ZTF20abxezim_20200901_P60_v1,II,0.07385625,II/2013fs/ALFOSC phase-band : 6.24B,SB1,0.9913659,0.0086341025,6.24,-1.6
+ZTF20abxmgny_20200904_P60_v1.ascii,binnings/ZTF20abxmgny_20200904_P60_v1,Ia 99aa-like,0.09225,Ia 99aa-like/1999aa/DIS phase-band : -6.0B,Sc,0.8431185,0.15688151,-6.0,-2.0
+ZTF20abxrsjb_20200907_P60_v1.ascii,binnings/ZTF20abxrsjb_20200907_P60_v1,Ia 91T-like,0.0735,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.9902468,0.009753218,-7.0,1.2
+ZTF20abxrsjb_20200907_P60_v2.ascii,binnings/ZTF20abxrsjb_20200907_P60_v2,Ia 91T-like,0.0735,Ia 91T-like/1991T/Other phase-band : -7.0B,Sc,0.935194,0.06480597,-7.0,1.4
+ZTF20abxyauq_20200916_P200_v1.ascii,binnings/ZTF20abxyauq_20200916_P200_v1,IIn,0.0234,IIn/2005cp/DBSP phase-band : 36.0B,S0,0.7855021,0.21449791,36.0,-2.0
+ZTF20abxyauq_20201020_Keck1_v1.ascii,binnings/ZTF20abxyauq_20201020_Keck1_v1,IIb-flash,0.024,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.9659375,0.034062486,-7.0,-2.0
+ZTF20abxyifx_20201004_LT_v1.ascii,binnings/ZTF20abxyifx_20201004_LT_v1,IIb-flash,0.02498925,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.89425874,0.105741255,-7.0,-2.0
+ZTF20abxyifx_20201012_P60_v1.ascii,binnings/ZTF20abxyifx_20201012_P60_v1,IIn,0.02627075,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.99081826,0.009181713,-2.0,0.2
+ZTF20abybeex_20200907_APO_v1.ascii,binnings/ZTF20abybeex_20200907_APO_v1,Ibn,0.0294,Ibn/2010al/DBSP phase-band : -8.18B,SB2,0.8477621,0.1522379,-8.18,2.0
+ZTF20abygigy_20200915_APO_v1.ascii,binnings/ZTF20abygigy_20200915_APO_v1,IIb-flash,0.056525,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.89114934,0.10885064,-7.0,-2.0
+ZTF20abyiycy_20200918_P60_v1.ascii,binnings/ZTF20abyiycy_20200918_P60_v1,Ia-02cx like,0.0735,Ia-02cx like/2005hk/DIS phase-band : -5.9B,SB3,0.996284,0.0037159992,-5.9,0.4
+ZTF20abyppuk_20200915_P60_v1.ascii,binnings/ZTF20abyppuk_20200915_P60_v1,Ia-norm,0.078,Ia-norm/2012cg/KAST phase-band : -5.5B,SB1,0.99708515,0.0029148692,-5.5,1.2
+ZTF20abzayoe_20200924_APO_v1.ascii,binnings/ZTF20abzayoe_20200924_APO_v1,Ia-norm,0.079,Ia-norm/2013dy/HET-LRS phase-band : 15.45B,S0,0.9249861,0.07501389,15.45,-2.0
+ZTF20abztkiv_20201020_Keck1_v1.ascii,binnings/ZTF20abztkiv_20201020_Keck1_v1,IIb-flash,0.03617225,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8591412,0.14085884,-7.0,-2.0
+ZTF20abztkiv_20201020_Keck1_v2.ascii,binnings/ZTF20abztkiv_20201020_Keck1_v2,IIb-flash,0.0370545,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.29626969,0.7037303,-7.0,-2.0
+ZTF20acauthg_20200926_P60_v1.ascii,binnings/ZTF20acauthg_20200926_P60_v1,Ia-CSM-(ambigious),0.08,Ia-CSM-(ambigious)/2002ic/BC-Magellan phase-band : 2.0B,E,0.9433613,0.056638725,2.0,0.2
+ZTF20acbakkg_20200924_P60_v2.ascii,binnings/ZTF20acbakkg_20200924_P60_v2,Ia-CSM,0.0361,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.9449678,0.055032186,u,-1.6
+ZTF20acbakkg_20200928_P60_v1.ascii,binnings/ZTF20acbakkg_20200928_P60_v1,IIn,0.0361,IIn/2008fq/WFCCD phase-band : 10.0B,Sc,0.9390518,0.06094821,10.0,-0.4
+ZTF20acbakkg_20201011_P60_v1.ascii,binnings/ZTF20acbakkg_20201011_P60_v1,IIn,0.0399,IIn/2008fq/WFCCD phase-band : 3.0B,SB2,0.94359004,0.05640993,3.0,-2.0
+ZTF20acbcfaa_20210513_P200_v1.ascii,binnings/ZTF20acbcfaa_20210513_P200_v1,IIb-flash,0.263,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.76071274,0.23928723,-7.0,-2.0
+ZTF20accmtgt_20201006_P60_v1.ascii,binnings/ZTF20accmtgt_20201006_P60_v1,Ia-CSM,0.033825,Ia-CSM/PTF11kx/LRIS phase-band : 39.0B,SB2,0.89389086,0.10610916,39.0,0.0
+ZTF20accoccp_20201008_P60_v1.ascii,binnings/ZTF20accoccp_20201008_P60_v1,Ia 91bg-like,0.067116,Ia 91bg-like/2015ac/KAST phase-band : u-,Sc,0.94310385,0.056896146,u,2.0
+ZTF20accxqqo_20201006_P60_v1.ascii,binnings/ZTF20accxqqo_20201006_P60_v1,II-flash,0.042,II-flash/2014cn_early/GMOS phase-band : 0.0B,Sc,0.8931775,0.10682251,0.0,-2.0
+ZTF20acdewdg_20201010_P60_v2.ascii,binnings/ZTF20acdewdg_20201010_P60_v2,Ib,0.0525,Ib/2006fo/EMMI phase-band : 56.27V,SB1,0.52345306,0.4765469,56.27,1.6
+ZTF20acduffd_20200930_LT_v1.ascii,binnings/ZTF20acduffd_20200930_LT_v1,IIb-flash,0.018563,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.909673,0.09032705,-7.0,-2.0
+ZTF20acduffd_20201009_P60_v1.ascii,binnings/ZTF20acduffd_20201009_P60_v1,Ia 91bg-like,0.020517,Ia 91bg-like/2005bl/DOLORES phase-band : 3.0B,SB1,0.949611,0.050388977,3.0,2.0
+ZTF20acebweq_20200930_P60_v3.ascii,binnings/ZTF20acebweq_20200930_P60_v3,II,0.030305,II/2013fs/ALFOSC phase-band : 6.24B,Sa,0.9564285,0.043571487,6.24,-2.0
+ZTF20acebweq_20201020_P60_v2.ascii,binnings/ZTF20acebweq_20201020_P60_v2,Ia 91T-like,0.033495,Ia 91T-like/2018hfr/KAST phase-band : u-,SB1,0.88714045,0.112859525,u,-0.6
+ZTF20acebweq_20201021_P60_v2.ascii,binnings/ZTF20acebweq_20201021_P60_v2,Ia-CSM,0.033495,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB6,0.9433791,0.056620877,u,-2.0
+ZTF20acehyxd_20201004_P60_v1.ascii,binnings/ZTF20acehyxd_20201004_P60_v1,SLSN-IIn,0.0342,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,SB4,0.6940584,0.30594155,142.39,1.2
+ZTF20acehyxd_20201012_LT_v1.ascii,binnings/ZTF20acehyxd_20201012_LT_v1,IIb-flash,0.0369,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.91812617,0.08187384,-7.0,-2.0
+ZTF20acfvqjl_20201003_P60_v1.ascii,binnings/ZTF20acfvqjl_20201003_P60_v1,Ib,0.009429,Ib/2008D/LRIS phase-band : 19.86B,SB5,0.8793095,0.120690554,19.86,-0.6
+ZTF20acgpngg_20201015_APO_v1.ascii,binnings/ZTF20acgpngg_20201015_APO_v1,IIb-flash,0.0517335,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.7735804,0.22641961,-7.0,-2.0
+ZTF20acgyixo_20201010_P60_v1.ascii,binnings/ZTF20acgyixo_20201010_P60_v1,Ia-CSM,0.0398475,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB6,0.92896545,0.07103453,u,0.0
+ZTF20achadaa_20201009_P60_v1.ascii,binnings/ZTF20achadaa_20201009_P60_v1,SLSN-IIn,0.035055,SLSN-IIn/2006gy/LRIS phase-band : 142.39R,Sc,0.7127228,0.28727722,142.39,0.2
+ZTF20achbekh_20201012_P60_v1.ascii,binnings/ZTF20achbekh_20201012_P60_v1,II,0.07812,II/2013fs/ALFOSC phase-band : 6.24B,SB1,0.99782354,0.002176448,6.24,-1.6
+ZTF20achbekh_20201013_P60_v1.ascii,binnings/ZTF20achbekh_20201013_P60_v1,II,0.07812,II/2013fs/ALFOSC phase-band : 6.24B,SB1,0.99831766,0.0016823576,6.24,-1.4
+ZTF20achstwk_20201016_P60_v1.ascii,binnings/ZTF20achstwk_20201016_P60_v1,Ia 91T-like,0.08775,Ia 91T-like/1991T/Other phase-band : -13.0B,SB1,0.98225236,0.017747669,-13.0,1.0
+ZTF20achvmjr_20201016_P60_v1.ascii,binnings/ZTF20achvmjr_20201016_P60_v1,Ia 91bg-like,0.0665,Ia 91bg-like/2016ije/YFOSC phase-band : u-,SB2,0.9895416,0.0104584,u,0.4
+ZTF20achwpvs_20201021_P60_v1.ascii,binnings/ZTF20achwpvs_20201021_P60_v1,Ia-CSM,0.076,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.9917776,0.008222384,u,-2.0
+ZTF20achzugy_20201017_P60_v1.ascii,binnings/ZTF20achzugy_20201017_P60_v1,IIn,0.0504,IIn/2008fq/WFCCD phase-band : 10.0B,SB1,0.91719687,0.08280313,10.0,-2.0
+ZTF20achzugy_20201020_P60_v1.ascii,binnings/ZTF20achzugy_20201020_P60_v1,IIn,0.0504,IIn/2008fq/LDSS-3 phase-band : -2.0B,SB1,0.9529862,0.047013827,-2.0,-2.0
+ZTF20aciaxil_20201015_P60_v1.ascii,binnings/ZTF20aciaxil_20201015_P60_v1,SLSN-I,0.0665,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sa,0.8968178,0.10318217,u,-2.0
+ZTF20aciievv_20201109_NOT_v1.ascii,binnings/ZTF20aciievv_20201109_NOT_v1,Ia 91T-like,0.006825,Ia 91T-like/2018hfr/KAST phase-band : u-,SB3,0.8922056,0.10779443,u,1.8
+ZTF20aciigcw_20201016_P60_v2.ascii,binnings/ZTF20aciigcw_20201016_P60_v2,IIn,0.038,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.9382929,0.06170707,3.0,-1.2
+ZTF20acimjmc_20201015_P60_v1.ascii,binnings/ZTF20acimjmc_20201015_P60_v1,IIn,0.030932,IIn/2008fq/WFCCD phase-band : 3.0B,SB1,0.96004766,0.039952353,3.0,0.4
+ZTF20acimjmc_20201015_P60_v2.ascii,binnings/ZTF20acimjmc_20201015_P60_v2,Ia 91bg-like,0.030932,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,Sa,0.95874065,0.041259333,-6.87,-2.0
+ZTF20aciojzg_20201020_Keck1_v1.ascii,binnings/ZTF20aciojzg_20201020_Keck1_v1,SLSN-IIn,0.0266285,SLSN-IIn/2006gy/KAST phase-band : -31.39R,SB1,0.99123156,0.00876845,-31.39,-2.0
+ZTF20acitojm_20201030_P60_v1.ascii,binnings/ZTF20acitojm_20201030_P60_v1,TDE H+He,0.04875,TDE H+He/2016fnl/DBSP phase-band : -1.04g,SB1,0.7871462,0.2128538,-1.04,0.8
+ZTF20aciudrr_20201023_P60_v1.ascii,binnings/ZTF20aciudrr_20201023_P60_v1,Ia 91T-like,0.0945915,Ia 91T-like/1991T/Other phase-band : -7.0B,Sc,0.9940469,0.005953093,-7.0,0.6
+ZTF20aciudrr_20201028_P60_v1.ascii,binnings/ZTF20aciudrr_20201028_P60_v1,Ia 91T-like,0.10205925,Ia 91T-like/1991T/Other phase-band : -7.0B,SB3,0.9843869,0.015613053,-7.0,0.2
+ZTF20acixidp_20201029_P60_v1.ascii,binnings/ZTF20acixidp_20201029_P60_v1,Ia-norm,0.06825,Ia-norm/2011by/KAST phase-band : -2.77B,SB1,0.9685527,0.0314473,-2.77,0.6
+ZTF20acjbhhp_20201208_LT_v1.ascii,binnings/ZTF20acjbhhp_20201208_LT_v1,IIb-flash,0.05047,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8641198,0.13588017,-7.0,-2.0
+ZTF20acjeflr_20201030_P60_v1.ascii,binnings/ZTF20acjeflr_20201030_P60_v1,II-flash,0.0304,II-flash/iPTF15crj_early/GMOS phase-band : u-,SB3,0.93755114,0.062448844,u,-1.2
+ZTF20acjeflr_20201030_P60_v2.ascii,binnings/ZTF20acjeflr_20201030_P60_v2,II-flash,0.0304,II-flash/2014cn_early/GMOS phase-band : 0.0B,Sb,0.6102012,0.38979882,0.0,2.0
+ZTF20acjeflr_20201105_P60_v1.ascii,binnings/ZTF20acjeflr_20201105_P60_v1,II,0.0304,II/2013fs/ALFOSC phase-band : 6.24B,Sc,0.96139073,0.03860927,6.24,-1.8
+ZTF20acjeflr_20201124_P60_v1.ascii,binnings/ZTF20acjeflr_20201124_P60_v1,Ia-CSM,0.0304,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,SB6,0.9264882,0.07351175,u,-0.4
+ZTF20acjetyf_20201029_P60_v2.ascii,binnings/ZTF20acjetyf_20201029_P60_v2,Ia-CSM,0.03465,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sc,0.9393935,0.060606465,u,-1.8
+ZTF20ackkejs_20201029_P60_v2.ascii,binnings/ZTF20ackkejs_20201029_P60_v2,Ia 91T-like,0.08941725,Ia 91T-like/1991T/Other phase-band : -7.0B,Sc,0.7919834,0.2080166,-7.0,1.2
+ZTF20aclggpx_20201029_NTT_v1.ascii,binnings/ZTF20aclggpx_20201029_NTT_v1,SLSN-I,0.0741,SLSN-I/PTF10aagc/LRIS phase-band : u-,S0,0.88564754,0.11435246,u,-1.6
+ZTF20aclkhnm_20201020_Keck1_v1.ascii,binnings/ZTF20aclkhnm_20201020_Keck1_v1,IIb,0.0351,IIb/2013df/HET-LRS phase-band : 14.0B,SB1,0.5505183,0.44948173,14.0,-2.0
+ZTF20acnigox_20201105_P60_v1.ascii,binnings/ZTF20acnigox_20201105_P60_v1,Ia 02es-like,0.06825,Ia 02es-like/PTF10ops/DBSP phase-band : 101.0g,Sa,0.90023446,0.09976557,101.0,1.2
+ZTF20acnrphs_20201111_P60_v1.ascii,binnings/ZTF20acnrphs_20201111_P60_v1,Ia 91bg-like,0.04875,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,S0,0.99834543,0.0016545522,-6.87,0.2
+ZTF20acnwjwp_20201104_P60_v1.ascii,binnings/ZTF20acnwjwp_20201104_P60_v1,SLSN-I,0.076,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sa,0.9014833,0.09851669,u,-1.2
+ZTF20acnznol_20201030_P60_v1.ascii,binnings/ZTF20acnznol_20201030_P60_v1,Ia 91bg-like,0.0306945,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,SB6,0.99718934,0.0028106745,-6.87,-0.2
+ZTF20acnznol_20201030_P60_v2.ascii,binnings/ZTF20acnznol_20201030_P60_v2,Ia 91bg-like,0.0306945,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,SB6,0.99718934,0.0028106745,-6.87,-0.2
+ZTF20acpevli_20201211_LT_v1.ascii,binnings/ZTF20acpevli_20201211_LT_v1,IIb-flash,0.038649,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.896773,0.10322704,-7.0,-2.0
+ZTF20acphcdv_20201118_P60_v1.ascii,binnings/ZTF20acphcdv_20201118_P60_v1,Ia 91T-like,0.0858,Ia 91T-like/1991T/Other phase-band : -7.0B,SB1,0.99550426,0.0044957367,-7.0,-0.4
+ZTF20acplhku_20201116_P60_v1.ascii,binnings/ZTF20acplhku_20201116_P60_v1,SLSN-I,0.074,SLSN-I/PTF10aagc/LRIS phase-band : u-,Sb,0.94945824,0.05054178,u,-2.0
+ZTF20acquetr_20201116_P60_v1.ascii,binnings/ZTF20acquetr_20201116_P60_v1,Ia 91bg-like,0.0292505,Ia 91bg-like/2005bl/WFCCD phase-band : -6.87B,Sb,0.96924716,0.030752834,-6.87,-1.2
+ZTF20acvchhw_20210114_Keck1_v1.ascii,binnings/ZTF20acvchhw_20210114_Keck1_v1,Ia-norm,0.04715,Ia-norm/2012cu/KAST phase-band : u-,E,0.6258366,0.37416336,u,1.6
+ZTF20acwfanr_20201224_LT_v1.ascii,binnings/ZTF20acwfanr_20201224_LT_v1,IIb-flash,0.0530575,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.88875467,0.11124534,-7.0,-2.0
+ZTF20acwobku_20210209_NOT_v1.ascii,binnings/ZTF20acwobku_20210209_NOT_v1,Ia-pec,0.034125,Ia-pec/2013bh/HET-LRS phase-band : 19.0V,SB3,0.3108599,0.6891401,19.0,2.0
+ZTF21aagpymw_20210513_P200_v1.ascii,binnings/ZTF21aagpymw_20210513_P200_v1,SLSN-I,0.0931,SLSN-I/2015bn/LDSS-3 phase-band : 120.34B,Sc,0.31434363,0.68565637,120.34,1.2
+ZTF21aajgdeu_20210224_LT_v1.ascii,binnings/ZTF21aajgdeu_20210224_LT_v1,IIb-flash,0.029316,IIb-flash/2013cu_early/DEIMOS phase-band : -7.0V,E,0.8921097,0.10789031,-7.0,-2.0
+ZTF21aapehpx_20210416_NOT_v1.ascii,binnings/ZTF21aapehpx_20210416_NOT_v1,Ia 91bg-like,0.03315,Ia 91bg-like/2015ac/KAST phase-band : u-,S0,0.99128544,0.00871453,u,-0.6
+ZTF21aavuqzr_20210511_NOT_v1.ascii,binnings/ZTF21aavuqzr_20210511_NOT_v1,Ia-CSM,0.1013,Ia-CSM/2019fcg/EFOSC2-NTT phase-band : u-,Sb,0.84652853,0.1534715,u,2.0

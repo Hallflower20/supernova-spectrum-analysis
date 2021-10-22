@@ -25,11 +25,11 @@ snid = "/home/xhall/Documents/SNID/snid-5.0/snid"
 # In[3]:
 
 
-def run_files(fname, fnamelist, source, item_name):
+def run_files(fname, fnamelist, source, item_name, fluxout = 100):
     new_source = source + item_name
     if(not(os.path.exists(new_source))):
         os.mkdir(new_source)
-    bashCommand = snid + " rlapmin=0 verbose=0 plot=0 fluxout=50 " + fnamelist
+    bashCommand = "{} rlapmin=0 verbose=0 plot=0 fluxout={} {}".format(snid, fluxout, fnamelist)
     process = subprocess.Popen(shlex.split(bashCommand), stdout = subprocess.PIPE, stderr = subprocess.PIPE , cwd=new_source)
     output, error = process.communicate()
     return output, error, bashCommand

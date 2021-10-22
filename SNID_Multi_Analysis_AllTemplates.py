@@ -23,21 +23,14 @@ import glob
 # In[2]:
 
 
-sample = Table.read("/home/xhall/Documents/NewZTF/ML_sample.ascii", format = "ascii")
-sample.rename_column('col1', 'ZTF_Name')
-sample.rename_column('col2', "Class")
-sample.rename_column('col8', "Version")
-
-sample_2018 = Table.from_pandas(pd.read_hdf("/home/xhall/Documents/NewZTF/final_rcf_table.h5"))
-
-joined_sample = astropy.table.join(sample_2018,sample)
+sample = Table.read("/home/xhall/Documents/ZTFI/stuff_left.csv")
 
 # In[3]:
 
 
-sample_location = "/home/xhall/Documents/NewZTF/spectra_nonan/"
-source = "/home/xhall/Documents/NewZTF/sample_2020/SNIDoutput/"
-image_output = "//home/xhall/Documents/NewZTF/sample_2020/ImageOutput/"
+sample_location = "/home/xhall/Documents/ZTFI/sample_nonan/"
+source = "/home/xhall/Documents/ZTFI/remaining_output/"
+image_output = "/home/xhall/Documents/ZTFI/remaining_image_output/"
 snid = "/home/xhall/Documents/SNID/snid-5.0/snid"
 
 
@@ -56,7 +49,6 @@ dont_work_array = []
 for i in sample["Version"]:
     gc.collect()
     try:
-        counter += 1
 
         filenoascii = i.split(".")[0]
 
@@ -69,9 +61,9 @@ for i in sample["Version"]:
         output, error, bashCommand = SNID_Analysis.run_files(sample_location_temp, fnamelist, source, filenoascii)
     except:
         print(i)
-    if(counter % 50 == 0 and counter != 0):
-        print(counter)
-
+    if(counter % 50 == 0):
+        print(counter, len(sample))
+    counter += 1
 
 
 
