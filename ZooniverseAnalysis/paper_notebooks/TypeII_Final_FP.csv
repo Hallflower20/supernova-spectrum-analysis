@@ -1,0 +1,13 @@
+ZTF_Name,spectra_file,sn_type,superfit_sn_type,zooniverse_sn_type,z_sn,in_rcfI,sn_type_rcfI,in_marshall,sn_type_marshall
+ZTF18aabxlsv,ZTF18aabxlsv_20181110_Keck1_v1.ascii,II,IIb,IIn,0.0497,True,Ib,True,Ib
+ZTF18aaeoiwu,ZTF18aaeoiwu_20191019_P60_v1.ascii,II,IIn,II-norm,0.6259,False,,True,star
+ZTF18abpmwfx,ZTF18abpmwfx_20180826_P60_v1.ascii,II,II,IIn,-0.0033,False,,True,CV
+ZTF18acbvkwl,ZTF18acbvkwl_20181121_P60_v1.ascii,II,IIn,II-norm,0.0906,False,,True,AGN
+ZTF19aarpymc,ZTF19aarpymc_20200924_P60_v1.ascii,II,IIn,II-norm,0.0783,False,,True,AGN
+ZTF19aayimmc,ZTF19aayimmc_20190927_P60_v1.ascii,II,II,II-norm,0.0059,False,,True,LBV
+ZTF19abclykm,ZTF19abclykm_20190803_P60_v1.ascii,II,IIn,II-norm,0.0916,False,,True,NLS1
+ZTF19abiyyun,ZTF19abiyyun_20190808_P60_v2.ascii,II,IIn,IIn,0.0439,False,,True,Ic
+ZTF19abxgmzr,ZTF19abxgmzr_20200622_Keck1_v1.ascii,II,IIn,II-norm,0.1326,False,,True,SLSN-I.5
+ZTF19adcetym,ZTF19adcetym_20200512_P60_v1.ascii,II,IIn,II-norm,0.0619,False,,True,Ia
+ZTF19adcfsoc,ZTF19adcfsoc_20210120_Keck1_v1.ascii,II,II,II-norm,0.3029,False,,True,SLSN-I.5
+ZTF21aawtewf,ZTF21aawtewf_20210513_NOT_v1.ascii,II,II,II-norm,0.0322,False,,True,Ia
