@@ -1,0 +1,194 @@
+Hello,
+
+ 
+
+We are very very close to launching a Zooniverse project to help us with spectral classification. The problem is that SNID is littered with SNe that are considered "peculiar" and that isn't helpful to a non-expert. I want to update these labels, but I need some help (particularly for SE SNe). Below is a list of labels that I propose changing, please chime in on the SNe for which you have expertise:
+
+ 
+
+There are 3 classes that I want to change wholesale:
+
+Ic-broad >> Ic-BL
+Ic-SL >> SLSN-1
+Ia-99a >> Ia-norm
+
+
+There are also several "peculiar" SNe that we need to label (or remove), this is where I really need everyone's help.
+
+
+2005ek - Ic-pec >> ???
+2005bf - Ib-pec >> ???
+2005la - Ib-pec >> ???
+2000cx - Ia-pec >> Ia-norm or remove?
+2004aw - Ic-pec >> ???
+1987A - II-pec >> II-norm [only peculiar in photometry]
+2006gz - Ia-pec >> Ia-SC [though some argue this isn't actually SC]
+2005hk - Ia-pec >> Ia-02cx
+snls03D3bb - Ia-pec >> Ia-SC
+2008ae - Ia-pec >> Ia-02cx
+00cx - Ia-pec >> Ia-norm or remove?
+2008D - Ib-pec >> Ib-norm
+2002cx - Ia-pec >> Ia-02cx
+2007uy - Ib-pec >> ???
+08es - II-pec >> IIL
+87A - II-pec >> II-norm
+03fg - Ia-pec >> Ia-SC
+2005cc - Ia-pec >> Ia-02cx
+2008A - Ia-pec >> Ia-02cx
+2006tf - II-pec >> IIn
+05bf - Ib-pec >> ???
+2006gz - Ia-pec >> Ia-SC [though some argue this isn't actually SC]
+06gy - II-pec >> IIn
+
+I assume you mean to change to SLSN-I, with capital I and not 1 to be consistent with e.g., SN Ia, Ib, etc
+
+ 
+
+Adam, I'm not sure you have to get rid of the -pec type. Could just explain that in the instructions as well?. Anyway, if you want to clean it up here are some comments for the specific cases:
+
+ 
+
+2005ek - Ic-pec >> ??? CF: SN Ic-norm  (low mass Ic when LC is taken into account)
+2005bf - Ib-pec >> ??? CF: not so sure here, this allegedly transitions from a Ic to a Ib. perhaps set it to SN Ib/c?, or remove
+2005la - Ib-pec >> ??? CF: Ibn or maybe Ib-narrow to be consistent with the format
+2000cx - Ia-pec >> Ia-norm or remove?
+2004aw - Ic-pec >> ??? CF: SN Ic-norm
+1987A - II-pec >> II-norm [only peculiar in photometry], CF: OK
+2006gz - Ia-pec >> Ia-SC [though some argue this isn't actually SC]
+2005hk - Ia-pec >> Ia-02cx
+snls03D3bb - Ia-pec >> Ia-SC
+2008ae - Ia-pec >> Ia-02cx
+00cx - Ia-pec >> Ia-norm or remove?
+2008D - Ib-pec >> Ib-norm
+2002cx - Ia-pec >> Ia-02cx
+2007uy - Ib-pec >> ??? CF: SN Ib-norm
+08es - II-pec >> IIL, CF: should be just Type II right if you want to be consistent with putting 87A as SN II
+87A - II-pec >> II-norm, CF: OK
+03fg - Ia-pec >> Ia-SC
+2005cc - Ia-pec >> Ia-02cx
+2008A - Ia-pec >> Ia-02cx
+2006tf - II-pec >> IIn
+05bf - Ib-pec >> ??? CF: not so sure here, this allegedly transitions from a Ic to a Ib. perhaps set it to SN Ib/c?, or remove
+2006gz - Ia-pec >> Ia-SC [though some argue this isn't actually SC]
+06gy - II-pec >> IIn
+
+Hi Adam,
+
+ 
+
+I’m a bit unclear to what exactly the aim is of the relabelling. I see that being more descriptive than just -pec is good but equally Ia-02cx is not going to mean anything to the public.
+
+ 
+
+I really don’t like Ia-SC as a descriptive term since it seems increasingly unlikely that these are the explosions of white dwarfs above the Mch limit. If it’s just a label then it’s fine.
+
+ 
+
+SN 2003fg is another name for snls03D3bb
+
+00cx - Ia-pec >> Ia-norm or remove? [KM: Can you include it as 00cx-like? They’re not quite normal]
+
+ 
+
+Cheers,
+
+Kate
+
+Hi All,
+
+ 
+
+Thanks Jesper for bringing this to my attention.
+
+I mostly concur with what has been stated below, a few more comments in blue.
+
+Best
+
+Avishay
+
+ 
+
+ 
+
+I assume you mean to change to SLSN-I, with capital I and not 1 to be consistent with e.g., SN Ia, Ib, etc
+
+ 
+
+Adam, I'm not sure you have to get rid of the -pec type. Could just explain that in the instructions as well?. Anyway, if you want to clean it up here are some comments for the specific cases:
+
+ 
+
+>>> I do think that the “pec” tag is used way too much, and is not useful in a classification
+
+>>> setting since it is not specified what is peculiar and how. If we are working on a
+
+>>> spectroscopic classification project, then objects that are spectroscopically regular
+
+>>> should not be tagged as peculiar.
+
+ 
+
+2005ek - Ic-pec >> ??? CF: SN Ic-norm  (low mass Ic when LC is taken into account)
+2005bf - Ib-pec >> ??? CF: not so sure here, this allegedly transitions from a Ic to a Ib. perhaps set it to SN Ib/c?, or remove
+
+ 
+
+>>> SN 2005bf is a spectroscopically regular SN Ib at peak (see my review in the SN handbook,
+
+>>> Fig. 10) with very obvious He lines. Keep it as a SN Ib. It has a peculiar light curve, but this is
+
+>>> not relevant.
+
+
+2005la - Ib-pec >> ??? CF: Ibn or maybe Ib-narrow to be consistent with the format
+
+ 
+
+>>> It is a transitional Ibn that shows also H. You can keep as Ibn if you want to keep it simple, 
+
+>>> and save another tag (Ibn-transitional)
+
+
+2000cx - Ia-pec >> Ia-norm or remove?
+
+ 
+
+>>> This event is peculiar mostly in the photometric sense and less so in spectra, so I don’t think 
+
+>>> you need it at all.
+
+
+2004aw - Ic-pec >> ??? CF: SN Ic-norm
+
+ 
+
+>>> This event is “in between” SNe Ic and Ic-BL. I would remove it since its early spectra are
+
+>>> similar to Ic-BL, so if you keep it as Ic, you will have a leak of Ic-BLs into the regular ones.
+
+ 
+1987A - II-pec >> II-norm [only peculiar in photometry], CF: OK
+2006gz - Ia-pec >> Ia-SC [though some argue this isn't actually SC]
+2005hk - Ia-pec >> Ia-02cx
+snls03D3bb - Ia-pec >> Ia-SC
+2008ae - Ia-pec >> Ia-02cx
+00cx - Ia-pec >> Ia-norm or remove? >> yes, see same object above
+2008D - Ib-pec >> Ib-norm
+2002cx - Ia-pec >> Ia-02cx
+2007uy - Ib-pec >> ??? CF: SN Ib-norm
+08es - II-pec >> IIL, CF: should be just Type II right if you want to be consistent with putting 87A as SN II
+87A - II-pec >> II-norm, CF: OK
+
+ 
+
+>>> agree – the SN II photometric subclasses are all spectroscopically regular.
+
+
+03fg - Ia-pec >> Ia-SC
+2005cc - Ia-pec >> Ia-02cx
+2008A - Ia-pec >> Ia-02cx
+2006tf - II-pec >> IIn
+05bf - Ib-pec >> ??? CF: not so sure here, this allegedly transitions from a Ic to a Ib. perhaps set it to SN Ib/c?, or remove >>> see same object above
+2006gz - Ia-pec >> Ia-SC [though some argue this isn't actually SC]
+06gy - II-pec >> IIn
+
